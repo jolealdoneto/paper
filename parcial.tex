@@ -75,7 +75,7 @@
 \begin{figure}[!t]
   \centering
   \includegraphics[width=0.35\textwidth]{imgs/system.jpeg}
-  \caption{Typical structure of an Offloading Framework}
+  \caption{Structure of an Offloading Framework}
   \label{fig:systemDiagram}
 \end{figure}
 
@@ -154,7 +154,19 @@
   As seen in section \ref{sec:energy}, the two modifier constants $C_{cpu}$ and $C_{radio}$ are used. They are necessary for a real mapping between energy and time. Their values are tabular and should be extracted from the data sheet of the devices. In a later time, with the values in hand, the framework can check the device's manufacturer and set the constants according to the data provided.
 
   \subsection{Location aware bandwidth prediction}
-  When on mobile data, the framework will act differently in order to predict real values for the current bandwidth. 
+  When on mobile data, the framework acts differently in order to predict real values for the current bandwidth. A slightly modified Shannon's equation is used, together with the current noise-to-signal ration acquired in real time from the mobile device. More formally, when receiving the perceived bandwidth $bw$, and the noise-to-signal ratio $SNR$, the LAC/CID from the current radio tower connected, a value $S$ is recorded in the database defined by:
+
+  \begin{equation} \label{eq:shannonbw}
+    S := bw / log_2(1 + SNR)
+  \end{equation}
+
+  The stored result will be then later retrieved to provide a location aware bandwidth, that will better describe the conditions at that location, taking into account the signal quality and tower wide band capacity. For retrieving the bandwidth in a later time, the following reverse equation is used:
+
+  \begin{equation} \label{eq:shannonbw_reverse}
+    S_{reverse} := S / log_2(1 + SNR)
+  \end{equation}
+
+  This way, a new educated guess is retrieved according to new values of $SNR$ and $S$ at the tower. Upon new data, this value is updated maintaining therefore the most actual state.
 
 \begin{figure*}[!t]
   \centering
@@ -164,14 +176,14 @@
 \end{figure*}
 
   \section{Preparation for Experiments}
-  The isolated testing of an offloading decision engine would not make much sense. Most part of input come from other parts of the system (the algorithm and arguments that come from the client side and the execution time results that come from the remote execution platform) and the output can only be really assessed when compared to a real scenario. For experimenting the effectiveness of the decision engine, a full-sized Android application for calculating the \textit{Fibonacci numbers} was created as proof-of-concept. The decision engine described in this work was used together with an Offloading Framework, which lies outside the scope of this project, to test predictions and correctness of the responses.
+  For experimenting the effectiveness of the decision engine, a full-sized Android application for calculating the \textit{Fibonacci numbers} was created as proof-of-concept. The decision engine described in this work was used together with an Offloading Framework, which lies outside the scope of this project, to test predictions and correctness of the responses.
 
   \subsection{Offloading framework}
   The offloading framework used is a parallel work in development. It has a simple structure: (a) Post-compiler bytecode manipulator to inject method interceptors; (b) Remote execution platform running a Dalvik Virtual Machine \cite{ehringer2010dalvik}; (c) Offloading client library for server connection handling, serialization and deserialization, decision engine and instrumentation.
 
-  This work will be plugged in (c). The remaining parts of the framework will be briefly explained for contextualization, but its scope differ from this project.
+  The proposed decision engine is plugged into (c). The remaining parts of the framework will be briefly explained for contextualization, but its scope differ from this project.
 
-  The post-compiler bytecode manipulator receives an APK as input. It looks for the annotation "OffloadCandidate" in methods, creates a renamed copy of them, modifies its body adding the necessary calls for intercepting and triggering the decision engine. It then invokes the local or remote execution according to output. It outputs an APK which is only a modified version of the original one with the extra methods stubs. The remote platform is one or more servers running a DalvikVM. In each instance a server application receives pings and requests of clients. In case of requests for remote execution it receives the serialized arguments, runs the given method and returns the output.
+  The post-compiler bytecode manipulator receives an Android APK application as input and outputs a modified APK with the offloading stubs. It looks for the annotation "OffloadCandidate" in methods, creates a renamed copy of them, and modifies its body adding the necessary calls for intercepting and triggering the decision engine. It then invokes the local or remote execution according to the output of the decision engine. The remote platform is composed of one or more servers running a DalvikVM. In each instance a server application receives pings and requests of clients. In case of requests for remote execution it receives the serialized arguments, runs the given method and returns the output.
 
   \subsection{Fibonacci Numbers application}
   An android application for calculating the \textit{fibonacci numbers} was created as a proof-of-concept. It offers basic functionality and can be easily attested for correctness and effectiveness, as its output and behaviour is predictable and limited. Among other reasons its development is easily portable to other languages and very fast to be implemented. A simple wrap application was created having a single method determining the Fibonacci numbers. This was annotated as an "OffloadCandidate" in order to be modified by the post-compiler. The user can then choose the number to be calculated and press a button to receive the result.
