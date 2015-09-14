@@ -46,7 +46,7 @@
 \maketitle
 
 \begin{abstract}
-  Mobile computational offloading is a promising field in the area of mobile computing. Its benefits range from better responsiveness to less energy dependent applications. One of the big challenges in decent offloading frameworks is context-dependant dynamic evaluation of whether offloading at the moment is the right decision or not. This work proposes a location dependent decision engine for better bandwidth, RTT and execution time prediction. This approach assesses situations that were not foreseen in similar projects and promises better approximations, thus better decisions. This work also models the problem to give the user the possibility of weighting between energy and responsiveness when offloading.
+  Mobile computational offloading is a promising field in the area of mobile computing. Its benefits range from better responsiveness to less energy dependent applications. One of the big challenges in decent offloading frameworks is context-dependant dynamic evaluation of whether offloading at the moment is the right decision or not. This work proposes a location dependent decision engine for better bandwidth, RTT and execution time prediction. This work develops a new black-box approach to estimate method execution time through little to no interference from the application developer. Additionally, it creates the possibility of choosing a ratio between responsiveness and energy saving. [TODO: INSERT SMALL RESULTS HERE]
 \end{abstract}
 
 \section{Introduction}
@@ -176,7 +176,7 @@
 \end{figure*}
 
   \section{Preparation for Experiments}
-  For experimenting the effectiveness of the decision engine, a full-sized Android application for calculating the \textit{Fibonacci numbers} was created as proof-of-concept. The decision engine described in this work was used together with an Offloading Framework, which lies outside the scope of this project, to test predictions and correctness of the responses.
+  For experimenting the effectiveness of the decision engine, a full-sized Android application for recognizing faces was created as proof-of-concept. The decision engine described in this work was used together with an Offloading Framework, which lies outside the scope of this project, to test predictions and correctness of the responses.
 
   \subsection{Offloading framework}
   The offloading framework used is a parallel work in development. It has a simple structure: (a) Post-compiler bytecode manipulator to inject method interceptors; (b) Remote execution platform running a Dalvik Virtual Machine \cite{ehringer2010dalvik}; (c) Offloading client library for server connection handling, serialization and deserialization, decision engine and instrumentation.
@@ -185,25 +185,11 @@
 
   The post-compiler bytecode manipulator receives an Android APK application as input and outputs a modified APK with the offloading stubs. It looks for the annotation "OffloadCandidate" in methods, creates a renamed copy of them, and modifies its body adding the necessary calls for intercepting and triggering the decision engine. It then invokes the local or remote execution according to the output of the decision engine. The remote platform is composed of one or more servers running a DalvikVM. In each instance a server application receives pings and requests of clients. In case of requests for remote execution it receives the serialized arguments, runs the given method and returns the output.
 
-  \subsection{Fibonacci Numbers application}
-  An android application for calculating the \textit{fibonacci numbers} was created as a proof-of-concept. It offers basic functionality and can be easily attested for correctness and effectiveness, as its output and behaviour is predictable and limited. Among other reasons its development is easily portable to other languages and very fast to be implemented. A simple wrap application was created having a single method determining the Fibonacci numbers. This was annotated as an "OffloadCandidate" in order to be modified by the post-compiler. The user can then choose the number to be calculated and press a button to receive the result.
-
-  \begin{lstlisting}[caption=Fibonacci Numbers calculation, label=lst:fibonacci]
-	@OffloadCandidate
-	public int fibonacciRecusion(
-      @RelevantParameter(weight=1)Integer number){
-
-        if(number == 1 || number == 2){
-            return 1;
-        } 
-        return fibonacciRecusion(number-1) + fibonacciRecusion(number -2); //tail recursion
-    }
-  \end{lstlisting}
-
-  In code listing \ref{lst:fibonacci} one can see the naive approach of the method. This was made on purpose to easily yield outrageous intense calculation with already small inputs.
+  \subsection{Face detection}
+  An android application for detecting faces on given images was created as a proof-of-concept. It offers basic functionality receiving an URL of an image. It then proceeds to download it and detect the locations of faces on the object. Further on, it shows on the screen the faces delineated by a simple red square. A method that receives the image's internet address was created, outputting a byte stream with a downscaled image with the faces already marked by a red square. It was additionally annotated as an "OffloadCandidate" in order to be modified by the post-compiler. The user can then choose the number to be calculated and press a button to receive the result.
 
   \subsection{Remote platform}
-  Several instances can be created to serve requests according to demand. For this purpose, one instance was spun to be liable for requests. To diminish costs, a \textit{Droplet} snapshot in DigitalOcean's infrastructure \cite{digitalocean} was prepared. DigitalOcean offers IaaS (infrastructure as a service) virtual machines that are charged only for time used. That means that a powerful machine can be created, used for some hours and then brought down with very low monetary costs. DigitalOcean offers a 3GHz Intel Hexcore processor to all its Droplets. The VM sports 4GB RAM to run the DalvikVM with the server application in it. The DalvikVM of choice was a regular android AVD emulator image. It was created using the Android AVD Manager \cite{androidavd}, which offers full-fledged control over the emulator with the \textit{adb} tool set. Additionally it can run headless and allows remote access via ssh.
+  Several instances can be created to serve requests according to demand. For this purpose, one instance was spun to be liable for requests. To diminish costs, a \textit{Droplet} snapshot in DigitalOcean's infrastructure \cite{digitalocean} was prepared. DigitalOcean offers IaaS (infrastructure as a service) virtual machines that are charged only for time used. DigitalOcean offers a 3GHz Intel Hexcore processor with 4GB RAM. The server runs the DalvikVM with the server application in it. The DalvikVM is a regular android AVD emulator image. That was created using the Android AVD Manager \cite{androidavd}.
 
   \subsection{Mobile platform}
   The mobile cellphone used for the tests was a Samsung Galaxy S5, which is powered by a Snapdragon 801 processor having a 2.5 GHz quad-core CPU and 2GB RAM. We can see that we are almost facing a technology convergence regarding computing power between the platforms. The only difference is that depending on context, the Snapdragon chipset can rule down CPU clock to save battery, leading to limited performance.
