@@ -5,12 +5,12 @@ set boxwidth 0.5
 set style fill solid
 
 set xlabel "Execution time in seconds"
-set ylabel "Battery delta"
+set ylabel "Battery usage (%)"
 
 set terminal png size 1200,550 enhanced font "Helvetica,20"
 set output "executions.png"
 
 set key outside
 
-plot 'no_offloading.csv' using 1:2 with lines ls 1 title "No Offloading",\
-     'with_offloading.csv' using 1:2 with lines ls 2 title "With Offloading"
+plot 'no_offloading.csv' using 1:2 with lines ls 1 title "Unmodified",\
+     'with_offloading.csv' using 1:2 with lines ls 2 title "Offloading"

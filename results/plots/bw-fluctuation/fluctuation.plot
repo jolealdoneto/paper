@@ -5,7 +5,7 @@ set boxwidth 0.5
 set style fill solid
 
 set xlabel "Execution time in seconds"
-set ylabel "Bandwidth"
+set ylabel "Bandwidth (bps)"
 
 set terminal png size 1200,550 enhanced font "Helvetica,20"
 set output "executions.png"
@@ -54,5 +54,5 @@ set obj 11 fillstyle solid 1.0 fillcolor rgb "#f5f5ff"
 set obj 12 rectangle behind from first 1084, graph 0 to first 1200, graph 1 back
 set obj 12 fillstyle solid 1.0 fillcolor rgb "#ffd8d8"
 
-plot 'bw-data.data' using 1:2 with lines ls 1 title "Download Bandwidth",\
-     'bw-data.data' using 1:3 with lines ls 2 title "Upload Bandwidth"
+plot 'bw-data.data' using 1:2 with lines ls 1 title "Download",\
+     'bw-data.data' using 1:3 with lines ls 2 title "Upload"
