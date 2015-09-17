@@ -168,12 +168,12 @@
 
   This way, a new educated guess is retrieved according to new values of $SNR$ and $S$ at the tower. Upon new data, this value is updated maintaining therefore the most actual state.
 
-\begin{figure*}[!t]
+\begin{figure}[!t]
   \centering
-  \includegraphics[width=1\textwidth]{plots/executions/executions.png}
-  \caption{Results of experiments using $\alpha = 0.35$. One can see how the remote platform has a milder execution-time curve. Summing the value of RTT+Remote-execution one can devise the point where offloading is the optimal choice.}
+  \includegraphics[width=0.4\textwidth]{imgs/app.png}
+  \caption{Demo from the Application developed}
   \label{fig:exectime}
-\end{figure*}
+\end{figure}
 
   \section{Preparation for Experiments}
   For experimenting the effectiveness of the decision engine, a full-sized Android application for recognizing faces was created as proof-of-concept. The decision engine described in this work was used together with an Offloading Framework, which lies outside the scope of this project, to test predictions and correctness of the responses.
@@ -186,7 +186,7 @@
   The post-compiler bytecode manipulator receives an Android APK application as input and outputs a modified APK with the offloading stubs. It looks for the annotation "OffloadCandidate" in methods, creates a renamed copy of them, and modifies its body adding the necessary calls for intercepting and triggering the decision engine. It then invokes the local or remote execution according to the output of the decision engine. The remote platform is composed of one or more servers running a DalvikVM. In each instance a server application receives pings and requests of clients. In case of requests for remote execution it receives the serialized arguments, runs the given method and returns the output.
 
   \subsection{Face detection}
-  An android application for detecting faces on given images was created as a proof-of-concept. It offers basic functionality receiving an URL of an image. It then proceeds to download it and detect the locations of faces on the object. Further on, it shows on the screen the faces delineated by a simple red square. A method that receives the image's internet address was created, outputting a byte stream with a downscaled image with the faces already marked by a red square. It was additionally annotated as an "OffloadCandidate" in order to be modified by the post-compiler. The user can then choose the number to be calculated and press a button to receive the result.
+  An android application for detecting faces on given images was created as a proof-of-concept. It offers basic functionality receiving an URL of an image. It then proceeds to download it and detect the locations of faces on the object. Further on, it shows on the screen the faces delineated by a simple red square. A method that receives the image's internet address was created, outputting a byte stream with a downscaled image with the faces already marked by a red square. It was additionally annotated as an "OffloadCandidate" in order to be modified by the post-compiler.
 
   \subsection{Remote platform}
   Several instances can be created to serve requests according to demand. For this purpose, one instance was spun to be liable for requests. To diminish costs, a \textit{Droplet} snapshot in DigitalOcean's infrastructure \cite{digitalocean} was prepared. DigitalOcean offers IaaS (infrastructure as a service) virtual machines that are charged only for time used. DigitalOcean offers a 3GHz Intel Hexcore processor with 4GB RAM. The server runs the DalvikVM with the server application in it. The DalvikVM is a regular android AVD emulator image. That was created using the Android AVD Manager \cite{androidavd}.
@@ -194,38 +194,49 @@
   \subsection{Mobile platform}
   The mobile cellphone used for the tests was a Samsung Galaxy S5, which is powered by a Snapdragon 801 processor having a 2.5 GHz quad-core CPU and 2GB RAM. We can see that we are almost facing a technology convergence regarding computing power between the platforms. The only difference is that depending on context, the Snapdragon chipset can rule down CPU clock to save battery, leading to limited performance.
 
-  \section{Experiments}
-  Using the Android application one can create several experiments, varying the $\alpha$ parameter, network state and location. The experiments were all made under real circumstances, not being simulated or emulated in any case.
+  \section{Experiment}
+  The main goal is now to test whether the decision engine is actually working under real life circumstances. The experiments were conducted in order assess the differences between an application with and without the Offloading Framework. The version including the framework, the decision engine of this project was used.
 
-  \subsection{Experiment 1: $\alpha = 0.35$}
-  The alpha value, that can be recalled from section \ref{sec:design} was set to an arbitrary but concious value $\alpha = 0.35$. This means basically that it will favour saving energy rather than trying to give more responsiveness. This value was chosen after some testing and it proved to deliver the best ratio between energy and responsiveness. Further testing was made using different parameters. This can be seen later in this section. The execution-time results can be seen in \ref{fig:exectime}. They were obtained by running the application inside a WiFi connectivity environment.
-
-  According to figure \ref{fig:exectime}, one can see the simple and predictable behaviour of he fibonacci function regarding time execution. It is a quadratic function, almost doubling its execution time as input grows. At first, with small numbers, the local mobile platform can easily outrun the remote platform, delivering near zero-delay results, thus making a clear point when \textbf{not} to offload. The blue line represents the RTT at the time. Summing the value from the RTT with the value of the remote execution-time bar, a longer time is obtained. That means we are not profiting neither in energy nor responsiveness. Starting from Fibonacci number 36, one can see that summing the values from the remote execution and RTT yield a smaller value than the local execution, portraying a clear advantage over local execution.
+  The total of 36 URLs were chosen, containing images from various sizes, colors and dimensions. Some of them contained a crowd with people whereas in others just one person. One can therefore test the performance of the methods and the correct instrumentation of each of them. The test consists of executing the method providing these images in a cycle, 10 times in a row, occupying therefore the CPU and radio for about 20 minutes. This experiment should be carried in both versions of the application under the same conditions. The same route was made in both versions carrying out the test in LTE Radio in a car on movement. Both versions were run under normal battery conditions, without entering the battery saving mode. The screen was maintained off the whole time and there were no other applications running on the background.
 
 \begin{figure*}[!t]
   \centering
-  \includegraphics[width=1\textwidth]{plots/threshold/executions.png}
-  \caption{Line plot summing RTT and Remote time execution versus local execution. Regions are created in the graph, representing the offloading decision.}
-  \label{fig:graphregions}
+  \includegraphics[width=1\textwidth]{results/plots/executions.png}
+  \caption{Battery usage}
+  \label{fig:batteryusage}
 \end{figure*}
 
-Creating a spline for predicting the curve proved to be something essential from an architecture point of view. This made the evaluation of the expected value easier. After some testing was clear, how a decision region was formed. Since the assessment function is a monotonically increasing function, execution time will grow directly proportionally to it. It follows the idea that after some point, there is no need anymore to evaluate the curve completely. One can see that if we have two assessments $A$ and $A'$, such that $A \leq A'$, respective execution times $e$ and $e'$ will be $e \leq e'$ as a rule. One need to simply find for some $A'$ and some $A$ where $e + RTT \leq e'$. If found, it means that offloading will be the optimal solution at the time. In figure \ref{fig:graphregions} the decision regions are shown separated by a vertical line. The line's assessment point is the $A$ for all $A'$ above that point.
+  \section{Results}
+
+  A good result set could be extracted from the experiment above. The version with the Offloading Framework used over 50\% less battery than its counterpart. One can see in figure \ref{fig:batteryusage} how the battery usage from the framework version has a significant softer curve than the unmodified version. This can be explained by data volume and CPU used by each one them: Because the Offloading Version is not required to fetch the whole image directly, parse it and detect the faces on it, it will locally use less resources. The interesting scenario is when the image is relatively small and it is more efficient to simply download it directly and perform the work locally in the mobile. This may also happen when bandwidth is small.
 
 \begin{figure}[!t]
   \centering
-  \includegraphics[width=0.5\textwidth]{plots/map/map-plot.png}
-  \caption{Map built with the help of Google maps API to picture execution positions.}
-  \label{fig:mapplot}
+  \includegraphics[width=0.5\textwidth]{results/plots/utility-fluctuation/executions.png}
+  \caption{Battery usage}
+  \label{fig:utilityplot}
 \end{figure}
 
-  \subsection{Location aware bandwidth}
-  As claimed in this work, a location aware entity would profit greatly when predicting bandwidth. Moving around the city, our experiments attest this behaviour. The application was used while on movement, calling the offload candidate method with 4G and WiFi connectivity to observe how bandwidth changes according to location. In figure \ref{fig:mapplot}, selected points are shown. One can observe several bandwidth variations, which were updated using the formula \ref{eq:bandwidthup}. In the case of connectivity type \textit{WiFi}, the previous bandwidth values from the same SSID or in a radius from 500 meters is taken. That means that we have a shallow variation starting from the known previous value, thus not needing to wait for a request to actually complete before predicting bandwidth.
-  
-  The system behaves a little different when facing non-wifi connectivity type: in this case the point is recorded and requests in the range of 1km will be considered. Point $p_3$ and $p_4$ seen in the image present small difference in their bandwidth values, which can prove the idea that close points will have close values. Although location could already help very much at some point, we must note that sometimes, location was stale and did not help much. To maintain a non-energy hungry behaviour, location is only updated when the device decides so. That means the user may have moved some kilometers before a new position can be acquired. In an urban environment that may not be a problem since antenna coverage is decent and is maintained across some kilometers.
+  \subsection{Utility Functions}
+  Modeling the system into utility functions facilitated the post-analysis. As they are directly proportional to bandwidth, argument/result size and execution time, one can recognize the pattern of its curves. Figure \ref{fig:utilityplot} shows in relation to time how the utility functions behaved. When the curve \"Utility Local\" goes bellow \"Utility Remote\", the decision engine will execute the code locally. This happened a few times in specific images and situations. Looking at the oscillation of the curves, one can recognize bigger images and smaller images. The high peaks mean a very big image, which has a corresponded peak in each curve, having it smaller in the offloading framework version. 
 
-  \subsection{Alpha parameter}
+  \subsection{Location aware}
+  As said before, the LAC/CID of the cell towers were stored together with its bandwidth. This proved to be important as its value varies for every tower. In some, we can clearly a big difference, which can may indicated that Offloading is not possible. In figure \ref{fig:bwtime} one can see the difference between these values according to tower and time. Areas with different background color, mean that the tower was changed. 
 
-  Finding the correct parametrization for each application is an important task. Much can be discovered by simply setting scattered alpha values and seeing the outcome. In this case, a turning point was found: An assessment value was discovered, where different parametrization yield different boolean answers. Another discovery was made: bandwidth and CPU availability play also a significant role. In table \ref{table:alpha} we have 4 executions, each with the same assessment, but run in different conditions. The \textit{Remote} and \textit{Local} column represent respectively the result of the utility functions \ref{eq:remoteutility} and \ref{eq:localutility}. The smaller value will be chosen as boolean answer. As one can see, although the alpha value did not change, a different answer was received at the end. This happens because of the current network state (bandwidth) and the CPU activity at the time. In line 2, the local utility function has a smaller value, thus meaning that CPU was relatively free and computed the method faster.
+\begin{figure}[!b]
+  \centering
+  \includegraphics[width=0.5\textwidth]{results/plots/laccid-bw/bars.png}
+  \caption{Bandwidth values for each LAC/CID}
+  \label{fig:bwtime}
+\end{figure}
+
+\begin{figure*}[!b]
+  \centering
+  \includegraphics[width=1\textwidth]{results/plots/bw-fluctuation/executions.png}
+  \caption{Bandwidth values for each tower}
+  \label{fig:bwtower}
+\end{figure*}
+
 
   \begin{table}[!t]
   \centering

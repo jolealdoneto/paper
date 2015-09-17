@@ -1,0 +1,1093 @@
+2015-09-15 12:43:09,837 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - Starting test.
+2015-09-15 12:43:09,839 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---------- BATTERY LEVEL: 89
+2015-09-15 12:43:09,839 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - Test#0
+2015-09-15 12:43:09,840 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ===============================
+2015-09-15 12:43:09,840 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 89
+2015-09-15 12:43:09,841 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 0 from 35
+2015-09-15 12:43:09,841 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://thumbs.dreamstime.com/z/viele-verschiedenen-menschlichen-gesichter-21328077.jpg
+2015-09-15 12:43:13,927 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 89
+2015-09-15 12:43:13,928 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 1 from 35
+2015-09-15 12:43:13,929 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://ishootthepictures.files.wordpress.com/2011/06/vincent2bprice-1.jpg
+2015-09-15 12:43:18,453 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 89
+2015-09-15 12:43:18,454 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 2 from 35
+2015-09-15 12:43:18,455 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://thumbs.dreamstime.com/z/lots-faces-17959298.jpg
+2015-09-15 12:43:21,162 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 89
+2015-09-15 12:43:21,162 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 3 from 35
+2015-09-15 12:43:21,163 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.tumblr.com/93e033ed5b263d7e74512f58c3699318/9bfmqds/7Ppn5b518/tumblr_static_1ivgnnby2hs0888ko8cs88swc.jpg
+2015-09-15 12:43:23,976 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 89
+2015-09-15 12:43:23,976 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 4 from 35
+2015-09-15 12:43:23,977 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.dominicanfashionmodelsblog.com/wp-content/uploads/2014/01/PicMonkey-Collage.jpg
+2015-09-15 12:43:29,680 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 89
+2015-09-15 12:43:29,682 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 5 from 35
+2015-09-15 12:43:29,683 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://4.bp.blogspot.com/-XdZBpZZSQt4/Tm9YbUH1fWI/AAAAAAAAGBw/mim26LFXW_I/s1600/Cam%2BGreig%2B055.jpg
+2015-09-15 12:43:32,371 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 89
+2015-09-15 12:43:32,372 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 6 from 35
+2015-09-15 12:43:32,372 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.artbyphil.com/phfx/dib/art00002_LightingInADigitalAge/bigs/LotsOfLights.jpg
+2015-09-15 12:43:36,794 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 89
+2015-09-15 12:43:36,796 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 7 from 35
+2015-09-15 12:43:36,796 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://imgick.nj.com/home/njo-media/width960/img/star-ledger/photo/2013/08/-20429c7f73b547f3.jpg
+2015-09-15 12:43:38,802 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 89
+2015-09-15 12:43:38,803 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 8 from 35
+2015-09-15 12:43:38,804 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.photo.net/attachments/bboard/00Z/00Zlmt-426785684.jpg
+2015-09-15 12:43:40,665 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 89
+2015-09-15 12:43:40,666 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 9 from 35
+2015-09-15 12:43:40,667 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://images.travelpod.com/tw_slides/ta00/9ce/46c/lots-of-smiley-faces-tuticorin.jpg
+2015-09-15 12:43:42,848 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 89
+2015-09-15 12:43:42,849 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 10 from 35
+2015-09-15 12:43:42,851 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cs.brown.edu/courses/cs143/results/proj4/asunderl/data/classface2.png
+2015-09-15 12:43:48,012 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 89
+2015-09-15 12:43:48,013 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 11 from 35
+2015-09-15 12:43:48,014 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.bucksketball.com/wp-content/uploads/2013/03/photos4.jpg
+2015-09-15 12:43:49,157 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 89
+2015-09-15 12:43:49,158 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 12 from 35
+2015-09-15 12:43:49,158 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://worldonline.media.clients.ellingtoncms.com/img/croppedphotos/2011/10/14/medianewWEB_t650.jpg?eec9ecda5f66de59a37bbdb23c6f48523261b548
+2015-09-15 12:43:50,736 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 89
+2015-09-15 12:43:50,737 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 13 from 35
+2015-09-15 12:43:50,738 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11357296_1656525614576589_1901514389_n.jpg
+2015-09-15 12:43:54,788 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 89
+2015-09-15 12:43:54,789 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 14 from 35
+2015-09-15 12:43:54,789 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.careersusa.com/portals/0/BusinessPeopleImage2.png
+2015-09-15 12:43:57,295 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 89
+2015-09-15 12:43:57,296 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 15 from 35
+2015-09-15 12:43:57,297 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.cpplcounseling.com/uploads/4/6/8/2/46828361/2181364_orig.jpg
+2015-09-15 12:44:01,309 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 89
+2015-09-15 12:44:01,310 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 16 from 35
+2015-09-15 12:44:01,311 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://captital-connection.com/wp-content/uploads/2014/10/capitalconnectionpeople.jpg
+2015-09-15 12:44:06,951 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 89
+2015-09-15 12:44:06,953 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 17 from 35
+2015-09-15 12:44:06,954 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.harbourcitydental.com/wordpress/wp-content/uploads/2010/08/Big-Group-of-People.png
+2015-09-15 12:44:15,299 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 89
+2015-09-15 12:44:15,299 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 18 from 35
+2015-09-15 12:44:15,300 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.tesco.ie/crreview08/images/SML_tesco_people.jpg
+2015-09-15 12:44:17,529 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 89
+2015-09-15 12:44:17,531 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 19 from 35
+2015-09-15 12:44:17,531 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cdn.trendhunterstatic.com/thumbs/free-people-vegan-leather.jpeg
+2015-09-15 12:44:18,485 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 89
+2015-09-15 12:44:18,487 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 20 from 35
+2015-09-15 12:44:18,487 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://dailygenius.com/wp-content/uploads/2014/12/friendly-people.jpg
+2015-09-15 12:44:32,675 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 89
+2015-09-15 12:44:32,676 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 21 from 35
+2015-09-15 12:44:32,676 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://images1.miaminewtimes.com/imager/the-six-people-you-meet-aboard-holy-ship/u/original/6471130/holy_ship_people_you_meet_miami_2014.jpg
+2015-09-15 12:44:34,483 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 89
+2015-09-15 12:44:34,484 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 22 from 35
+2015-09-15 12:44:34,485 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.nsai.ie/Our-Services-(1)/Certification/1--Excellence-Through-People/2012-ETP-Web-Page-Banner.aspx
+2015-09-15 12:44:36,902 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 89
+2015-09-15 12:44:36,903 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 23 from 35
+2015-09-15 12:44:36,903 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.ddmcdn.com/gif/11-billion-people.jpg
+2015-09-15 12:44:38,934 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:44:38,934 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 24 from 35
+2015-09-15 12:44:38,935 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://previews.123rf.com/images/andreypopov/andreypopov1309/andreypopov130900314/22381835-Happy-Group-Of-People-Dressed-In-Casual-Standing-Over-White-Background-Stock-Photo.jpg
+2015-09-15 12:44:40,762 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:44:40,764 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 25 from 35
+2015-09-15 12:44:40,764 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://canadianimmigrant.ca/wordpress/wp-content/uploads/diversity-people1.jpg
+2015-09-15 12:44:41,916 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:44:41,918 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 26 from 35
+2015-09-15 12:44:41,918 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.usabuscharter.com/Business_People_Pinnacle_Jpeg.jpg
+2015-09-15 12:44:44,751 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:44:44,753 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 27 from 35
+2015-09-15 12:44:44,753 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://photoblog.statesman.com/wp-content/uploads/2011/09/cv-acl-022.jpg
+2015-09-15 12:44:47,967 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:44:47,969 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 28 from 35
+2015-09-15 12:44:47,969 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.francisvachon.com/blog/wp-content/photo/2012/07/crowd-surfing-04.jpg
+2015-09-15 12:44:50,982 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:44:50,983 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 29 from 35
+2015-09-15 12:44:50,984 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://newsimg.bbc.co.uk/media/images/44522000/jpg/_44522490_crowd416.jpg
+2015-09-15 12:44:51,644 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:44:51,645 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 30 from 35
+2015-09-15 12:44:51,651 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://c1.staticflickr.com/9/8318/8002278966_2907d0183c.jpg
+2015-09-15 12:44:55,077 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:44:55,078 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 31 from 35
+2015-09-15 12:44:55,080 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.bob-baker.com/self-publish-book/blog/uploaded_images/FanCrowd-782710.PNG
+2015-09-15 12:44:58,257 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:44:58,259 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:44:58,259 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:44:59,007 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:44:59,007 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:44:59,008 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:44:59,008 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:44:59,009 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:44:59,010 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:44:59,013 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:44:59,014 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:44:59,016 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:44:59,017 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:44:59,017 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:44:59,018 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:44:59,019 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:44:59,019 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:44:59,019 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:44:59,020 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:44:59,021 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:44:59,021 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:44:59,022 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:44:59,022 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:44:59,023 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:44:59,023 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Quitting this url. ErrorCount: 6
+2015-09-15 12:44:59,030 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:44:59,031 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 33 from 35
+2015-09-15 12:44:59,031 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cdn.bleedingcool.net/wp-content/uploads/2013/05/the-it-crowd-s2e1-20081218145048-1_625x352.jpg?f6a06b
+2015-09-15 12:45:00,942 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:45:00,943 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 34 from 35
+2015-09-15 12:45:00,943 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.clarity-research.net/wp-content/uploads/2015/03/we-serve.jpg
+2015-09-15 12:45:04,175 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - Test#1
+2015-09-15 12:45:04,181 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ===============================
+2015-09-15 12:45:04,181 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:45:04,182 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 0 from 35
+2015-09-15 12:45:04,182 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://thumbs.dreamstime.com/z/viele-verschiedenen-menschlichen-gesichter-21328077.jpg
+2015-09-15 12:45:07,099 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:45:07,100 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 1 from 35
+2015-09-15 12:45:07,100 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://ishootthepictures.files.wordpress.com/2011/06/vincent2bprice-1.jpg
+2015-09-15 12:45:11,593 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:45:11,594 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 2 from 35
+2015-09-15 12:45:11,594 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://thumbs.dreamstime.com/z/lots-faces-17959298.jpg
+2015-09-15 12:45:14,187 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:45:14,188 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 3 from 35
+2015-09-15 12:45:14,188 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.tumblr.com/93e033ed5b263d7e74512f58c3699318/9bfmqds/7Ppn5b518/tumblr_static_1ivgnnby2hs0888ko8cs88swc.jpg
+2015-09-15 12:45:17,056 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:45:17,057 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 4 from 35
+2015-09-15 12:45:17,057 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.dominicanfashionmodelsblog.com/wp-content/uploads/2014/01/PicMonkey-Collage.jpg
+2015-09-15 12:45:24,365 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:45:24,366 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 5 from 35
+2015-09-15 12:45:24,366 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://4.bp.blogspot.com/-XdZBpZZSQt4/Tm9YbUH1fWI/AAAAAAAAGBw/mim26LFXW_I/s1600/Cam%2BGreig%2B055.jpg
+2015-09-15 12:45:26,961 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:45:26,962 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 6 from 35
+2015-09-15 12:45:26,963 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.artbyphil.com/phfx/dib/art00002_LightingInADigitalAge/bigs/LotsOfLights.jpg
+2015-09-15 12:45:32,140 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:45:32,141 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 7 from 35
+2015-09-15 12:45:32,142 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://imgick.nj.com/home/njo-media/width960/img/star-ledger/photo/2013/08/-20429c7f73b547f3.jpg
+2015-09-15 12:45:33,514 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:45:33,515 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 8 from 35
+2015-09-15 12:45:33,515 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.photo.net/attachments/bboard/00Z/00Zlmt-426785684.jpg
+2015-09-15 12:45:35,079 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:45:35,080 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 9 from 35
+2015-09-15 12:45:35,081 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://images.travelpod.com/tw_slides/ta00/9ce/46c/lots-of-smiley-faces-tuticorin.jpg
+2015-09-15 12:45:36,664 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:45:36,667 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 10 from 35
+2015-09-15 12:45:36,669 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cs.brown.edu/courses/cs143/results/proj4/asunderl/data/classface2.png
+2015-09-15 12:45:39,320 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:45:39,321 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 11 from 35
+2015-09-15 12:45:39,321 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.bucksketball.com/wp-content/uploads/2013/03/photos4.jpg
+2015-09-15 12:45:40,487 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:45:40,487 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 12 from 35
+2015-09-15 12:45:40,488 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://worldonline.media.clients.ellingtoncms.com/img/croppedphotos/2011/10/14/medianewWEB_t650.jpg?eec9ecda5f66de59a37bbdb23c6f48523261b548
+2015-09-15 12:45:42,217 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:45:42,218 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 13 from 35
+2015-09-15 12:45:42,218 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11357296_1656525614576589_1901514389_n.jpg
+2015-09-15 12:45:44,594 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:45:44,595 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 14 from 35
+2015-09-15 12:45:44,596 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.careersusa.com/portals/0/BusinessPeopleImage2.png
+2015-09-15 12:45:47,229 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:45:47,229 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 15 from 35
+2015-09-15 12:45:47,231 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.cpplcounseling.com/uploads/4/6/8/2/46828361/2181364_orig.jpg
+2015-09-15 12:45:50,719 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:45:50,720 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 16 from 35
+2015-09-15 12:45:50,721 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://captital-connection.com/wp-content/uploads/2014/10/capitalconnectionpeople.jpg
+2015-09-15 12:45:55,938 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:45:55,940 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 17 from 35
+2015-09-15 12:45:55,940 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.harbourcitydental.com/wordpress/wp-content/uploads/2010/08/Big-Group-of-People.png
+2015-09-15 12:46:03,075 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:03,077 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 18 from 35
+2015-09-15 12:46:03,077 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.tesco.ie/crreview08/images/SML_tesco_people.jpg
+2015-09-15 12:46:04,960 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:04,961 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 19 from 35
+2015-09-15 12:46:04,963 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cdn.trendhunterstatic.com/thumbs/free-people-vegan-leather.jpeg
+2015-09-15 12:46:06,093 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:06,095 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 20 from 35
+2015-09-15 12:46:06,100 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://dailygenius.com/wp-content/uploads/2014/12/friendly-people.jpg
+2015-09-15 12:46:14,768 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:14,770 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 21 from 35
+2015-09-15 12:46:14,770 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://images1.miaminewtimes.com/imager/the-six-people-you-meet-aboard-holy-ship/u/original/6471130/holy_ship_people_you_meet_miami_2014.jpg
+2015-09-15 12:46:16,395 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:16,396 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 22 from 35
+2015-09-15 12:46:16,396 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.nsai.ie/Our-Services-(1)/Certification/1--Excellence-Through-People/2012-ETP-Web-Page-Banner.aspx
+2015-09-15 12:46:18,328 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:18,329 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 23 from 35
+2015-09-15 12:46:18,329 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.ddmcdn.com/gif/11-billion-people.jpg
+2015-09-15 12:46:20,366 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:20,366 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 24 from 35
+2015-09-15 12:46:20,367 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://previews.123rf.com/images/andreypopov/andreypopov1309/andreypopov130900314/22381835-Happy-Group-Of-People-Dressed-In-Casual-Standing-Over-White-Background-Stock-Photo.jpg
+2015-09-15 12:46:22,569 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:22,571 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 25 from 35
+2015-09-15 12:46:22,572 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://canadianimmigrant.ca/wordpress/wp-content/uploads/diversity-people1.jpg
+2015-09-15 12:46:23,592 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:23,593 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 26 from 35
+2015-09-15 12:46:23,594 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.usabuscharter.com/Business_People_Pinnacle_Jpeg.jpg
+2015-09-15 12:46:25,414 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:25,414 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 27 from 35
+2015-09-15 12:46:25,415 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://photoblog.statesman.com/wp-content/uploads/2011/09/cv-acl-022.jpg
+2015-09-15 12:46:31,995 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:31,995 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 28 from 35
+2015-09-15 12:46:31,996 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.francisvachon.com/blog/wp-content/photo/2012/07/crowd-surfing-04.jpg
+2015-09-15 12:46:34,459 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:34,459 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 29 from 35
+2015-09-15 12:46:34,460 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://newsimg.bbc.co.uk/media/images/44522000/jpg/_44522490_crowd416.jpg
+2015-09-15 12:46:34,788 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:34,789 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 30 from 35
+2015-09-15 12:46:34,791 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://c1.staticflickr.com/9/8318/8002278966_2907d0183c.jpg
+2015-09-15 12:46:37,143 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:37,143 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 31 from 35
+2015-09-15 12:46:37,149 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.bob-baker.com/self-publish-book/blog/uploaded_images/FanCrowd-782710.PNG
+2015-09-15 12:46:41,372 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:41,373 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:46:41,373 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:46:41,375 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:46:41,375 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:41,376 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:46:41,376 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:46:41,377 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:46:41,377 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:41,377 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:46:41,378 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:46:41,378 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:46:41,379 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:41,379 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:46:41,379 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:46:41,380 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:46:41,380 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:41,381 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:46:41,381 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:46:41,382 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:46:41,382 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:41,382 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:46:41,383 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:46:41,383 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:46:41,384 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Quitting this url. ErrorCount: 6
+2015-09-15 12:46:41,384 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:41,384 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 33 from 35
+2015-09-15 12:46:41,384 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cdn.bleedingcool.net/wp-content/uploads/2013/05/the-it-crowd-s2e1-20081218145048-1_625x352.jpg?f6a06b
+2015-09-15 12:46:42,778 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:42,779 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 34 from 35
+2015-09-15 12:46:42,780 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.clarity-research.net/wp-content/uploads/2015/03/we-serve.jpg
+2015-09-15 12:46:45,697 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - Test#2
+2015-09-15 12:46:45,698 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ===============================
+2015-09-15 12:46:45,699 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:45,699 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 0 from 35
+2015-09-15 12:46:45,699 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://thumbs.dreamstime.com/z/viele-verschiedenen-menschlichen-gesichter-21328077.jpg
+2015-09-15 12:46:48,667 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:48,668 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 1 from 35
+2015-09-15 12:46:48,668 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://ishootthepictures.files.wordpress.com/2011/06/vincent2bprice-1.jpg
+2015-09-15 12:46:54,040 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:54,040 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 2 from 35
+2015-09-15 12:46:54,042 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://thumbs.dreamstime.com/z/lots-faces-17959298.jpg
+2015-09-15 12:46:56,772 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:56,772 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 3 from 35
+2015-09-15 12:46:56,773 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.tumblr.com/93e033ed5b263d7e74512f58c3699318/9bfmqds/7Ppn5b518/tumblr_static_1ivgnnby2hs0888ko8cs88swc.jpg
+2015-09-15 12:46:59,084 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:46:59,086 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 4 from 35
+2015-09-15 12:46:59,087 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.dominicanfashionmodelsblog.com/wp-content/uploads/2014/01/PicMonkey-Collage.jpg
+2015-09-15 12:47:06,181 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:47:06,182 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 5 from 35
+2015-09-15 12:47:06,182 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://4.bp.blogspot.com/-XdZBpZZSQt4/Tm9YbUH1fWI/AAAAAAAAGBw/mim26LFXW_I/s1600/Cam%2BGreig%2B055.jpg
+2015-09-15 12:47:09,102 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:47:09,103 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 6 from 35
+2015-09-15 12:47:09,104 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.artbyphil.com/phfx/dib/art00002_LightingInADigitalAge/bigs/LotsOfLights.jpg
+2015-09-15 12:47:13,228 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:47:13,229 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 7 from 35
+2015-09-15 12:47:13,230 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://imgick.nj.com/home/njo-media/width960/img/star-ledger/photo/2013/08/-20429c7f73b547f3.jpg
+2015-09-15 12:47:14,889 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:47:14,891 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 8 from 35
+2015-09-15 12:47:14,891 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.photo.net/attachments/bboard/00Z/00Zlmt-426785684.jpg
+2015-09-15 12:47:16,614 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:47:16,615 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 9 from 35
+2015-09-15 12:47:16,616 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://images.travelpod.com/tw_slides/ta00/9ce/46c/lots-of-smiley-faces-tuticorin.jpg
+2015-09-15 12:47:17,965 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:47:17,966 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 10 from 35
+2015-09-15 12:47:17,966 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cs.brown.edu/courses/cs143/results/proj4/asunderl/data/classface2.png
+2015-09-15 12:47:23,237 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:47:23,245 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 11 from 35
+2015-09-15 12:47:23,246 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.bucksketball.com/wp-content/uploads/2013/03/photos4.jpg
+2015-09-15 12:47:24,272 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:47:24,274 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 12 from 35
+2015-09-15 12:47:24,275 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://worldonline.media.clients.ellingtoncms.com/img/croppedphotos/2011/10/14/medianewWEB_t650.jpg?eec9ecda5f66de59a37bbdb23c6f48523261b548
+2015-09-15 12:47:26,103 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:47:26,106 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 13 from 35
+2015-09-15 12:47:26,106 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11357296_1656525614576589_1901514389_n.jpg
+2015-09-15 12:47:29,930 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:47:29,932 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 14 from 35
+2015-09-15 12:47:29,933 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.careersusa.com/portals/0/BusinessPeopleImage2.png
+2015-09-15 12:47:32,294 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:47:32,294 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 15 from 35
+2015-09-15 12:47:32,295 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.cpplcounseling.com/uploads/4/6/8/2/46828361/2181364_orig.jpg
+2015-09-15 12:47:35,459 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:47:35,460 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 16 from 35
+2015-09-15 12:47:35,461 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://captital-connection.com/wp-content/uploads/2014/10/capitalconnectionpeople.jpg
+2015-09-15 12:47:40,615 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:47:40,616 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 17 from 35
+2015-09-15 12:47:40,616 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.harbourcitydental.com/wordpress/wp-content/uploads/2010/08/Big-Group-of-People.png
+2015-09-15 12:47:47,015 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:47:47,017 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 18 from 35
+2015-09-15 12:47:47,019 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.tesco.ie/crreview08/images/SML_tesco_people.jpg
+2015-09-15 12:47:48,653 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:47:48,655 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 19 from 35
+2015-09-15 12:47:48,660 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cdn.trendhunterstatic.com/thumbs/free-people-vegan-leather.jpeg
+2015-09-15 12:47:49,460 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:47:49,461 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 20 from 35
+2015-09-15 12:47:49,462 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://dailygenius.com/wp-content/uploads/2014/12/friendly-people.jpg
+2015-09-15 12:47:55,380 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:47:55,381 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 21 from 35
+2015-09-15 12:47:55,382 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://images1.miaminewtimes.com/imager/the-six-people-you-meet-aboard-holy-ship/u/original/6471130/holy_ship_people_you_meet_miami_2014.jpg
+2015-09-15 12:47:56,389 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:47:56,390 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 22 from 35
+2015-09-15 12:47:56,390 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.nsai.ie/Our-Services-(1)/Certification/1--Excellence-Through-People/2012-ETP-Web-Page-Banner.aspx
+2015-09-15 12:47:58,500 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:47:58,501 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 23 from 35
+2015-09-15 12:47:58,502 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.ddmcdn.com/gif/11-billion-people.jpg
+2015-09-15 12:48:00,254 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:48:00,255 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 24 from 35
+2015-09-15 12:48:00,255 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://previews.123rf.com/images/andreypopov/andreypopov1309/andreypopov130900314/22381835-Happy-Group-Of-People-Dressed-In-Casual-Standing-Over-White-Background-Stock-Photo.jpg
+2015-09-15 12:48:01,915 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:48:01,916 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 25 from 35
+2015-09-15 12:48:01,918 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://canadianimmigrant.ca/wordpress/wp-content/uploads/diversity-people1.jpg
+2015-09-15 12:48:02,933 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:48:02,934 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 26 from 35
+2015-09-15 12:48:02,934 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.usabuscharter.com/Business_People_Pinnacle_Jpeg.jpg
+2015-09-15 12:48:04,741 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:48:04,743 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 27 from 35
+2015-09-15 12:48:04,743 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://photoblog.statesman.com/wp-content/uploads/2011/09/cv-acl-022.jpg
+2015-09-15 12:48:09,009 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 12:48:09,009 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 28 from 35
+2015-09-15 12:48:09,010 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.francisvachon.com/blog/wp-content/photo/2012/07/crowd-surfing-04.jpg
+2015-09-15 12:48:11,046 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:48:11,047 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 29 from 35
+2015-09-15 12:48:11,047 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://newsimg.bbc.co.uk/media/images/44522000/jpg/_44522490_crowd416.jpg
+2015-09-15 12:48:11,409 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:48:11,411 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 30 from 35
+2015-09-15 12:48:11,412 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://c1.staticflickr.com/9/8318/8002278966_2907d0183c.jpg
+2015-09-15 12:48:14,346 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:48:14,348 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 31 from 35
+2015-09-15 12:48:14,349 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.bob-baker.com/self-publish-book/blog/uploaded_images/FanCrowd-782710.PNG
+2015-09-15 12:48:17,606 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:48:17,608 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:48:17,609 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:48:17,613 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:48:17,614 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:48:17,615 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:48:17,615 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:48:17,625 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:48:17,625 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:48:17,632 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:48:17,632 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:48:17,634 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:48:17,634 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:48:17,635 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:48:17,635 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:48:17,636 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:48:17,636 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:48:17,637 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:48:17,637 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:48:17,638 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:48:17,638 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:48:17,640 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:48:17,644 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:48:17,645 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:48:17,645 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Quitting this url. ErrorCount: 6
+2015-09-15 12:48:17,646 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:48:17,646 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 33 from 35
+2015-09-15 12:48:17,646 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cdn.bleedingcool.net/wp-content/uploads/2013/05/the-it-crowd-s2e1-20081218145048-1_625x352.jpg?f6a06b
+2015-09-15 12:48:18,763 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:48:18,763 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 34 from 35
+2015-09-15 12:48:18,764 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.clarity-research.net/wp-content/uploads/2015/03/we-serve.jpg
+2015-09-15 12:48:21,300 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - Test#3
+2015-09-15 12:48:21,300 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ===============================
+2015-09-15 12:48:21,300 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:48:21,301 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 0 from 35
+2015-09-15 12:48:21,301 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://thumbs.dreamstime.com/z/viele-verschiedenen-menschlichen-gesichter-21328077.jpg
+2015-09-15 12:48:24,381 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:48:24,383 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 1 from 35
+2015-09-15 12:48:24,383 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://ishootthepictures.files.wordpress.com/2011/06/vincent2bprice-1.jpg
+2015-09-15 12:48:30,002 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:48:30,003 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 2 from 35
+2015-09-15 12:48:30,004 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://thumbs.dreamstime.com/z/lots-faces-17959298.jpg
+2015-09-15 12:48:35,884 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:48:35,885 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 3 from 35
+2015-09-15 12:48:35,885 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.tumblr.com/93e033ed5b263d7e74512f58c3699318/9bfmqds/7Ppn5b518/tumblr_static_1ivgnnby2hs0888ko8cs88swc.jpg
+2015-09-15 12:48:38,268 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:48:38,269 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 4 from 35
+2015-09-15 12:48:38,269 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.dominicanfashionmodelsblog.com/wp-content/uploads/2014/01/PicMonkey-Collage.jpg
+2015-09-15 12:48:46,637 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:48:46,638 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 5 from 35
+2015-09-15 12:48:46,639 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://4.bp.blogspot.com/-XdZBpZZSQt4/Tm9YbUH1fWI/AAAAAAAAGBw/mim26LFXW_I/s1600/Cam%2BGreig%2B055.jpg
+2015-09-15 12:48:49,243 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:48:49,246 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 6 from 35
+2015-09-15 12:48:49,247 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.artbyphil.com/phfx/dib/art00002_LightingInADigitalAge/bigs/LotsOfLights.jpg
+2015-09-15 12:48:53,040 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:48:53,041 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 7 from 35
+2015-09-15 12:48:53,042 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://imgick.nj.com/home/njo-media/width960/img/star-ledger/photo/2013/08/-20429c7f73b547f3.jpg
+2015-09-15 12:48:54,801 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:48:54,802 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 8 from 35
+2015-09-15 12:48:54,802 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.photo.net/attachments/bboard/00Z/00Zlmt-426785684.jpg
+2015-09-15 12:48:56,174 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:48:56,175 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 9 from 35
+2015-09-15 12:48:56,175 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://images.travelpod.com/tw_slides/ta00/9ce/46c/lots-of-smiley-faces-tuticorin.jpg
+2015-09-15 12:48:57,887 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:48:57,888 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 10 from 35
+2015-09-15 12:48:57,889 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cs.brown.edu/courses/cs143/results/proj4/asunderl/data/classface2.png
+2015-09-15 12:49:01,501 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:49:01,502 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 11 from 35
+2015-09-15 12:49:01,503 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.bucksketball.com/wp-content/uploads/2013/03/photos4.jpg
+2015-09-15 12:49:02,775 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:49:02,777 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 12 from 35
+2015-09-15 12:49:02,777 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://worldonline.media.clients.ellingtoncms.com/img/croppedphotos/2011/10/14/medianewWEB_t650.jpg?eec9ecda5f66de59a37bbdb23c6f48523261b548
+2015-09-15 12:49:04,377 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:49:04,378 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 13 from 35
+2015-09-15 12:49:04,379 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11357296_1656525614576589_1901514389_n.jpg
+2015-09-15 12:49:06,963 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:49:06,964 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 14 from 35
+2015-09-15 12:49:06,965 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.careersusa.com/portals/0/BusinessPeopleImage2.png
+2015-09-15 12:49:09,264 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:49:09,265 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 15 from 35
+2015-09-15 12:49:09,266 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.cpplcounseling.com/uploads/4/6/8/2/46828361/2181364_orig.jpg
+2015-09-15 12:49:12,377 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:49:12,378 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 16 from 35
+2015-09-15 12:49:12,379 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://captital-connection.com/wp-content/uploads/2014/10/capitalconnectionpeople.jpg
+2015-09-15 12:49:17,539 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:49:17,540 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 17 from 35
+2015-09-15 12:49:17,543 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.harbourcitydental.com/wordpress/wp-content/uploads/2010/08/Big-Group-of-People.png
+2015-09-15 12:49:22,509 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:49:22,510 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 18 from 35
+2015-09-15 12:49:22,510 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.tesco.ie/crreview08/images/SML_tesco_people.jpg
+2015-09-15 12:49:24,632 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:49:24,634 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 19 from 35
+2015-09-15 12:49:24,634 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cdn.trendhunterstatic.com/thumbs/free-people-vegan-leather.jpeg
+2015-09-15 12:49:25,556 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:49:25,563 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 20 from 35
+2015-09-15 12:49:25,564 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://dailygenius.com/wp-content/uploads/2014/12/friendly-people.jpg
+2015-09-15 12:49:56,711 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:49:56,712 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 21 from 35
+2015-09-15 12:49:56,713 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://images1.miaminewtimes.com/imager/the-six-people-you-meet-aboard-holy-ship/u/original/6471130/holy_ship_people_you_meet_miami_2014.jpg
+2015-09-15 12:49:57,833 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:49:57,834 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 22 from 35
+2015-09-15 12:49:57,835 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.nsai.ie/Our-Services-(1)/Certification/1--Excellence-Through-People/2012-ETP-Web-Page-Banner.aspx
+2015-09-15 12:49:59,798 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:49:59,799 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 23 from 35
+2015-09-15 12:49:59,799 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.ddmcdn.com/gif/11-billion-people.jpg
+2015-09-15 12:50:01,096 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:01,096 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 24 from 35
+2015-09-15 12:50:01,097 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://previews.123rf.com/images/andreypopov/andreypopov1309/andreypopov130900314/22381835-Happy-Group-Of-People-Dressed-In-Casual-Standing-Over-White-Background-Stock-Photo.jpg
+2015-09-15 12:50:02,785 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:02,786 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 25 from 35
+2015-09-15 12:50:02,787 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://canadianimmigrant.ca/wordpress/wp-content/uploads/diversity-people1.jpg
+2015-09-15 12:50:03,845 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:03,846 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 26 from 35
+2015-09-15 12:50:03,847 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.usabuscharter.com/Business_People_Pinnacle_Jpeg.jpg
+2015-09-15 12:50:05,649 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:05,651 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 27 from 35
+2015-09-15 12:50:05,651 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://photoblog.statesman.com/wp-content/uploads/2011/09/cv-acl-022.jpg
+2015-09-15 12:50:09,543 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:09,545 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 28 from 35
+2015-09-15 12:50:09,546 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.francisvachon.com/blog/wp-content/photo/2012/07/crowd-surfing-04.jpg
+2015-09-15 12:50:12,529 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:12,530 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 29 from 35
+2015-09-15 12:50:12,530 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://newsimg.bbc.co.uk/media/images/44522000/jpg/_44522490_crowd416.jpg
+2015-09-15 12:50:13,140 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:13,141 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 30 from 35
+2015-09-15 12:50:13,141 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://c1.staticflickr.com/9/8318/8002278966_2907d0183c.jpg
+2015-09-15 12:50:17,347 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:17,348 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 31 from 35
+2015-09-15 12:50:17,349 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.bob-baker.com/self-publish-book/blog/uploaded_images/FanCrowd-782710.PNG
+2015-09-15 12:50:20,503 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:20,505 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:50:20,505 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:50:20,510 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:50:20,511 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:20,511 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:50:20,512 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:50:20,512 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:50:20,513 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:20,517 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:50:20,518 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:50:20,520 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:50:20,520 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:20,521 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:50:20,521 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:50:20,523 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:50:20,524 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:20,524 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:50:20,525 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:50:20,526 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:50:20,526 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:20,527 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:50:20,527 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:50:20,528 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:50:20,528 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Quitting this url. ErrorCount: 6
+2015-09-15 12:50:20,536 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:20,537 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 33 from 35
+2015-09-15 12:50:20,538 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cdn.bleedingcool.net/wp-content/uploads/2013/05/the-it-crowd-s2e1-20081218145048-1_625x352.jpg?f6a06b
+2015-09-15 12:50:22,362 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:22,363 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 34 from 35
+2015-09-15 12:50:22,363 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.clarity-research.net/wp-content/uploads/2015/03/we-serve.jpg
+2015-09-15 12:50:26,085 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - Test#4
+2015-09-15 12:50:26,086 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ===============================
+2015-09-15 12:50:26,086 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:26,087 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 0 from 35
+2015-09-15 12:50:26,088 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://thumbs.dreamstime.com/z/viele-verschiedenen-menschlichen-gesichter-21328077.jpg
+2015-09-15 12:50:29,083 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:29,084 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 1 from 35
+2015-09-15 12:50:29,084 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://ishootthepictures.files.wordpress.com/2011/06/vincent2bprice-1.jpg
+2015-09-15 12:50:33,284 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:33,284 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 2 from 35
+2015-09-15 12:50:33,285 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://thumbs.dreamstime.com/z/lots-faces-17959298.jpg
+2015-09-15 12:50:35,825 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:35,825 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 3 from 35
+2015-09-15 12:50:35,826 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.tumblr.com/93e033ed5b263d7e74512f58c3699318/9bfmqds/7Ppn5b518/tumblr_static_1ivgnnby2hs0888ko8cs88swc.jpg
+2015-09-15 12:50:38,072 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:38,073 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 4 from 35
+2015-09-15 12:50:38,073 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.dominicanfashionmodelsblog.com/wp-content/uploads/2014/01/PicMonkey-Collage.jpg
+2015-09-15 12:50:46,118 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:46,119 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 5 from 35
+2015-09-15 12:50:46,119 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://4.bp.blogspot.com/-XdZBpZZSQt4/Tm9YbUH1fWI/AAAAAAAAGBw/mim26LFXW_I/s1600/Cam%2BGreig%2B055.jpg
+2015-09-15 12:50:48,977 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:48,977 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 6 from 35
+2015-09-15 12:50:48,978 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.artbyphil.com/phfx/dib/art00002_LightingInADigitalAge/bigs/LotsOfLights.jpg
+2015-09-15 12:50:52,913 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:52,914 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 7 from 35
+2015-09-15 12:50:52,915 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://imgick.nj.com/home/njo-media/width960/img/star-ledger/photo/2013/08/-20429c7f73b547f3.jpg
+2015-09-15 12:50:54,800 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:54,801 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 8 from 35
+2015-09-15 12:50:54,801 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.photo.net/attachments/bboard/00Z/00Zlmt-426785684.jpg
+2015-09-15 12:50:55,781 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: null
+2015-09-15 12:50:55,782 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:55,782 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 8 from 35
+2015-09-15 12:50:55,782 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.photo.net/attachments/bboard/00Z/00Zlmt-426785684.jpg
+2015-09-15 12:50:57,805 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:50:57,806 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 9 from 35
+2015-09-15 12:50:57,807 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://images.travelpod.com/tw_slides/ta00/9ce/46c/lots-of-smiley-faces-tuticorin.jpg
+2015-09-15 12:51:00,854 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:51:00,855 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 10 from 35
+2015-09-15 12:51:00,855 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cs.brown.edu/courses/cs143/results/proj4/asunderl/data/classface2.png
+2015-09-15 12:51:07,908 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:51:07,909 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 11 from 35
+2015-09-15 12:51:07,909 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.bucksketball.com/wp-content/uploads/2013/03/photos4.jpg
+2015-09-15 12:51:10,938 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:51:10,939 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 12 from 35
+2015-09-15 12:51:10,939 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://worldonline.media.clients.ellingtoncms.com/img/croppedphotos/2011/10/14/medianewWEB_t650.jpg?eec9ecda5f66de59a37bbdb23c6f48523261b548
+2015-09-15 12:51:13,424 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:51:13,425 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 13 from 35
+2015-09-15 12:51:13,425 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11357296_1656525614576589_1901514389_n.jpg
+2015-09-15 12:51:15,349 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:51:15,350 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 14 from 35
+2015-09-15 12:51:15,352 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.careersusa.com/portals/0/BusinessPeopleImage2.png
+2015-09-15 12:51:18,770 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:51:18,771 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 15 from 35
+2015-09-15 12:51:18,772 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.cpplcounseling.com/uploads/4/6/8/2/46828361/2181364_orig.jpg
+2015-09-15 12:51:26,236 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:51:26,236 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 16 from 35
+2015-09-15 12:51:26,237 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://captital-connection.com/wp-content/uploads/2014/10/capitalconnectionpeople.jpg
+2015-09-15 12:51:34,758 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 12:51:34,759 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 17 from 35
+2015-09-15 12:51:34,765 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.harbourcitydental.com/wordpress/wp-content/uploads/2010/08/Big-Group-of-People.png
+2015-09-15 12:51:49,017 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:51:49,024 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 18 from 35
+2015-09-15 12:51:49,025 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.tesco.ie/crreview08/images/SML_tesco_people.jpg
+2015-09-15 12:51:51,291 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:51:51,292 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 19 from 35
+2015-09-15 12:51:51,292 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cdn.trendhunterstatic.com/thumbs/free-people-vegan-leather.jpeg
+2015-09-15 12:51:52,720 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:51:52,721 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 20 from 35
+2015-09-15 12:51:52,722 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://dailygenius.com/wp-content/uploads/2014/12/friendly-people.jpg
+2015-09-15 12:52:13,805 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:52:13,807 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 21 from 35
+2015-09-15 12:52:13,807 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://images1.miaminewtimes.com/imager/the-six-people-you-meet-aboard-holy-ship/u/original/6471130/holy_ship_people_you_meet_miami_2014.jpg
+2015-09-15 12:52:16,029 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:52:16,030 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 22 from 35
+2015-09-15 12:52:16,031 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.nsai.ie/Our-Services-(1)/Certification/1--Excellence-Through-People/2012-ETP-Web-Page-Banner.aspx
+2015-09-15 12:52:18,771 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:52:18,772 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 23 from 35
+2015-09-15 12:52:18,773 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.ddmcdn.com/gif/11-billion-people.jpg
+2015-09-15 12:52:20,825 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:52:20,826 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 24 from 35
+2015-09-15 12:52:20,826 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://previews.123rf.com/images/andreypopov/andreypopov1309/andreypopov130900314/22381835-Happy-Group-Of-People-Dressed-In-Casual-Standing-Over-White-Background-Stock-Photo.jpg
+2015-09-15 12:52:23,800 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:52:23,801 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 25 from 35
+2015-09-15 12:52:23,802 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://canadianimmigrant.ca/wordpress/wp-content/uploads/diversity-people1.jpg
+2015-09-15 12:52:25,379 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:52:25,382 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 26 from 35
+2015-09-15 12:52:25,382 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.usabuscharter.com/Business_People_Pinnacle_Jpeg.jpg
+2015-09-15 12:52:32,829 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:52:32,830 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 27 from 35
+2015-09-15 12:52:32,830 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://photoblog.statesman.com/wp-content/uploads/2011/09/cv-acl-022.jpg
+2015-09-15 12:52:37,367 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:52:37,367 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 28 from 35
+2015-09-15 12:52:37,368 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.francisvachon.com/blog/wp-content/photo/2012/07/crowd-surfing-04.jpg
+2015-09-15 12:52:40,358 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:52:40,359 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 29 from 35
+2015-09-15 12:52:40,360 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://newsimg.bbc.co.uk/media/images/44522000/jpg/_44522490_crowd416.jpg
+2015-09-15 12:52:42,272 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:52:42,273 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 30 from 35
+2015-09-15 12:52:42,274 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://c1.staticflickr.com/9/8318/8002278966_2907d0183c.jpg
+2015-09-15 12:52:46,068 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:52:46,069 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 31 from 35
+2015-09-15 12:52:46,069 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.bob-baker.com/self-publish-book/blog/uploaded_images/FanCrowd-782710.PNG
+2015-09-15 12:52:57,773 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:52:57,775 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:52:57,775 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:52:58,457 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:52:58,458 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:52:58,458 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:52:58,459 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:52:58,461 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:52:58,461 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:52:58,462 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:52:58,462 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:52:58,464 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:52:58,464 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:52:58,465 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:52:58,465 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:52:58,467 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:52:58,467 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:52:58,468 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:52:58,468 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:52:58,470 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:52:58,470 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Quitting this url. ErrorCount: 6
+2015-09-15 12:52:58,471 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:52:58,471 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 33 from 35
+2015-09-15 12:52:58,472 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cdn.bleedingcool.net/wp-content/uploads/2013/05/the-it-crowd-s2e1-20081218145048-1_625x352.jpg?f6a06b
+2015-09-15 12:53:00,270 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:53:00,270 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 34 from 35
+2015-09-15 12:53:00,271 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.clarity-research.net/wp-content/uploads/2015/03/we-serve.jpg
+2015-09-15 12:53:04,584 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - Test#5
+2015-09-15 12:53:04,585 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ===============================
+2015-09-15 12:53:04,586 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:53:04,586 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 0 from 35
+2015-09-15 12:53:04,587 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://thumbs.dreamstime.com/z/viele-verschiedenen-menschlichen-gesichter-21328077.jpg
+2015-09-15 12:53:09,573 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:53:09,574 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 1 from 35
+2015-09-15 12:53:09,574 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://ishootthepictures.files.wordpress.com/2011/06/vincent2bprice-1.jpg
+2015-09-15 12:53:15,460 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:53:15,460 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 2 from 35
+2015-09-15 12:53:15,461 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://thumbs.dreamstime.com/z/lots-faces-17959298.jpg
+2015-09-15 12:53:19,950 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:53:19,952 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 3 from 35
+2015-09-15 12:53:19,952 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.tumblr.com/93e033ed5b263d7e74512f58c3699318/9bfmqds/7Ppn5b518/tumblr_static_1ivgnnby2hs0888ko8cs88swc.jpg
+2015-09-15 12:53:25,576 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:53:25,579 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 4 from 35
+2015-09-15 12:53:25,580 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.dominicanfashionmodelsblog.com/wp-content/uploads/2014/01/PicMonkey-Collage.jpg
+2015-09-15 12:53:34,280 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:53:34,281 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 5 from 35
+2015-09-15 12:53:34,281 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://4.bp.blogspot.com/-XdZBpZZSQt4/Tm9YbUH1fWI/AAAAAAAAGBw/mim26LFXW_I/s1600/Cam%2BGreig%2B055.jpg
+2015-09-15 12:53:38,937 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:53:38,938 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 6 from 35
+2015-09-15 12:53:38,939 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.artbyphil.com/phfx/dib/art00002_LightingInADigitalAge/bigs/LotsOfLights.jpg
+2015-09-15 12:53:46,222 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:53:46,222 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 7 from 35
+2015-09-15 12:53:46,224 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://imgick.nj.com/home/njo-media/width960/img/star-ledger/photo/2013/08/-20429c7f73b547f3.jpg
+2015-09-15 12:53:50,690 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:53:50,691 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 8 from 35
+2015-09-15 12:53:50,692 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.photo.net/attachments/bboard/00Z/00Zlmt-426785684.jpg
+2015-09-15 12:53:52,573 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:53:52,575 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 9 from 35
+2015-09-15 12:53:52,575 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://images.travelpod.com/tw_slides/ta00/9ce/46c/lots-of-smiley-faces-tuticorin.jpg
+2015-09-15 12:53:56,298 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:53:56,300 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 10 from 35
+2015-09-15 12:53:56,300 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cs.brown.edu/courses/cs143/results/proj4/asunderl/data/classface2.png
+2015-09-15 12:54:03,143 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:54:03,145 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 11 from 35
+2015-09-15 12:54:03,146 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.bucksketball.com/wp-content/uploads/2013/03/photos4.jpg
+2015-09-15 12:54:04,655 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:54:04,657 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 12 from 35
+2015-09-15 12:54:04,663 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://worldonline.media.clients.ellingtoncms.com/img/croppedphotos/2011/10/14/medianewWEB_t650.jpg?eec9ecda5f66de59a37bbdb23c6f48523261b548
+2015-09-15 12:54:05,957 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:54:05,958 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 13 from 35
+2015-09-15 12:54:05,958 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11357296_1656525614576589_1901514389_n.jpg
+2015-09-15 12:54:07,941 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:54:07,942 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 14 from 35
+2015-09-15 12:54:07,943 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.careersusa.com/portals/0/BusinessPeopleImage2.png
+2015-09-15 12:54:10,827 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:54:10,829 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 15 from 35
+2015-09-15 12:54:10,829 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.cpplcounseling.com/uploads/4/6/8/2/46828361/2181364_orig.jpg
+2015-09-15 12:54:17,209 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:54:17,210 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 16 from 35
+2015-09-15 12:54:17,210 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://captital-connection.com/wp-content/uploads/2014/10/capitalconnectionpeople.jpg
+2015-09-15 12:54:25,306 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:54:25,307 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 17 from 35
+2015-09-15 12:54:25,307 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.harbourcitydental.com/wordpress/wp-content/uploads/2010/08/Big-Group-of-People.png
+2015-09-15 12:54:40,802 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:54:40,803 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 18 from 35
+2015-09-15 12:54:40,804 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.tesco.ie/crreview08/images/SML_tesco_people.jpg
+2015-09-15 12:54:42,559 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:54:42,567 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 19 from 35
+2015-09-15 12:54:42,567 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cdn.trendhunterstatic.com/thumbs/free-people-vegan-leather.jpeg
+2015-09-15 12:54:44,028 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:54:44,029 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 20 from 35
+2015-09-15 12:54:44,030 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://dailygenius.com/wp-content/uploads/2014/12/friendly-people.jpg
+2015-09-15 12:55:03,578 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:55:03,579 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 21 from 35
+2015-09-15 12:55:03,580 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://images1.miaminewtimes.com/imager/the-six-people-you-meet-aboard-holy-ship/u/original/6471130/holy_ship_people_you_meet_miami_2014.jpg
+2015-09-15 12:55:05,364 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:55:05,367 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 22 from 35
+2015-09-15 12:55:05,368 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.nsai.ie/Our-Services-(1)/Certification/1--Excellence-Through-People/2012-ETP-Web-Page-Banner.aspx
+2015-09-15 12:55:07,581 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:55:07,583 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 23 from 35
+2015-09-15 12:55:07,584 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.ddmcdn.com/gif/11-billion-people.jpg
+2015-09-15 12:55:11,167 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:55:11,167 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 24 from 35
+2015-09-15 12:55:11,168 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://previews.123rf.com/images/andreypopov/andreypopov1309/andreypopov130900314/22381835-Happy-Group-Of-People-Dressed-In-Casual-Standing-Over-White-Background-Stock-Photo.jpg
+2015-09-15 12:55:14,733 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:55:14,735 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 25 from 35
+2015-09-15 12:55:14,735 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://canadianimmigrant.ca/wordpress/wp-content/uploads/diversity-people1.jpg
+2015-09-15 12:55:15,956 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:55:15,957 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 26 from 35
+2015-09-15 12:55:15,958 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.usabuscharter.com/Business_People_Pinnacle_Jpeg.jpg
+2015-09-15 12:55:19,676 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:55:19,678 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 27 from 35
+2015-09-15 12:55:19,679 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://photoblog.statesman.com/wp-content/uploads/2011/09/cv-acl-022.jpg
+2015-09-15 12:55:25,043 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:55:25,043 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 28 from 35
+2015-09-15 12:55:25,045 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.francisvachon.com/blog/wp-content/photo/2012/07/crowd-surfing-04.jpg
+2015-09-15 12:55:27,430 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:55:27,432 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 29 from 35
+2015-09-15 12:55:27,432 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://newsimg.bbc.co.uk/media/images/44522000/jpg/_44522490_crowd416.jpg
+2015-09-15 12:55:29,050 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:55:29,051 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 30 from 35
+2015-09-15 12:55:29,051 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://c1.staticflickr.com/9/8318/8002278966_2907d0183c.jpg
+2015-09-15 12:55:32,592 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:55:32,593 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 31 from 35
+2015-09-15 12:55:32,593 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.bob-baker.com/self-publish-book/blog/uploaded_images/FanCrowd-782710.PNG
+2015-09-15 12:55:38,320 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:55:38,321 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:55:38,321 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:55:38,326 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:55:38,326 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:55:38,327 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:55:38,327 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:55:38,329 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:55:38,330 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:55:38,338 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:55:38,338 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:55:38,342 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:55:38,342 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:55:38,342 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:55:38,343 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:55:38,346 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:55:38,347 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:55:38,347 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:55:38,347 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:55:38,348 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:55:38,349 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:55:38,350 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:55:38,350 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:55:38,351 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:55:38,351 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Quitting this url. ErrorCount: 6
+2015-09-15 12:55:38,359 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:55:38,359 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 33 from 35
+2015-09-15 12:55:38,360 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cdn.bleedingcool.net/wp-content/uploads/2013/05/the-it-crowd-s2e1-20081218145048-1_625x352.jpg?f6a06b
+2015-09-15 12:55:40,055 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:55:40,055 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 34 from 35
+2015-09-15 12:55:40,055 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.clarity-research.net/wp-content/uploads/2015/03/we-serve.jpg
+2015-09-15 12:55:43,710 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - Test#6
+2015-09-15 12:55:43,711 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ===============================
+2015-09-15 12:55:43,716 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 86
+2015-09-15 12:55:43,716 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 0 from 35
+2015-09-15 12:55:43,717 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://thumbs.dreamstime.com/z/viele-verschiedenen-menschlichen-gesichter-21328077.jpg
+2015-09-15 12:55:48,652 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:55:48,653 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 1 from 35
+2015-09-15 12:55:48,654 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://ishootthepictures.files.wordpress.com/2011/06/vincent2bprice-1.jpg
+2015-09-15 12:55:53,661 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:55:53,662 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 2 from 35
+2015-09-15 12:55:53,662 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://thumbs.dreamstime.com/z/lots-faces-17959298.jpg
+2015-09-15 12:55:58,120 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:55:58,120 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 3 from 35
+2015-09-15 12:55:58,121 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.tumblr.com/93e033ed5b263d7e74512f58c3699318/9bfmqds/7Ppn5b518/tumblr_static_1ivgnnby2hs0888ko8cs88swc.jpg
+2015-09-15 12:56:02,908 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:56:02,909 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 4 from 35
+2015-09-15 12:56:02,909 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.dominicanfashionmodelsblog.com/wp-content/uploads/2014/01/PicMonkey-Collage.jpg
+2015-09-15 12:56:11,162 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:56:11,165 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 5 from 35
+2015-09-15 12:56:11,166 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://4.bp.blogspot.com/-XdZBpZZSQt4/Tm9YbUH1fWI/AAAAAAAAGBw/mim26LFXW_I/s1600/Cam%2BGreig%2B055.jpg
+2015-09-15 12:56:15,459 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:56:15,459 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 6 from 35
+2015-09-15 12:56:15,460 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.artbyphil.com/phfx/dib/art00002_LightingInADigitalAge/bigs/LotsOfLights.jpg
+2015-09-15 12:56:22,473 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:56:22,474 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 7 from 35
+2015-09-15 12:56:22,474 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://imgick.nj.com/home/njo-media/width960/img/star-ledger/photo/2013/08/-20429c7f73b547f3.jpg
+2015-09-15 12:56:25,797 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:56:25,798 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 8 from 35
+2015-09-15 12:56:25,823 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.photo.net/attachments/bboard/00Z/00Zlmt-426785684.jpg
+2015-09-15 12:56:27,822 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:56:27,823 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 9 from 35
+2015-09-15 12:56:27,823 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://images.travelpod.com/tw_slides/ta00/9ce/46c/lots-of-smiley-faces-tuticorin.jpg
+2015-09-15 12:56:30,975 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:56:30,980 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 10 from 35
+2015-09-15 12:56:30,981 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cs.brown.edu/courses/cs143/results/proj4/asunderl/data/classface2.png
+2015-09-15 12:56:37,670 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:56:37,673 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 11 from 35
+2015-09-15 12:56:37,673 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.bucksketball.com/wp-content/uploads/2013/03/photos4.jpg
+2015-09-15 12:56:39,012 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:56:39,014 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 12 from 35
+2015-09-15 12:56:39,015 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://worldonline.media.clients.ellingtoncms.com/img/croppedphotos/2011/10/14/medianewWEB_t650.jpg?eec9ecda5f66de59a37bbdb23c6f48523261b548
+2015-09-15 12:56:40,281 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:56:40,281 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 13 from 35
+2015-09-15 12:56:40,282 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11357296_1656525614576589_1901514389_n.jpg
+2015-09-15 12:56:42,157 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:56:42,158 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 14 from 35
+2015-09-15 12:56:42,158 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.careersusa.com/portals/0/BusinessPeopleImage2.png
+2015-09-15 12:56:45,053 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:56:45,054 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 15 from 35
+2015-09-15 12:56:45,054 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.cpplcounseling.com/uploads/4/6/8/2/46828361/2181364_orig.jpg
+2015-09-15 12:56:51,552 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:56:51,555 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 16 from 35
+2015-09-15 12:56:51,556 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://captital-connection.com/wp-content/uploads/2014/10/capitalconnectionpeople.jpg
+2015-09-15 12:57:01,341 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:57:01,342 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 17 from 35
+2015-09-15 12:57:01,343 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.harbourcitydental.com/wordpress/wp-content/uploads/2010/08/Big-Group-of-People.png
+2015-09-15 12:57:15,769 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:57:15,771 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 18 from 35
+2015-09-15 12:57:15,773 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.tesco.ie/crreview08/images/SML_tesco_people.jpg
+2015-09-15 12:57:18,082 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:57:18,083 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 19 from 35
+2015-09-15 12:57:18,084 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cdn.trendhunterstatic.com/thumbs/free-people-vegan-leather.jpeg
+2015-09-15 12:57:19,653 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:57:19,654 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 20 from 35
+2015-09-15 12:57:19,655 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://dailygenius.com/wp-content/uploads/2014/12/friendly-people.jpg
+2015-09-15 12:57:39,818 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:57:39,819 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 21 from 35
+2015-09-15 12:57:39,819 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://images1.miaminewtimes.com/imager/the-six-people-you-meet-aboard-holy-ship/u/original/6471130/holy_ship_people_you_meet_miami_2014.jpg
+2015-09-15 12:57:41,486 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:57:41,489 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 22 from 35
+2015-09-15 12:57:41,489 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.nsai.ie/Our-Services-(1)/Certification/1--Excellence-Through-People/2012-ETP-Web-Page-Banner.aspx
+2015-09-15 12:57:43,967 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:57:43,968 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 23 from 35
+2015-09-15 12:57:43,968 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.ddmcdn.com/gif/11-billion-people.jpg
+2015-09-15 12:57:45,974 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:57:45,975 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 24 from 35
+2015-09-15 12:57:45,975 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://previews.123rf.com/images/andreypopov/andreypopov1309/andreypopov130900314/22381835-Happy-Group-Of-People-Dressed-In-Casual-Standing-Over-White-Background-Stock-Photo.jpg
+2015-09-15 12:57:49,028 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:57:49,029 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 25 from 35
+2015-09-15 12:57:49,029 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://canadianimmigrant.ca/wordpress/wp-content/uploads/diversity-people1.jpg
+2015-09-15 12:57:49,976 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:57:49,982 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 26 from 35
+2015-09-15 12:57:49,982 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.usabuscharter.com/Business_People_Pinnacle_Jpeg.jpg
+2015-09-15 12:57:53,986 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:57:53,987 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 27 from 35
+2015-09-15 12:57:53,988 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://photoblog.statesman.com/wp-content/uploads/2011/09/cv-acl-022.jpg
+2015-09-15 12:57:58,616 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:57:58,618 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 28 from 35
+2015-09-15 12:57:58,618 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.francisvachon.com/blog/wp-content/photo/2012/07/crowd-surfing-04.jpg
+2015-09-15 12:58:01,588 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:58:01,589 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 29 from 35
+2015-09-15 12:58:01,590 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://newsimg.bbc.co.uk/media/images/44522000/jpg/_44522490_crowd416.jpg
+2015-09-15 12:58:03,279 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:58:03,281 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 30 from 35
+2015-09-15 12:58:03,281 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://c1.staticflickr.com/9/8318/8002278966_2907d0183c.jpg
+2015-09-15 12:58:07,119 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:58:07,120 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 31 from 35
+2015-09-15 12:58:07,120 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.bob-baker.com/self-publish-book/blog/uploaded_images/FanCrowd-782710.PNG
+2015-09-15 12:58:13,315 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:58:13,317 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:58:13,317 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:58:13,320 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:58:13,321 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:58:13,321 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:58:13,321 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:58:13,322 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:58:13,323 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:58:13,323 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:58:13,324 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:58:13,331 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:58:13,332 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:58:13,335 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:58:13,335 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:58:13,340 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:58:13,340 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:58:13,340 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:58:13,341 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:58:13,341 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:58:13,342 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:58:13,342 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 12:58:13,343 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 12:58:13,344 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 12:58:13,344 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Quitting this url. ErrorCount: 6
+2015-09-15 12:58:13,364 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:58:13,365 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 33 from 35
+2015-09-15 12:58:13,365 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cdn.bleedingcool.net/wp-content/uploads/2013/05/the-it-crowd-s2e1-20081218145048-1_625x352.jpg?f6a06b
+2015-09-15 12:58:15,458 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:58:15,459 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 34 from 35
+2015-09-15 12:58:15,460 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.clarity-research.net/wp-content/uploads/2015/03/we-serve.jpg
+2015-09-15 12:58:19,012 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - Test#7
+2015-09-15 12:58:19,012 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ===============================
+2015-09-15 12:58:19,027 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:58:19,027 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 0 from 35
+2015-09-15 12:58:19,028 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://thumbs.dreamstime.com/z/viele-verschiedenen-menschlichen-gesichter-21328077.jpg
+2015-09-15 12:58:23,819 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:58:23,820 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 1 from 35
+2015-09-15 12:58:23,821 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://ishootthepictures.files.wordpress.com/2011/06/vincent2bprice-1.jpg
+2015-09-15 12:58:29,437 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:58:29,440 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 2 from 35
+2015-09-15 12:58:29,440 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://thumbs.dreamstime.com/z/lots-faces-17959298.jpg
+2015-09-15 12:58:34,136 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:58:34,138 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 3 from 35
+2015-09-15 12:58:34,138 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.tumblr.com/93e033ed5b263d7e74512f58c3699318/9bfmqds/7Ppn5b518/tumblr_static_1ivgnnby2hs0888ko8cs88swc.jpg
+2015-09-15 12:58:38,897 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:58:38,898 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 4 from 35
+2015-09-15 12:58:38,898 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.dominicanfashionmodelsblog.com/wp-content/uploads/2014/01/PicMonkey-Collage.jpg
+2015-09-15 12:58:47,236 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:58:47,237 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 5 from 35
+2015-09-15 12:58:47,238 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://4.bp.blogspot.com/-XdZBpZZSQt4/Tm9YbUH1fWI/AAAAAAAAGBw/mim26LFXW_I/s1600/Cam%2BGreig%2B055.jpg
+2015-09-15 12:58:51,755 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:58:51,756 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 6 from 35
+2015-09-15 12:58:51,757 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.artbyphil.com/phfx/dib/art00002_LightingInADigitalAge/bigs/LotsOfLights.jpg
+2015-09-15 12:58:58,347 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:58:58,348 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 7 from 35
+2015-09-15 12:58:58,348 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://imgick.nj.com/home/njo-media/width960/img/star-ledger/photo/2013/08/-20429c7f73b547f3.jpg
+2015-09-15 12:59:01,916 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:59:01,917 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 8 from 35
+2015-09-15 12:59:01,917 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.photo.net/attachments/bboard/00Z/00Zlmt-426785684.jpg
+2015-09-15 12:59:04,052 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:59:04,053 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 9 from 35
+2015-09-15 12:59:04,054 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://images.travelpod.com/tw_slides/ta00/9ce/46c/lots-of-smiley-faces-tuticorin.jpg
+2015-09-15 12:59:07,310 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:59:07,312 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 10 from 35
+2015-09-15 12:59:07,312 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cs.brown.edu/courses/cs143/results/proj4/asunderl/data/classface2.png
+2015-09-15 12:59:14,874 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:59:14,875 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 11 from 35
+2015-09-15 12:59:14,875 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.bucksketball.com/wp-content/uploads/2013/03/photos4.jpg
+2015-09-15 12:59:16,240 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:59:16,241 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 12 from 35
+2015-09-15 12:59:16,241 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://worldonline.media.clients.ellingtoncms.com/img/croppedphotos/2011/10/14/medianewWEB_t650.jpg?eec9ecda5f66de59a37bbdb23c6f48523261b548
+2015-09-15 12:59:17,621 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:59:17,622 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 13 from 35
+2015-09-15 12:59:17,623 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11357296_1656525614576589_1901514389_n.jpg
+2015-09-15 12:59:19,552 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:59:19,554 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 14 from 35
+2015-09-15 12:59:19,554 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.careersusa.com/portals/0/BusinessPeopleImage2.png
+2015-09-15 12:59:22,408 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 85
+2015-09-15 12:59:22,410 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 15 from 35
+2015-09-15 12:59:22,411 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.cpplcounseling.com/uploads/4/6/8/2/46828361/2181364_orig.jpg
+2015-09-15 12:59:31,653 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 12:59:31,654 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 16 from 35
+2015-09-15 12:59:31,655 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://captital-connection.com/wp-content/uploads/2014/10/capitalconnectionpeople.jpg
+2015-09-15 12:59:40,366 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 12:59:40,367 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 17 from 35
+2015-09-15 12:59:40,368 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.harbourcitydental.com/wordpress/wp-content/uploads/2010/08/Big-Group-of-People.png
+2015-09-15 12:59:59,144 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 12:59:59,145 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 18 from 35
+2015-09-15 12:59:59,146 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.tesco.ie/crreview08/images/SML_tesco_people.jpg
+2015-09-15 13:00:00,856 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:00:00,857 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 19 from 35
+2015-09-15 13:00:00,857 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cdn.trendhunterstatic.com/thumbs/free-people-vegan-leather.jpeg
+2015-09-15 13:00:02,351 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:00:02,353 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 20 from 35
+2015-09-15 13:00:02,354 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://dailygenius.com/wp-content/uploads/2014/12/friendly-people.jpg
+2015-09-15 13:00:23,663 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:00:23,664 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 21 from 35
+2015-09-15 13:00:23,664 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://images1.miaminewtimes.com/imager/the-six-people-you-meet-aboard-holy-ship/u/original/6471130/holy_ship_people_you_meet_miami_2014.jpg
+2015-09-15 13:00:25,392 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:00:25,393 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 22 from 35
+2015-09-15 13:00:25,393 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.nsai.ie/Our-Services-(1)/Certification/1--Excellence-Through-People/2012-ETP-Web-Page-Banner.aspx
+2015-09-15 13:00:27,468 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:00:27,469 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 23 from 35
+2015-09-15 13:00:27,469 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.ddmcdn.com/gif/11-billion-people.jpg
+2015-09-15 13:00:29,705 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:00:29,706 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 24 from 35
+2015-09-15 13:00:29,707 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://previews.123rf.com/images/andreypopov/andreypopov1309/andreypopov130900314/22381835-Happy-Group-Of-People-Dressed-In-Casual-Standing-Over-White-Background-Stock-Photo.jpg
+2015-09-15 13:00:32,784 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:00:32,785 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 25 from 35
+2015-09-15 13:00:32,786 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://canadianimmigrant.ca/wordpress/wp-content/uploads/diversity-people1.jpg
+2015-09-15 13:00:33,758 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:00:33,761 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 26 from 35
+2015-09-15 13:00:33,762 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.usabuscharter.com/Business_People_Pinnacle_Jpeg.jpg
+2015-09-15 13:00:37,244 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:00:37,245 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 27 from 35
+2015-09-15 13:00:37,246 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://photoblog.statesman.com/wp-content/uploads/2011/09/cv-acl-022.jpg
+2015-09-15 13:00:41,675 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:00:41,675 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 28 from 35
+2015-09-15 13:00:41,676 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.francisvachon.com/blog/wp-content/photo/2012/07/crowd-surfing-04.jpg
+2015-09-15 13:00:44,233 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:00:44,234 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 29 from 35
+2015-09-15 13:00:44,234 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://newsimg.bbc.co.uk/media/images/44522000/jpg/_44522490_crowd416.jpg
+2015-09-15 13:00:46,007 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:00:46,008 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 30 from 35
+2015-09-15 13:00:46,008 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://c1.staticflickr.com/9/8318/8002278966_2907d0183c.jpg
+2015-09-15 13:00:49,225 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:00:49,226 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 31 from 35
+2015-09-15 13:00:49,227 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.bob-baker.com/self-publish-book/blog/uploaded_images/FanCrowd-782710.PNG
+2015-09-15 13:01:02,819 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:01:02,820 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 13:01:02,820 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 13:01:02,823 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 13:01:02,824 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:01:02,824 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 13:01:02,825 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 13:01:02,826 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 13:01:02,827 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:01:02,828 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 13:01:02,828 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 13:01:02,831 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 13:01:02,833 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:01:02,834 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 13:01:02,835 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 13:01:02,836 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 13:01:02,837 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:01:02,837 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 13:01:02,838 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 13:01:02,841 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 13:01:02,841 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:01:02,842 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-15 13:01:02,842 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-15 13:01:02,844 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Exception happened: Unable to resolve host "top100festivals.com": No address associated with hostname
+2015-09-15 13:01:02,844 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - **Quitting this url. ErrorCount: 6
+2015-09-15 13:01:02,845 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:01:02,845 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 33 from 35
+2015-09-15 13:01:02,846 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cdn.bleedingcool.net/wp-content/uploads/2013/05/the-it-crowd-s2e1-20081218145048-1_625x352.jpg?f6a06b
+2015-09-15 13:01:04,318 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:01:04,319 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 34 from 35
+2015-09-15 13:01:04,319 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.clarity-research.net/wp-content/uploads/2015/03/we-serve.jpg
+2015-09-15 13:01:07,922 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - Test#8
+2015-09-15 13:01:07,923 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ===============================
+2015-09-15 13:01:07,924 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:01:07,926 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 0 from 35
+2015-09-15 13:01:07,926 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://thumbs.dreamstime.com/z/viele-verschiedenen-menschlichen-gesichter-21328077.jpg
+2015-09-15 13:01:12,789 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:01:12,790 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 1 from 35
+2015-09-15 13:01:12,791 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://ishootthepictures.files.wordpress.com/2011/06/vincent2bprice-1.jpg
+2015-09-15 13:01:18,534 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:01:18,535 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 2 from 35
+2015-09-15 13:01:18,535 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://thumbs.dreamstime.com/z/lots-faces-17959298.jpg
+2015-09-15 13:01:23,137 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:01:23,138 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 3 from 35
+2015-09-15 13:01:23,138 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.tumblr.com/93e033ed5b263d7e74512f58c3699318/9bfmqds/7Ppn5b518/tumblr_static_1ivgnnby2hs0888ko8cs88swc.jpg
+2015-09-15 13:01:28,180 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:01:28,181 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 4 from 35
+2015-09-15 13:01:28,181 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.dominicanfashionmodelsblog.com/wp-content/uploads/2014/01/PicMonkey-Collage.jpg
+2015-09-15 13:01:36,594 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:01:36,594 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 5 from 35
+2015-09-15 13:01:36,595 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://4.bp.blogspot.com/-XdZBpZZSQt4/Tm9YbUH1fWI/AAAAAAAAGBw/mim26LFXW_I/s1600/Cam%2BGreig%2B055.jpg
+2015-09-15 13:01:40,989 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:01:40,990 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 6 from 35
+2015-09-15 13:01:40,991 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.artbyphil.com/phfx/dib/art00002_LightingInADigitalAge/bigs/LotsOfLights.jpg
+2015-09-15 13:01:47,713 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:01:47,714 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 7 from 35
+2015-09-15 13:01:47,715 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://imgick.nj.com/home/njo-media/width960/img/star-ledger/photo/2013/08/-20429c7f73b547f3.jpg
+2015-09-15 13:01:51,132 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:01:51,134 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 8 from 35
+2015-09-15 13:01:51,147 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.photo.net/attachments/bboard/00Z/00Zlmt-426785684.jpg
+2015-09-15 13:01:53,059 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:01:53,059 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 9 from 35
+2015-09-15 13:01:53,066 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://images.travelpod.com/tw_slides/ta00/9ce/46c/lots-of-smiley-faces-tuticorin.jpg
+2015-09-15 13:01:56,311 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:01:56,312 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 10 from 35
+2015-09-15 13:01:56,312 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cs.brown.edu/courses/cs143/results/proj4/asunderl/data/classface2.png
+2015-09-15 13:02:02,912 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:02:02,915 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 11 from 35
+2015-09-15 13:02:02,916 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.bucksketball.com/wp-content/uploads/2013/03/photos4.jpg
+2015-09-15 13:02:04,340 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:02:04,342 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 12 from 35
+2015-09-15 13:02:04,343 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://worldonline.media.clients.ellingtoncms.com/img/croppedphotos/2011/10/14/medianewWEB_t650.jpg?eec9ecda5f66de59a37bbdb23c6f48523261b548
+2015-09-15 13:02:05,819 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:02:05,820 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 13 from 35
+2015-09-15 13:02:05,821 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11357296_1656525614576589_1901514389_n.jpg
+2015-09-15 13:02:07,818 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:02:07,827 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 14 from 35
+2015-09-15 13:02:07,827 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.careersusa.com/portals/0/BusinessPeopleImage2.png
+2015-09-15 13:02:10,612 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:02:10,614 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 15 from 35
+2015-09-15 13:02:10,614 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.cpplcounseling.com/uploads/4/6/8/2/46828361/2181364_orig.jpg
+2015-09-15 13:02:16,989 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:02:16,990 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 16 from 35
+2015-09-15 13:02:16,991 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://captital-connection.com/wp-content/uploads/2014/10/capitalconnectionpeople.jpg
+2015-09-15 13:02:26,927 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:02:26,928 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 17 from 35
+2015-09-15 13:02:26,928 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.harbourcitydental.com/wordpress/wp-content/uploads/2010/08/Big-Group-of-People.png
+2015-09-15 13:02:57,003 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 84
+2015-09-15 13:02:57,006 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 18 from 35
+2015-09-15 13:02:57,007 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.tesco.ie/crreview08/images/SML_tesco_people.jpg

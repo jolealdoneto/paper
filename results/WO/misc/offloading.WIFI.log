@@ -1,0 +1,263 @@
+2015-09-15 18:38:47,872 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ===============================
+2015-09-15 18:38:47,872 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 18:38:47,872 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 0 from 35
+2015-09-15 18:38:47,873 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://thumbs.dreamstime.com/z/viele-verschiedenen-menschlichen-gesichter-21328077.jpg
+2015-09-15 18:38:47,885 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-15 18:38:47,885 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.35
+2015-09-15 18:38:47,886 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-15 18:38:48,790 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: cannot interpolate local. Res true
+2015-09-15 18:38:48,790 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-15 18:38:48,807 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://thumbs.dreamstime.com/z/viele-verschiedenen-menschlichen-gesichter-21328077.jpg, field-<android.graphics.Bitmap$Config: android.graphics.Bitmap$Config RGB_565>-local12693927561442346477050=RGB_565, field-<android.graphics.Paint$Style: android.graphics.Paint$Style STROKE>-local5496944221442346477050=STROKE, field-<android.graphics.Bitmap$CompressFormat: android.graphics.Bitmap$CompressFormat JPEG>-local-4607373641442346477050=JPEG, field-<android.graphics.Bitmap$Config: android.graphics.Bitmap$Config RGB_565>-local12693927561442346477049=RGB_565, field-<android.graphics.Paint$Style: android.graphics.Paint$Style STROKE>-local5496944221442346477049=STROKE, @this=br.com.lealdn.fd.FaceUtils@42660ae0}
+2015-09-15 18:38:48,807 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-15 18:38:48,810 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-15 18:38:48,812 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@427a69f8
+2015-09-15 18:38:52,123 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 884 | 277
+2015-09-15 18:38:52,130 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-15 18:38:52,137 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 3.103501319885254 | network: 0 | ssid: "Bond, James Bond"
+2015-09-15 18:38:52,139 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 3.103501319885254
+2015-09-15 18:38:52,155 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-15 18:38:52,155 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 15 Sep 2015 21:38:48 GMT, Connection: keep-alive, Content-Length: 11191]
+2015-09-15 18:38:52,156 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:11191
+2015-09-15 18:38:52,598 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 11191 | 302
+2015-09-15 18:38:52,601 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-15 18:38:52,603 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 31.629743576049805 | network: 0 | ssid: "Bond, James Bond"
+--
+2015-09-15 18:38:52,624 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 18:38:52,625 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 1 from 35
+2015-09-15 18:38:52,626 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://ishootthepictures.files.wordpress.com/2011/06/vincent2bprice-1.jpg
+2015-09-15 18:38:52,631 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-15 18:38:52,631 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.35
+2015-09-15 18:38:52,632 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-15 18:38:53,918 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 238390.0 | local: true
+2015-09-15 18:38:53,919 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: cannot interpolate local. Res true
+2015-09-15 18:38:53,920 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-15 18:38:53,921 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=https://ishootthepictures.files.wordpress.com/2011/06/vincent2bprice-1.jpg, field-<android.graphics.Bitmap$Config: android.graphics.Bitmap$Config RGB_565>-local12693927561442346477050=RGB_565, field-<android.graphics.Paint$Style: android.graphics.Paint$Style STROKE>-local5496944221442346477050=STROKE, field-<android.graphics.Bitmap$CompressFormat: android.graphics.Bitmap$CompressFormat JPEG>-local-4607373641442346477050=JPEG, field-<android.graphics.Bitmap$Config: android.graphics.Bitmap$Config RGB_565>-local12693927561442346477049=RGB_565, field-<android.graphics.Paint$Style: android.graphics.Paint$Style STROKE>-local5496944221442346477049=STROKE, @this=br.com.lealdn.fd.FaceUtils@42660ae0}
+2015-09-15 18:38:53,921 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-15 18:38:53,922 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-15 18:38:53,923 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@42a12f88
+2015-09-15 18:38:57,589 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 872 | 285
+2015-09-15 18:38:57,593 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-15 18:38:57,596 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 3.0684196949005127 | network: 0 | ssid: "Bond, James Bond"
+2015-09-15 18:38:57,596 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 3.0684196949005127
+2015-09-15 18:38:57,603 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-15 18:38:57,603 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 15 Sep 2015 21:38:54 GMT, Connection: keep-alive, Content-Length: 5618]
+2015-09-15 18:38:57,604 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:5618
+2015-09-15 18:38:58,102 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 5618 | 372
+2015-09-15 18:38:58,107 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-15 18:38:58,111 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 18.407669067382813 | network: 0 | ssid: "Bond, James Bond"
+--
+2015-09-15 18:38:58,131 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 18:38:58,134 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 2 from 35
+2015-09-15 18:38:58,134 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://thumbs.dreamstime.com/z/lots-faces-17959298.jpg
+2015-09-15 18:38:58,140 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-15 18:38:58,140 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.35
+2015-09-15 18:38:58,141 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-15 18:38:58,513 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 221769.0 | local: true
+2015-09-15 18:38:58,514 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: cannot interpolate local. Res true
+2015-09-15 18:38:58,514 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-15 18:38:58,515 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://thumbs.dreamstime.com/z/lots-faces-17959298.jpg, field-<android.graphics.Bitmap$Config: android.graphics.Bitmap$Config RGB_565>-local12693927561442346477050=RGB_565, field-<android.graphics.Paint$Style: android.graphics.Paint$Style STROKE>-local5496944221442346477050=STROKE, field-<android.graphics.Bitmap$CompressFormat: android.graphics.Bitmap$CompressFormat JPEG>-local-4607373641442346477050=JPEG, field-<android.graphics.Bitmap$Config: android.graphics.Bitmap$Config RGB_565>-local12693927561442346477049=RGB_565, field-<android.graphics.Paint$Style: android.graphics.Paint$Style STROKE>-local5496944221442346477049=STROKE, @this=br.com.lealdn.fd.FaceUtils@42660ae0}
+2015-09-15 18:38:58,516 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-15 18:38:58,518 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-15 18:38:58,519 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@42b3b2f8
+2015-09-15 18:39:01,275 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 850 | 300
+2015-09-15 18:39:01,278 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-15 18:39:01,280 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 2.8803505897521973 | network: 0 | ssid: "Bond, James Bond"
+2015-09-15 18:39:01,281 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 2.8803505897521973
+2015-09-15 18:39:01,293 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-15 18:39:01,294 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 15 Sep 2015 21:38:57 GMT, Connection: keep-alive, Content-Length: 10969]
+2015-09-15 18:39:01,294 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:10969
+2015-09-15 18:39:01,541 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 10969 | 393
+2015-09-15 18:39:01,544 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-15 18:39:01,548 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 26.01028823852539 | network: 0 | ssid: "Bond, James Bond"
+--
+2015-09-15 18:39:01,576 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 18:39:01,578 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 3 from 35
+2015-09-15 18:39:01,578 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.tumblr.com/93e033ed5b263d7e74512f58c3699318/9bfmqds/7Ppn5b518/tumblr_static_1ivgnnby2hs0888ko8cs88swc.jpg
+2015-09-15 18:39:01,583 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-15 18:39:01,583 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.35
+2015-09-15 18:39:01,584 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-15 18:39:01,946 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 389975.0 | local: true
+2015-09-15 18:39:01,946 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: cannot interpolate local. Res true
+2015-09-15 18:39:01,947 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-15 18:39:01,947 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://static.tumblr.com/93e033ed5b263d7e74512f58c3699318/9bfmqds/7Ppn5b518/tumblr_static_1ivgnnby2hs0888ko8cs88swc.jpg, field-<android.graphics.Bitmap$Config: android.graphics.Bitmap$Config RGB_565>-local12693927561442346477050=RGB_565, field-<android.graphics.Paint$Style: android.graphics.Paint$Style STROKE>-local5496944221442346477050=STROKE, field-<android.graphics.Bitmap$CompressFormat: android.graphics.Bitmap$CompressFormat JPEG>-local-4607373641442346477050=JPEG, field-<android.graphics.Bitmap$Config: android.graphics.Bitmap$Config RGB_565>-local12693927561442346477049=RGB_565, field-<android.graphics.Paint$Style: android.graphics.Paint$Style STROKE>-local5496944221442346477049=STROKE, @this=br.com.lealdn.fd.FaceUtils@42660ae0}
+2015-09-15 18:39:01,948 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-15 18:39:01,949 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-15 18:39:01,949 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@427590e8
+2015-09-15 18:39:05,065 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 917 | 275
+2015-09-15 18:39:05,068 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-15 18:39:05,071 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 3.243706464767456 | network: 0 | ssid: "Bond, James Bond"
+2015-09-15 18:39:05,071 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 3.243706464767456
+2015-09-15 18:39:05,082 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-15 18:39:05,082 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 15 Sep 2015 21:39:01 GMT, Connection: keep-alive, Content-Length: 6657]
+2015-09-15 18:39:05,083 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:6657
+2015-09-15 18:39:05,343 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 6657 | 405
+2015-09-15 18:39:05,347 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-15 18:39:05,350 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 18.351688385009766 | network: 0 | ssid: "Bond, James Bond"
+--
+2015-09-15 18:39:21,280 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 18:39:21,280 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 6 from 35
+2015-09-15 18:39:21,281 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.artbyphil.com/phfx/dib/art00002_LightingInADigitalAge/bigs/LotsOfLights.jpg
+2015-09-15 18:39:21,284 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-15 18:39:21,285 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.35
+2015-09-15 18:39:21,287 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-15 18:39:22,235 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 513300.0 | local: true
+2015-09-15 18:39:22,236 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: cannot interpolate local. Res true
+2015-09-15 18:39:22,236 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-15 18:39:22,238 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://www.artbyphil.com/phfx/dib/art00002_LightingInADigitalAge/bigs/LotsOfLights.jpg, field-<android.graphics.Bitmap$Config: android.graphics.Bitmap$Config RGB_565>-local12693927561442346477050=RGB_565, field-<android.graphics.Paint$Style: android.graphics.Paint$Style STROKE>-local5496944221442346477050=STROKE, field-<android.graphics.Bitmap$CompressFormat: android.graphics.Bitmap$CompressFormat JPEG>-local-4607373641442346477050=JPEG, field-<android.graphics.Bitmap$Config: android.graphics.Bitmap$Config RGB_565>-local12693927561442346477049=RGB_565, field-<android.graphics.Paint$Style: android.graphics.Paint$Style STROKE>-local5496944221442346477049=STROKE, @this=br.com.lealdn.fd.FaceUtils@42660ae0}
+2015-09-15 18:39:22,238 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-15 18:39:22,241 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-15 18:39:22,241 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@426ad6d8
+2015-09-15 18:39:25,687 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 884 | 334
+2015-09-15 18:39:25,691 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-15 18:39:25,694 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 2.766106605529785 | network: 0 | ssid: "Bond, James Bond"
+2015-09-15 18:39:25,695 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 2.766106605529785
+2015-09-15 18:39:25,716 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-15 18:39:25,717 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 15 Sep 2015 21:39:22 GMT, Connection: keep-alive, Content-Length: 11652]
+2015-09-15 18:39:25,718 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:11652
+2015-09-15 18:39:26,251 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 11652 | 356
+2015-09-15 18:39:26,255 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-15 18:39:26,259 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 29.85460662841797 | network: 0 | ssid: "Bond, James Bond"
+--
+2015-09-15 18:39:26,294 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 88
+2015-09-15 18:39:26,296 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 7 from 35
+2015-09-15 18:39:26,297 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://imgick.nj.com/home/njo-media/width960/img/star-ledger/photo/2013/08/-20429c7f73b547f3.jpg
+2015-09-15 18:39:26,304 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-15 18:39:26,305 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.35
+2015-09-15 18:39:26,306 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-15 18:39:27,801 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 182917.0 | local: true
+2015-09-15 18:39:27,802 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: cannot interpolate local. Res true
+2015-09-15 18:39:27,802 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-15 18:39:27,803 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://imgick.nj.com/home/njo-media/width960/img/star-ledger/photo/2013/08/-20429c7f73b547f3.jpg, field-<android.graphics.Bitmap$Config: android.graphics.Bitmap$Config RGB_565>-local12693927561442346477050=RGB_565, field-<android.graphics.Paint$Style: android.graphics.Paint$Style STROKE>-local5496944221442346477050=STROKE, field-<android.graphics.Bitmap$CompressFormat: android.graphics.Bitmap$CompressFormat JPEG>-local-4607373641442346477050=JPEG, field-<android.graphics.Bitmap$Config: android.graphics.Bitmap$Config RGB_565>-local12693927561442346477049=RGB_565, field-<android.graphics.Paint$Style: android.graphics.Paint$Style STROKE>-local5496944221442346477049=STROKE, @this=br.com.lealdn.fd.FaceUtils@42660ae0}
+2015-09-15 18:39:27,803 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-15 18:39:27,805 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-15 18:39:27,806 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@429b2038
+2015-09-15 18:39:30,462 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 894 | 260
+2015-09-15 18:39:30,465 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-15 18:39:30,469 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 3.3039908409118652 | network: 0 | ssid: "Bond, James Bond"
+2015-09-15 18:39:30,471 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 3.3039908409118652
+2015-09-15 18:39:30,485 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-15 18:39:30,486 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 15 Sep 2015 21:39:26 GMT, Connection: keep-alive, Content-Length: 7812]
+2015-09-15 18:39:30,486 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:7812
+2015-09-15 18:39:30,713 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 7812 | 356
+2015-09-15 18:39:30,717 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-15 18:39:30,721 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 23.525978088378906 | network: 0 | ssid: "Bond, James Bond"
+--
+2015-09-15 18:39:30,758 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 18:39:30,758 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 8 from 35
+2015-09-15 18:39:30,759 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.photo.net/attachments/bboard/00Z/00Zlmt-426785684.jpg
+2015-09-15 18:39:30,762 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-15 18:39:30,762 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.35
+2015-09-15 18:39:30,763 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-15 18:39:31,245 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 99937.0 | local: true
+2015-09-15 18:39:31,246 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: cannot interpolate local. Res true
+2015-09-15 18:39:31,247 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-15 18:39:31,248 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://static.photo.net/attachments/bboard/00Z/00Zlmt-426785684.jpg, field-<android.graphics.Bitmap$Config: android.graphics.Bitmap$Config RGB_565>-local12693927561442346477050=RGB_565, field-<android.graphics.Paint$Style: android.graphics.Paint$Style STROKE>-local5496944221442346477050=STROKE, field-<android.graphics.Bitmap$CompressFormat: android.graphics.Bitmap$CompressFormat JPEG>-local-4607373641442346477050=JPEG, field-<android.graphics.Bitmap$Config: android.graphics.Bitmap$Config RGB_565>-local12693927561442346477049=RGB_565, field-<android.graphics.Paint$Style: android.graphics.Paint$Style STROKE>-local5496944221442346477049=STROKE, @this=br.com.lealdn.fd.FaceUtils@42660ae0}
+2015-09-15 18:39:31,249 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-15 18:39:31,254 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-15 18:39:31,255 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@4274b1b0
+2015-09-15 18:39:33,123 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 865 | 332
+2015-09-15 18:39:33,128 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-15 18:39:33,132 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 2.74513578414917 | network: 0 | ssid: "Bond, James Bond"
+2015-09-15 18:39:33,132 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 2.74513578414917
+2015-09-15 18:39:33,146 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-15 18:39:33,146 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 15 Sep 2015 21:39:29 GMT, Connection: keep-alive, Content-Length: 8947]
+2015-09-15 18:39:33,147 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:8947
+2015-09-15 18:39:33,370 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 8947 | 351
+2015-09-15 18:39:33,374 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-15 18:39:33,377 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 25.097219467163086 | network: 0 | ssid: "Bond, James Bond"
+--
+2015-09-15 18:39:45,054 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 18:39:45,055 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 11 from 35
+2015-09-15 18:39:45,055 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.bucksketball.com/wp-content/uploads/2013/03/photos4.jpg
+2015-09-15 18:39:45,059 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-15 18:39:45,062 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.35
+2015-09-15 18:39:45,063 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-15 18:39:45,724 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 40086.0 | local: true
+2015-09-15 18:39:45,725 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: cannot interpolate local. Res true
+2015-09-15 18:39:45,726 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-15 18:39:45,726 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://www.bucksketball.com/wp-content/uploads/2013/03/photos4.jpg, field-<android.graphics.Bitmap$Config: android.graphics.Bitmap$Config RGB_565>-local12693927561442346477050=RGB_565, field-<android.graphics.Paint$Style: android.graphics.Paint$Style STROKE>-local5496944221442346477050=STROKE, field-<android.graphics.Bitmap$CompressFormat: android.graphics.Bitmap$CompressFormat JPEG>-local-4607373641442346477050=JPEG, field-<android.graphics.Bitmap$Config: android.graphics.Bitmap$Config RGB_565>-local12693927561442346477049=RGB_565, field-<android.graphics.Paint$Style: android.graphics.Paint$Style STROKE>-local5496944221442346477049=STROKE, @this=br.com.lealdn.fd.FaceUtils@42660ae0}
+2015-09-15 18:39:45,727 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-15 18:39:45,729 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-15 18:39:45,729 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@4274a9f0
+2015-09-15 18:39:46,918 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 864 | 266
+2015-09-15 18:39:46,925 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-15 18:39:46,927 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 3.1475234031677246 | network: 0 | ssid: "Bond, James Bond"
+2015-09-15 18:39:46,928 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 3.1475234031677246
+2015-09-15 18:39:46,981 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-15 18:39:46,982 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 15 Sep 2015 21:39:43 GMT, Connection: keep-alive, Content-Length: 6678]
+2015-09-15 18:39:46,983 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:6678
+2015-09-15 18:39:47,186 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 6678 | 392
+2015-09-15 18:39:47,190 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-15 18:39:47,193 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 18.64801597595215 | network: 0 | ssid: "Bond, James Bond"
+--
+2015-09-15 18:39:49,009 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 18:39:49,010 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 13 from 35
+2015-09-15 18:39:49,010 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11357296_1656525614576589_1901514389_n.jpg
+2015-09-15 18:39:49,016 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-15 18:39:49,016 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.35
+2015-09-15 18:39:49,017 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-15 18:39:49,671 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 107714.0 | local: true
+2015-09-15 18:39:49,672 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: cannot interpolate local. Res true
+2015-09-15 18:39:49,673 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-15 18:39:49,674 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11357296_1656525614576589_1901514389_n.jpg, field-<android.graphics.Bitmap$Config: android.graphics.Bitmap$Config RGB_565>-local12693927561442346477050=RGB_565, field-<android.graphics.Paint$Style: android.graphics.Paint$Style STROKE>-local5496944221442346477050=STROKE, field-<android.graphics.Bitmap$CompressFormat: android.graphics.Bitmap$CompressFormat JPEG>-local-4607373641442346477050=JPEG, field-<android.graphics.Bitmap$Config: android.graphics.Bitmap$Config RGB_565>-local12693927561442346477049=RGB_565, field-<android.graphics.Paint$Style: android.graphics.Paint$Style STROKE>-local5496944221442346477049=STROKE, @this=br.com.lealdn.fd.FaceUtils@42660ae0}
+2015-09-15 18:39:49,674 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-15 18:39:49,676 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-15 18:39:49,677 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@42b455d0
+2015-09-15 18:39:51,173 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 903 | 273
+2015-09-15 18:39:51,180 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-15 18:39:51,185 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 3.27565860748291 | network: 0 | ssid: "Bond, James Bond"
+2015-09-15 18:39:51,186 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 3.27565860748291
+2015-09-15 18:39:51,204 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-15 18:39:51,205 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 15 Sep 2015 21:39:47 GMT, Connection: keep-alive, Content-Length: 9127]
+2015-09-15 18:39:51,206 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:9127
+2015-09-15 18:39:51,443 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 9127 | 354
+2015-09-15 18:39:51,447 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-15 18:39:51,450 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 24.355592727661133 | network: 0 | ssid: "Bond, James Bond"
+--
+2015-09-15 18:39:51,494 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 18:39:51,495 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 14 from 35
+2015-09-15 18:39:51,495 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.careersusa.com/portals/0/BusinessPeopleImage2.png
+2015-09-15 18:39:51,498 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-15 18:39:51,499 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.35
+2015-09-15 18:39:51,499 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-15 18:39:52,723 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 150706.0 | local: true
+2015-09-15 18:39:52,724 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: cannot interpolate local. Res true
+2015-09-15 18:39:52,724 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-15 18:39:52,725 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://www.careersusa.com/portals/0/BusinessPeopleImage2.png, field-<android.graphics.Bitmap$Config: android.graphics.Bitmap$Config RGB_565>-local12693927561442346477050=RGB_565, field-<android.graphics.Paint$Style: android.graphics.Paint$Style STROKE>-local5496944221442346477050=STROKE, field-<android.graphics.Bitmap$CompressFormat: android.graphics.Bitmap$CompressFormat JPEG>-local-4607373641442346477050=JPEG, field-<android.graphics.Bitmap$Config: android.graphics.Bitmap$Config RGB_565>-local12693927561442346477049=RGB_565, field-<android.graphics.Paint$Style: android.graphics.Paint$Style STROKE>-local5496944221442346477049=STROKE, @this=br.com.lealdn.fd.FaceUtils@42660ae0}
+2015-09-15 18:39:52,725 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-15 18:39:52,727 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-15 18:39:52,727 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@427b3750
+2015-09-15 18:39:54,729 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 856 | 277
+2015-09-15 18:39:54,732 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-15 18:39:54,736 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 3.127333879470825 | network: 0 | ssid: "Bond, James Bond"
+2015-09-15 18:39:54,737 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 3.127333879470825
+2015-09-15 18:39:54,745 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-15 18:39:54,746 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 15 Sep 2015 21:39:51 GMT, Connection: keep-alive, Content-Length: 4248]
+2015-09-15 18:39:54,747 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:4248
+2015-09-15 18:39:55,006 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 4248 | 511
+2015-09-15 18:39:55,009 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-15 18:39:55,012 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 11.521608352661133 | network: 0 | ssid: "Bond, James Bond"
+--
+2015-09-15 18:39:55,047 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 87
+2015-09-15 18:39:55,048 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 15 from 35
+2015-09-15 18:39:55,048 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.cpplcounseling.com/uploads/4/6/8/2/46828361/2181364_orig.jpg
+2015-09-15 18:39:55,052 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-15 18:39:55,053 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.35
+2015-09-15 18:39:55,054 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-15 18:39:56,063 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 661329.0 | local: true
+2015-09-15 18:39:56,064 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: cannot interpolate local. Res true
+2015-09-15 18:39:56,065 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-15 18:39:56,066 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://www.cpplcounseling.com/uploads/4/6/8/2/46828361/2181364_orig.jpg, field-<android.graphics.Bitmap$Config: android.graphics.Bitmap$Config RGB_565>-local12693927561442346477050=RGB_565, field-<android.graphics.Paint$Style: android.graphics.Paint$Style STROKE>-local5496944221442346477050=STROKE, field-<android.graphics.Bitmap$CompressFormat: android.graphics.Bitmap$CompressFormat JPEG>-local-4607373641442346477050=JPEG, field-<android.graphics.Bitmap$Config: android.graphics.Bitmap$Config RGB_565>-local12693927561442346477049=RGB_565, field-<android.graphics.Paint$Style: android.graphics.Paint$Style STROKE>-local5496944221442346477049=STROKE, @this=br.com.lealdn.fd.FaceUtils@42660ae0}
+2015-09-15 18:39:56,067 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-15 18:39:56,068 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-15 18:39:56,069 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@42620910
+2015-09-15 18:39:59,658 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 869 | 256
+2015-09-15 18:39:59,660 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-15 18:39:59,663 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 3.3410918712615967 | network: 0 | ssid: "Bond, James Bond"
+2015-09-15 18:39:59,663 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 3.3410918712615967
+2015-09-15 18:39:59,681 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-15 18:39:59,682 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 15 Sep 2015 21:39:56 GMT, Connection: keep-alive, Content-Length: 6466]
+2015-09-15 18:39:59,682 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:6466
+2015-09-15 18:39:59,908 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 6466 | 354
+2015-09-15 18:39:59,910 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-15 18:39:59,913 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 16.916751861572266 | network: 0 | ssid: "Bond, James Bond"
