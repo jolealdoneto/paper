@@ -1,0 +1,105 @@
+2015-09-22 12:42:01,578 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://thumbs.dreamstime.com/z/viele-verschiedenen-menschlichen-gesichter-21328077.jpg
+2015-09-22 12:42:01,652 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 72
+2015-09-22 12:42:06,021 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 4441
+2015-09-22 12:42:06,077 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://ishootthepictures.files.wordpress.com/2011/06/vincent2bprice-1.jpg
+2015-09-22 12:42:06,220 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 138
+2015-09-22 12:42:10,601 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 4519
+2015-09-22 12:42:10,629 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://thumbs.dreamstime.com/z/lots-faces-17959298.jpg
+2015-09-22 12:42:10,794 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 162
+2015-09-22 12:42:14,912 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 4281
+2015-09-22 12:42:14,958 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.tumblr.com/93e033ed5b263d7e74512f58c3699318/9bfmqds/7Ppn5b518/tumblr_static_1ivgnnby2hs0888ko8cs88swc.jpg
+2015-09-22 12:42:15,109 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 144
+2015-09-22 12:42:19,229 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 4264
+2015-09-22 12:42:19,282 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.dominicanfashionmodelsblog.com/wp-content/uploads/2014/01/PicMonkey-Collage.jpg
+2015-09-22 12:42:20,779 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 1493
+2015-09-22 12:42:29,394 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 10107
+2015-09-22 12:42:29,574 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://4.bp.blogspot.com/-XdZBpZZSQt4/Tm9YbUH1fWI/AAAAAAAAGBw/mim26LFXW_I/s1600/Cam%2BGreig%2B055.jpg
+2015-09-22 12:42:30,233 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 631
+2015-09-22 12:42:34,327 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 4724
+2015-09-22 12:42:34,473 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.artbyphil.com/phfx/dib/art00002_LightingInADigitalAge/bigs/LotsOfLights.jpg
+2015-09-22 12:42:35,086 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 580
+2015-09-22 12:42:45,575 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 11069
+2015-09-22 12:42:45,651 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://imgick.nj.com/home/njo-media/width960/img/star-ledger/photo/2013/08/-20429c7f73b547f3.jpg
+2015-09-22 12:42:45,834 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 176
+2015-09-22 12:42:51,688 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 6029
+2015-09-22 12:42:51,736 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.photo.net/attachments/bboard/00Z/00Zlmt-426785684.jpg
+2015-09-22 12:42:51,909 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 169
+2015-09-22 12:42:53,631 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 1891
+2015-09-22 12:42:53,679 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://images.travelpod.com/tw_slides/ta00/9ce/46c/lots-of-smiley-faces-tuticorin.jpg
+2015-09-22 12:42:53,817 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 131
+2015-09-22 12:42:56,905 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 3219
+2015-09-22 12:42:56,954 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cs.brown.edu/courses/cs143/results/proj4/asunderl/data/classface2.png
+2015-09-22 12:42:57,118 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 147
+2015-09-22 12:43:04,579 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 7608
+2015-09-22 12:43:04,656 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.bucksketball.com/wp-content/uploads/2013/03/photos4.jpg
+2015-09-22 12:43:04,911 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 235
+2015-09-22 12:43:07,172 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 2497
+2015-09-22 12:43:07,239 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://worldonline.media.clients.ellingtoncms.com/img/croppedphotos/2011/10/14/medianewWEB_t650.jpg?eec9ecda5f66de59a37bbdb23c6f48523261b548
+2015-09-22 12:43:07,328 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 86
+2015-09-22 12:43:08,921 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 1679
+2015-09-22 12:43:09,058 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11357296_1656525614576589_1901514389_n.jpg
+2015-09-22 12:43:09,351 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 280
+2015-09-22 12:43:12,093 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 3022
+2015-09-22 12:43:12,274 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.careersusa.com/portals/0/BusinessPeopleImage2.png
+2015-09-22 12:43:12,612 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 304
+2015-09-22 12:43:17,165 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 4856
+2015-09-22 12:43:17,399 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.cpplcounseling.com/uploads/4/6/8/2/46828361/2181364_orig.jpg
+2015-09-22 12:43:17,801 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 364
+2015-09-22 12:44:06,314 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 48878
+2015-09-22 12:44:06,504 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://captital-connection.com/wp-content/uploads/2014/10/capitalconnectionpeople.jpg
+2015-09-22 12:44:06,770 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 253
+2015-09-22 12:44:20,250 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 13733
+2015-09-22 12:44:20,279 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.harbourcitydental.com/wordpress/wp-content/uploads/2010/08/Big-Group-of-People.png
+2015-09-22 12:44:20,327 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 28
+2015-09-22 12:44:36,495 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 16195
+2015-09-22 12:44:36,648 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.tesco.ie/crreview08/images/SML_tesco_people.jpg
+2015-09-22 12:44:37,077 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 378
+2015-09-22 12:44:45,631 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 8932
+2015-09-22 12:44:45,765 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cdn.trendhunterstatic.com/thumbs/free-people-vegan-leather.jpeg
+2015-09-22 12:44:46,212 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 405
+2015-09-22 12:44:49,624 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 3817
+2015-09-22 12:44:49,757 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://dailygenius.com/wp-content/uploads/2014/12/friendly-people.jpg
+2015-09-22 12:44:50,023 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 215
+2015-09-22 12:45:11,288 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 21480
+2015-09-22 12:45:11,340 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://images1.miaminewtimes.com/imager/the-six-people-you-meet-aboard-holy-ship/u/original/6471130/holy_ship_people_you_meet_miami_2014.jpg
+2015-09-22 12:45:11,492 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 135
+2015-09-22 12:45:13,451 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 2091
+2015-09-22 12:45:13,555 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.nsai.ie/Our-Services-(1)/Certification/1--Excellence-Through-People/2012-ETP-Web-Page-Banner.aspx
+2015-09-22 12:45:13,688 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 113
+2015-09-22 12:45:16,166 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 2587
+2015-09-22 12:45:16,240 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.ddmcdn.com/gif/11-billion-people.jpg
+2015-09-22 12:45:16,710 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 441
+2015-09-22 12:45:22,294 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 6022
+2015-09-22 12:45:22,433 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://previews.123rf.com/images/andreypopov/andreypopov1309/andreypopov130900314/22381835-Happy-Group-Of-People-Dressed-In-Casual-Standing-Over-White-Background-Stock-Photo.jpg
+2015-09-22 12:45:22,997 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 512
+2015-09-22 12:45:25,779 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 3290
+2015-09-22 12:45:25,885 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://canadianimmigrant.ca/wordpress/wp-content/uploads/diversity-people1.jpg
+2015-09-22 12:45:26,339 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 408
+2015-09-22 12:45:28,656 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 2724
+2015-09-22 12:45:28,950 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.usabuscharter.com/Business_People_Pinnacle_Jpeg.jpg
+2015-09-22 12:45:29,357 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 347
+2015-09-22 12:45:34,586 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 5577
+2015-09-22 12:45:34,799 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://photoblog.statesman.com/wp-content/uploads/2011/09/cv-acl-022.jpg
+2015-09-22 12:45:35,204 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 367
+2015-09-22 12:45:39,405 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 4567
+2015-09-22 12:45:39,596 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.francisvachon.com/blog/wp-content/photo/2012/07/crowd-surfing-04.jpg
+2015-09-22 12:45:39,969 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 340
+2015-09-22 12:45:42,868 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 3238
+2015-09-22 12:45:43,108 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://newsimg.bbc.co.uk/media/images/44522000/jpg/_44522490_crowd416.jpg
+2015-09-22 12:45:43,586 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 432
+2015-09-22 12:45:45,135 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 1979
+2015-09-22 12:45:45,347 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://c1.staticflickr.com/9/8318/8002278966_2907d0183c.jpg
+2015-09-22 12:45:45,759 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 362
+2015-09-22 12:45:48,813 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 3413
+2015-09-22 12:45:49,015 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.bob-baker.com/self-publish-book/blog/uploaded_images/FanCrowd-782710.PNG
+2015-09-22 12:45:49,479 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 410
+2015-09-22 12:45:56,313 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 7245
+2015-09-22 12:45:56,406 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-22 12:45:56,684 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 265
+2015-09-22 12:45:59,468 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 3045
+2015-09-22 12:45:59,659 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cdn.bleedingcool.net/wp-content/uploads/2013/05/the-it-crowd-s2e1-20081218145048-1_625x352.jpg?f6a06b
+2015-09-22 12:46:00,061 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 355
+2015-09-22 12:46:02,003 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 2297
+2015-09-22 12:46:02,208 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.clarity-research.net/wp-content/uploads/2015/03/we-serve.jpg
+2015-09-22 12:46:02,664 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 409
+2015-09-22 12:46:05,830 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 3574

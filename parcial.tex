@@ -62,7 +62,7 @@ Most offloading frameworks employ as input parameters the available bandwidth an
  
 Location should be taken into account when deciding to offload computation. Location directly affects properties such as energy consumption, round-trip time and available bandwidth. This means that the quality of experience (QoE) perceived by the user is also location dependent. When using the mobile device in an area with poor connectivity, the antenna has to be kept in a high energy state. The same applies for WiFi and mobile data. According to \cite{Schulman10bartendr:a}, six times more energy can be spent when transferring data in such situations. Existing frameworks do not account for location, resulting therefore in poor predictions in many cases.
    
- Exact geopositioning, however, can be too costly or even unecessary. When the mobile device is connected to a cellphone tower, the tower identifier is available to the applications. This means that one can  correlate the tower identification with the user location. This information is more meaningful than the user's position, since the cellphone can be connected to several towers in a given location. In such cases, one tower can be completely overwhelmed while a nearby tower will provide an acceptable QoE. Thus,  knowing the exact geo-positioning of the user is usually not necessary. 
+ Exact geo-positioning, however, can be too costly or even unecessary. When the mobile device is connected to a cellphone tower, the tower identifier is available to the applications. This means that one can  correlate the tower identification with the user location. This information is more meaningful than the user's position, since the cellphone can be connected to several towers in a given location. In such cases, one tower can be completely overwhelmed while a nearby tower will provide an acceptable QoE. Thus,  knowing the exact geo-positioning of the user is usually not necessary. 
    
 %   The LAC/CID of the tower, is therefore used as key to contextualize metrics. Clients connected to one tower will face similar connection speed.
 
@@ -88,18 +88,16 @@ The remainder of the paper is organized as follows. Section \ref{sec:related} di
 
 \begin{figure}[!t]
   \centering
-  \includegraphics[width=0.35\textwidth]{imgs/system.jpeg}
-  \caption{Structure of an Offloading Framework}
-  \label{fig:systemDiagram}
+  \includegraphics[width=0.35\textwidth]{imgs/diagram-complete.jpeg}
+  \caption{Offload process}
+  \label{fig:offloadprocess}
 \end{figure}
 
 \section{Proposed Offloading Decision} 
 \label{sec:design}
 
-  This project focuses on the offloading decision, however we describe the components of an offloading system before diving into the details of our solution. \ref{fig:systemDiagram} shows the components of an offloading framework. The {\it instrumentation component} will intercept and instrument the candidate methods for offloading. It receives annotated code, which marks the methods that are candidates for offloading. Whenever such methods are about to be executed, the instrumentation system calls the decision engine in order to determine if offloading should be performed. The instrumentation component also stores results and partial steps of these instrumentations. {\color{red} WHAT IS RESULTS AND PARTIAL STEPS? PLEASE EXPLAIN}.  The {\it decision engine} decides if offloading should be performed. In order to do so, it must estimate how much energy and CPU the method would consume if it were executed locally, as well as the time and energy required to transfer the method and its data to an offloading infrastructure.  The {\it connector module} is activated when offloading is performed, and takes care of remote connectivity and serialization/deserialization of objects.  The main contribution of this work is the decision engine, namely the use of location awareness in the offloading decision as well as the use of spline interpolation to better model the decision variables used by the engine.
+  This project focuses on the offloading decision, however we describe the components of an offloading system before diving into the details of our solution. \ref{fig:offloadprocess} shows the components of an offloading framework. The {\it instrumentation component} will intercept and instrument the candidate methods for offloading. It receives annotated code, which marks the methods that are candidates for offloading. Whenever such methods are about to be executed, the instrumentation system calls the decision engine in order to determine if offloading should be performed. The instrumentation component also stores results of method execution times, network usage, partial calculations of bandwidth among others. The {\it decision engine} decides if offloading should be performed. In order to do so, it must estimate how much energy and CPU the method would consume if it were executed locally, as well as the time and energy required to transfer the method and its data to an offloading infrastructure.  The {\it connector module} is activated when offloading is performed, and takes care of remote connectivity and serialization/deserialization of objects.  The main contribution of this work is the decision engine, namely the use of location awareness in the offloading decision as well as the use of spline interpolation to better model the decision variables used by the engine.
   
- {\color{red} THE DIAGRAM (FIGURE fig:systemDiagram) IS MISSING!!!!!}
-
   The proposed decision engine models the offloading problem using utility functions, and it is up to the user to decide if the engine should prioritize either reducing execution time or energy consumption. A constant, $\alpha, 0 \leq \alpha \leq 1$ is used for this purpose. A smaller $\alpha$ will make the decision tend towards saving energy. On the other hand, a bigger alpha will improve responsiveness. 
 
   The main equations for the boolean decision are presented below:
@@ -136,15 +134,9 @@ The remainder of the paper is organized as follows. Section \ref{sec:related} di
     Asm(A) := \sum_{a \in A} assess(a)
   \end{equation}
 
-The same approach is used for the remote execution time, gathering the execution time from the server and interpolating this value. On the remote platform we must take into account the additional uploading and downloading of the method's serialized arguments. To calculate this, location aware historical empirical data is used from past executions. Every time the method runs, location aware bandwidth is calculated and added to this database. The rule of thumb is: when on WiFi, bandwidth values from the same \textit{SSID} are used. When on mobile data, the tower's LAC/CID is recorded, together with its signal-to-noise ratio to later calculate expected bandwidth values.
+The same approach is used for the remote execution time, gathering the execution time from the server and interpolating this value. On the remote platform we must take into account the additional uploading and downloading of the method's serialized arguments. To calculate this, location aware historical empirical data is used from past executions. Every time the method runs, location aware bandwidth is calculated and added to this database. The rule of thumb is: when on WiFi, bandwidth values from the same AP's \textit{MAC} address are used. When on mobile data, the tower's LAC/CID is recorded, together with its signal-to-noise ratio to later calculate expected bandwidth values.
 
-
-{\color{red}
-The bandwidth estimates are aggregated by SSID, however this can generate imprecisions on certain cases. First, large WiFi deployments may have many access point with the same SSID, and the number of clients and link quality may vary among them, generating imprecisions. Second, a common WiFi name, e.g. 'Starbucks WiFi'. I suggest to change here to the AP's MAC address.
-
-FOR FUTURE WORK: HOW DO YOU MANAGE THE LIST OF LOCATIONS? SHOULD WE HAVE A BUFFER WITH SOME SORT OF EVICTION POLICY, EG FIFO OR LFU?
-
-YOU ALSO DO NOT MENTION HOW YOU GET DATA FOR BOTH LOCAL AND REMOTE EXECUTION AT THE BEGGINING. DO YOU SEND BOTH METHODS FOR LOCAL AND REMOTE EXECUTION TO GET THE FIRST DATA POINTS?}
+It is not possible to interpolate values in the beginning, since the system does not have enough data. To circumvent this, the system initially checks if interpolation is possible at the time. If no, a random value $r$, $0 \leq r \leq 1$ is chosen. The response in these cases will be $decision(M) := r \leq 0.5$. That is, the system will randomly offload values in order to generate data until it can make a valid decision. This will of course depend of network state: If internet connectivity is not present, the decision will always be \textbf{not} to offload.
 
  To update the bandwidth values in the database, Equation \ref{eq:bandwidthup} is used to avoid drastic changes.
 
@@ -164,7 +156,7 @@ YOU ALSO DO NOT MENTION HOW YOU GET DATA FOR BOTH LOCAL AND REMOTE EXECUTION AT 
 \subsection{Modeling Energy Consumption} 
 \label{sec:energy}
 
-  Many efforts were made to calculate energy from the mobile platform. The question still remains open, since there is still no precise way to calculate the method's energy consumption from a user-level point of view. The engine cannot gather this data precisely, therefore two assumptions are made: (a) Time is energy, so energy spent is directly proportional to time spent. {\color{red} (b) WiFi/Mobile Data are comparable to CPU. I DID NOT UNDERSTAND THIS SENTENCE. PLEASE EXPLAIN.}  That means that using a modifier constant one can find a direct mapping between these values. This facilitates the normalization of the utility function, since it results on the same unit (time) when comparing CPU and time \cite{6606420}.
+  Many efforts were made to calculate energy from the mobile platform. The question still remains open, since there is still no precise way to calculate the method's energy consumption from a user-level point of view. The engine cannot gather this data precisely, therefore two assumptions are made: (a) Time is energy, so energy spent is directly proportional to time spent. (b) WiFi/Mobile Data energy usage can be modelled as a function of CPU energy usage. That means that using a modifier constant one can find a direct mapping between these values. This facilitates the normalization of the utility function, since it results on the same unit (time) when comparing CPU and time \cite{6606420}.
 
   The local energy consumption is therefore a sum of the CPU time spent, together with any data transferred by the method. This is  collected at runtime and interpolated following the approach presented for the execution time. In fact, two splines are created: one for execution time, the other for transferred data. This is done because of the black-box approach taken in this work. Equation \ref{eq:energylocal} presents the local execution time:
 
@@ -185,7 +177,7 @@ YOU ALSO DO NOT MENTION HOW YOU GET DATA FOR BOTH LOCAL AND REMOTE EXECUTION AT 
   When on cellular connectivity, the framework acts differently in order to predict real values for the current bandwidth. A slightly modified version of Shannon's equation is used, together with the current signal-to-noise ratio (SNR) acquired in real time from the mobile device, to estimate the user's bandwidth. This is required since a mobile tower server a much larger area than a WiFi access point, so the bandwidth varies significantly based on location. More formally, when receiving the perceived bandwidth $bw$, and the signal-to-noise ratio $SNR$, the LAC/CID from the current radio tower connected, a value $S$ is recorded in the database defined by:
 
   \begin{equation} \label{eq:shannonbw}
-    S := bw / log_2(1 + SNR)
+    S := bw * log_2(1 + SNR)
   \end{equation}
 
   The stored result will be then later retrieved to provide a location aware bandwidth, which will better describe the conditions at that location, taking into account the signal quality at the moment. To retrieve the bandwidth in a later time, the following reverse Shannon equation is used:
@@ -194,7 +186,7 @@ YOU ALSO DO NOT MENTION HOW YOU GET DATA FOR BOTH LOCAL AND REMOTE EXECUTION AT 
     S' := S / log_2(1 + SNR)
   \end{equation}
 
-  This way, a new educated guess is retrieved according to new values of $SNR$ {\color{red} and $S$ ?????} at the tower. Upon receiving new data, this value is updated, thus maintaining the most actual state.
+  This way, a new educated guess is retrieved according to new values of $SNR$ and $S$ \ref{eq:shannonbw} at the tower. Upon receiving new data, this value is updated, thus maintaining the most actual state.
   
 \subsection{Limitations of the Proposal}
 
@@ -212,13 +204,6 @@ We created a full-sized Android application for recognizing faces to measure the
 \subsection{Offloading framework}
 
 We implemented an offloading framework for this paper. Our implementation does not require OS modifications on the mobile devices. As a consequence, it can be used directly in the user level, unlike some existing frameworks which require administrative privileges  \cite{Chun:2011:CEE:1966445.1966473}. Thus, an application developer could employ this framework to improve the responsiveness of its applications using cheap Cloud resources (e.g. using IaaS services so that the cost is a function of usage).
-
-  \begin{figure}[htb]
-  \centering
-  \includegraphics[width=0.35\textwidth]{imgs/system.jpeg}
-  \caption{Typical structure of an offloading framework.}
-  \label{fig:systemDiagram}
-\end{figure}
 
   The proposed offloading framework has a simple structure: (a) Post-compiler bytecode manipulator to inject method interceptors; (b) Remote execution platform running a Dalvik Virtual Machine \cite{ehringer2010dalvik}; (c) Offloading client library for server connection handling, serialization and deserialization, decision engine and instrumentation.  The decision engine described previously is plugged into (c). The remaining parts of the framework will be briefly explained for contextualization, but its scope differ from this project.
 
@@ -250,7 +235,7 @@ We implemented an offloading framework for this paper. Our implementation does n
   
   The main goal is now to test whether the decision engine works under real life circumstances. The experiments were conducted in to order assess the differences between an application with and without the Offloading Framework. A version of the application including the framework and the decision engine of this project were used.
 
-A total of 36 image URLs were chosen, containing images from various sizes, colors and dimensions. Some of them contained a crowd with people whereas in others just one person. One can therefore test the performance of the methods and the correct instrumentation of each of them. The test consists of executing the method, providing these images in a cycle, 10 times in a row, occupying therefore the CPU and radio for about 20 minutes. The experiment evaluated the application using the decision engine, as well as the same application without offloading, under the same conditions. The tests were performed in a moving vehicle, communicating using an LTE Radio. The vehicle followed a pre-determined route, comprising of roads on the {\color{red} city center/suburbs/crowded neighborhood} of Belo Horizonte, Brazil. {\color{red} Each run of the circuit was completed in roughly 20 minutes, and comprised XXkm}. Both versions of the application were run under normal battery conditions, with battery the saving mode disabled. The screen was maintained off the whole time and there were no other applications running on the background.
+  A total of 36 image URLs were chosen, containing images from various sizes, colors and dimensions. Some of them contained a crowd with people whereas in others just one person. One can therefore test the performance of the methods and the correct instrumentation of each of them. The test consists of executing the method, providing these images in a cycle, 10 times in a row, occupying therefore the CPU and radio for about 20 minutes. The experiment evaluated the application using the decision engine, as well as the same application without offloading, under the same conditions. The tests were performed in a moving vehicle, communicating using an LTE Radio. The vehicle followed a pre-determined route, comprising of roads on the city center of Belo Horizonte, Brazil. Each run of the circuit was completed in roughly 20 minutes, and comprised 6.7km. Both versions of the application were run under normal battery conditions, with battery the saving mode disabled. The screen was maintained off the whole time and there were no other applications running on the background. The experiments were done using the values $\alpha = 1, C_{cpu} = 1, C_{radio} = 1$. The correct setting of these values will be better investigated in a future work.
 
 \begin{figure}[t]
   \centering
@@ -278,14 +263,14 @@ This scenario analyzes the behavior of the utility curves.  As they are directly
 
   \begin{table}[t]
   \centering
-  \caption{Example of evaluation of utility functions per image}
+  \caption{Example of evaluation of utility functions per image, \textbf{L} for local execution, \textbf{R} for remote}
   \label{table:utility}
-  \begin{tabular}{rcrrc}
-    \textbf{Image size} & \textbf{Dimension} & \textbf{Local} & \textbf{Remote} & \textbf{BW (bps)} \\
-   33kb & 416x300 & 287 & 880.30 & 12.74 \\
-   28.9kb & 600x400  & 866 & 1237.59 & 7.80 \\
-   545.8kb & 2000x1000  & 15231 & 3070.03 & 6.69 \\
-   2.2mb & 1632x1226  & 32746 & 4288.64 & 12.03 \\
+  \begin{tabular}{rcrrcc}
+    \textbf{Image size} & \textbf{Dimension} & \textbf{Local} & \textbf{Remote} & \textbf{BW (bps)} & \textbf{Decision} \\
+   33kb & 416x300 & 287 & 880.30 & 12.74 & L \\
+   28.9kb & 600x400  & 866 & 1237.59 & 7.80 & L \\
+   545.8kb & 2000x1000  & 15231 & 3070.03 & 6.69 & R \\
+   2.2mb & 1632x1226  & 32746 & 4288.64 & 12.03 & R \\
   \end{tabular}
   \end{table}
 
@@ -293,7 +278,7 @@ This scenario analyzes the behavior of the utility curves.  As they are directly
 
 \subsection{Location Awareness}
 
-One of the contributions of this paper is the location-aware modeling of the bandwidth. As explained before, the LAC/CID of the cell towers were stored together with its bandwidth in order to achieve faster convergence of bandwidth contextualized by location. Thus, in order to assess whether location was important, we measured the upload and download bandwidth of the LTE towers located during our experiments.  Figure \ref{fig:bwtime} shows the results. The assumption that bandwidth changes according to the cell tower proved to be correct, as its values varied for every tower. {\color{red} In the analyzed circuit, the bandwidth per tower varied up to X\% from one tower to another.} Further, Figure \ref{fig:bwtowers} presents the bandwidth variations over time. In  the figure, one can see these values according to cell tower and application execution time. Areas with different background color mean a tower change. {\color{red}We can observe that the banwidth varied by as much as XXX\%. IS THE MAGNITUDE OF THE VARIATION THE SAME FOR DOWNLOAD AND UPLOAD LINKS?}
+One of the contributions of this paper is the location-aware modeling of the bandwidth. As explained before, the LAC/CID of the cell towers were stored together with its bandwidth in order to achieve faster convergence of bandwidth contextualized by location. Thus, in order to assess whether location was important, we measured the upload and download bandwidth of the LTE towers located during our experiments.  Figure \ref{fig:bwtime} shows the results. The assumption that bandwidth changes according to the cell tower proved to be correct, as its values varied for every tower. We can observe that the banwidth varied by as much as 61\% for download link, and 20\% for upload link. That is, we can see that the variation of upload link is much smaller. Further, Figure \ref{fig:bwtowers} presents the bandwidth variations over time. In  the figure, one can see these values according to cell tower and application execution time. Areas with different background color mean a tower change. 
 
 \begin{figure}[b]
   \centering
@@ -306,11 +291,19 @@ One of the contributions of this paper is the location-aware modeling of the ban
   \centering
   \includegraphics[width=0.5\textwidth]{results/plots/bw-fluctuation/executions.png}
   \caption{Bandwidth values over time during the experiment. Different background colors mean a cell tower change.}
-  \label{fig:bwtower}
+  \label{fig:bwtowers}
 \end{figure}
 
-  
-{\color{red}  Comparing the battery usage, one can see that little overhead and calculations are needed to determine whether offloading is a feasible option depending on context. The decision engine showed very good performance on calculating bandwidth, signal-to-noise ratio and execution time. Positioning was obtained by using the LAC/CID of the current cell tower. THIS CANNOT BE AFFIRMED NOW. YOU DO NOT SHOW RESULTS TO BACK THIS CLAIM. ONE IDEA IS TO MEASURE, IF POSSIBLE, THE OVERHEAD OF THE CALCULATION. I SUGGEST YOU TO MEASURE HOW LONG IT TAKES TO CALCULATE THE METHOD WITH AND WITHOUT THE OFFLOADING INSTRUMENTATION IN ORDER TO SAY THAT THE OVERHEAD IS NOT SIGNIFICANT.}
+\subsection{System overhead}
+
+To calculate the overall overhead of the proposed decision engine, two checkpoints were added outputting the delta of executions times, one right after the decision engine, and one right before the method result. The first checkpoint accounts to the total of $7.39\%$ in average of the whole process. The highest overhead was $21.89\%$. That means that most calculations are made with less than 10\% overhead. Figure \ref{fig:overheadexec} shows us the overhead values according to the total execution of each URL.
+
+\begin{figure}[t]
+  \centering
+  \includegraphics[width=0.5\textwidth]{results/plots/overhead/overhead.png}
+  \caption{Overhead of the decision engine experienced in executions}
+  \label{fig:overheadexec}
+\end{figure}
 
  % Predicting the size of the result has also an impact in behaviour. It can be a turning point when compared to some method that may deliver a complex object. The remote platform could try to do a regression based on historical data and return the approximated result size in a later point, but currently it remains unknown until it is actually executed. For future executions, the assessment is used to retrieve this value in the future. I COMMENTED THIS PART BECAUSE IT IS A QUALITATIVE ASSESSMENT, WHICH DOES NOT PRESENT NUMBERS TO BACK THE CLAIMS.
 
@@ -319,7 +312,7 @@ One of the contributions of this paper is the location-aware modeling of the ban
 
   In order to check the accuracy of the proposed model, the following steps were made:
   \begin{enumerate}
-    \item With the results of the previous experiment already stored in the historical database, 3 unseen URLs were chosen.
+    \item With the results of the previous experiment already stored in the historical database, 4 unseen URLs were chosen.
     \item The Utility $L(M)$ and $R(M)$ were calculated for each of them.
     \item Additionally, the method was run on the local and remote platform separately and the execution times of each were computed.
   \end{enumerate}
@@ -329,18 +322,21 @@ Table \ref{table:correctness} presents the behavior of the utility function calc
 
   \begin{table}[!t]
   \centering
-  \caption{Correctness of utility functions}
+  \caption{Correctness of utility functions, deviation of values between parenthesis}
   \label{table:correctness}
-  \begin{tabular}{rcrrc}
+  \begin{tabular}{rcrrr}
     \textbf{ Img size } & \textbf{Local} & \textbf{Local Ut.} & \textbf{Remote} & \textbf{Remote ut.} \\
-   100kb & 2600 & 1549 & 2363 & 1350.18 \\
-   99.5kb & 2838  & 2539 & 2549 & 1649 \\
-   104.7kb & 2734  & 2621.85 & 1900 & 1222.88 \\
-   47.8kb & 1233  & 1307 & 1320 & 1622.88
+   100kb & 2600 & 1549 (40\%) & 2363 & 1350.18 (42\%) \\
+   99.5kb & 2838  & 2539 (10\%) & 2549 & 1649 (35\%) \\
+   104.7kb & 2734  & 2621.85 (4\%) & 1900 & 1222.88 (35\%) \\
+   47.8kb & 1233  & 1307 (6\%) & 1320 & 1622.88 (22\%)
   \end{tabular}
   \end{table}
 
-{\color{red} HERE YOU CAN USE CLASSIC CURVE FITTING METRICS TO MEASURE THE EFFECTIVENESS OF THE UTILITY FUNCTION: 1 - R2. THE R2 COEFFICIENT MEASURES HOW MUCH OF THE DATA IS EXPLAINED BUY THE REGRESSION. HIGHER VALUES OF R2 MEAN THAT YOUR INTERPOLATION IS BETTER. 2 - RMS (https://en.wikipedia.org/wiki/Root\_mean\_square). THE ROOT MEAN SQUARE OF THE ERROR, THAT IS, THE ESTIMATED VALUE WHEN COMPARED TO THE ACTUAL VALUE. THIS IS ALSO A VERY IMPORTANT METRIC OF ACCURACY WHEN APPROXIMATING A FUNCTION.}
+{\color{red}
+Jose: We cannot really do this, because we don't have the necessary data for it. The 4 points available are the only (real measurements vs utility) we have so far.
+
+HERE YOU CAN USE CLASSIC CURVE FITTING METRICS TO MEASURE THE EFFECTIVENESS OF THE UTILITY FUNCTION: 1 - R2. THE R2 COEFFICIENT MEASURES HOW MUCH OF THE DATA IS EXPLAINED BUY THE REGRESSION. HIGHER VALUES OF R2 MEAN THAT YOUR INTERPOLATION IS BETTER. 2 - RMS (https://en.wikipedia.org/wiki/Root\_mean\_square). THE ROOT MEAN SQUARE OF THE ERROR, THAT IS, THE ESTIMATED VALUE WHEN COMPARED TO THE ACTUAL VALUE. THIS IS ALSO A VERY IMPORTANT METRIC OF ACCURACY WHEN APPROXIMATING A FUNCTION.}
 
 \section{Conclusions and Future Work}
 \label{sec:conclusion}
@@ -351,22 +347,8 @@ This paper presented a location-aware offloading framework for mobile devices. T
 
 The framework was evaluated experimentally, using a face detection application. The results have shown that the battery usage can be greatly improved by efficiently offloading methods to a remote platform. Further, we also evaluated the effectiveness of the modeling, measuring the accuracy of the interpolations as well as whether the bandwidth actually changes among cell towers.
 
-{\color{red}
 \subsection{Future work}
-
-IT IS NOT USUAL IN CONFERENCE PAPERS TO HAVE FUTURE WORK THAT IS SO LONG. I SUGGEST THAT YOU REDUCE THIS TEXT TO ONE PARAGRAPH AT MOST.
-
-  The conception of this decision engine is still a moving target and many parts have room for improvement.
-
-  The concept of assessment should be better researched: being able to cache results according to the method's assessment value can avoid doing the same computations again. Given some assessment $a$, one can try to predict the outcome of the decision based on historical data. Additionally, since the real word is very difficult to be modelled, some entropy can be added to the engine, giving the system some beneficial randomization.
-
-  The parametrization of the constants $C_{cpu}$ and $C_{radio}$ may not always model real world scenarios. For some cellphone chipsets, the energy spent function is not always linear, having sometimes the form of a ladder according to some situations, such as shutdown of cores or energy saving mode employed by them. That means that in order to normalize the utility functions, one will need a more complex mapping.
-
-  Shannon's equation to predict bandwidth according to $SNR$ also can be improved in some cases. Although it depicts the bandwidth with very good approximation, it will output the upper bound of the connection capacity. The correct values for the connection will actually lie a little bellow this line. Since LTE uses different modulations according to $SNR$, one good approach would be to retrieve these ranges and apply the capacity of theses modulations in respect to $SNR$. That will result on the real values obtained by device.
-
-  Since the WiFi and cellular data antenna is kept in a higher state when signal is poor, our future work also includes changing the energy function according to these states. This is not overall simple, since this is very dependent on chipset and cellphone model. For cellphone antenna, the service provider itself can also control this behaviour. That means that capturing these states is not an easy task.
-
-  Security was left as a topic to be worked. So far the framework does not employ any checks regarding the authority of the remote platform or the values returned. This may turn into a serious issue and can be a backdoor for attackers. In order to make the framework an end-user product, a secure connection should be used coupled with server-side certificates and probably public/private keys for the communicating to the remote platform.}
+  The parametrization of the constants $C_{cpu}$ and $C_{radio}$ may not always model real world scenarios. For some cellphone chipsets, the energy spent function is not always linear, having sometimes the form of a ladder according to some situations, such as shutdown of cores or energy saving mode employed by them. Shannon's equation to predict bandwidth according to $SNR$ can also be improved in some cases. Although it depicts the bandwidth with very good approximation, it will output the upper bound of the connection capacity. Since LTE uses different modulations according to $SNR$, one good approach would be to retrieve these ranges and apply the capacity of theses modulations in respect to $SNR$. An eviction policy should be better applied in cases were the storage capacity of historical data is depleted. This can be a FIFO or a LRU data structure.
 
 \bibliographystyle{unsrt}
 \bibliography{parcial}

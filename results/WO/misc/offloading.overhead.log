@@ -1,0 +1,1207 @@
+2015-09-22 12:42:01,553 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - Starting test.
+2015-09-22 12:42:01,561 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---------- BATTERY LEVEL: 79
+2015-09-22 12:42:01,564 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - Test#0
+2015-09-22 12:42:01,572 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ===============================
+2015-09-22 12:42:01,574 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 79
+2015-09-22 12:42:01,576 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 0 from 35
+2015-09-22 12:42:01,578 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://thumbs.dreamstime.com/z/viele-verschiedenen-menschlichen-gesichter-21328077.jpg
+2015-09-22 12:42:01,589 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:42:01,593 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:42:01,595 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:42:01,603 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 287255.0 | local: true
+2015-09-22 12:42:01,608 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 287255.0 | local: false
+2015-09-22 12:42:01,616 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:01,624 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:01,630 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 25.352514266967773
+2015-09-22 12:42:01,633 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 2.1045191287994385
+2015-09-22 12:42:01,636 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 5429.785436994208 | timeRemote: 4227.324481141785
+2015-09-22 12:42:01,640 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:42:01,643 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 5429.785436994208 | energyRemote: 544.324481141785
+2015-09-22 12:42:01,646 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 2385.8244811417853 | utilityLocal: 5429.785436994208
+2015-09-22 12:42:01,649 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:42:01,652 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 72
+2015-09-22 12:42:01,655 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:42:01,663 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://thumbs.dreamstime.com/z/viele-verschiedenen-menschlichen-gesichter-21328077.jpg, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:42:01,666 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:42:01,672 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:42:01,677 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@427de5e0
+2015-09-22 12:42:05,914 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 214 | 143
+2015-09-22 12:42:05,922 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:05,933 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 1.6181066036224365 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:42:05,937 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 1.6181066036224365
+2015-09-22 12:42:05,960 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:42:05,963 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:42:10 GMT, Connection: keep-alive, Content-Length: 11222]
+2015-09-22 12:42:05,966 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:11222
+2015-09-22 12:42:05,971 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 11222 | 142
+2015-09-22 12:42:05,978 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:05,989 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 68.29303741455078 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:42:05,993 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 68.29303741455078
+2015-09-22 12:42:06,008 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 287255.0 | local: false| time: 3998 | rxTxB: 0
+2015-09-22 12:42:06,016 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 4341
+2015-09-22 12:42:06,018 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:42:06,021 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 4441
+2015-09-22 12:42:06,067 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 79
+2015-09-22 12:42:06,074 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 1 from 35
+2015-09-22 12:42:06,077 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://ishootthepictures.files.wordpress.com/2011/06/vincent2bprice-1.jpg
+2015-09-22 12:42:06,092 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:42:06,101 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:42:06,105 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:42:06,120 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 238390.0 | local: true
+2015-09-22 12:42:06,128 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 238390.0 | local: false
+2015-09-22 12:42:06,147 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:06,172 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:06,187 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 68.29303741455078
+2015-09-22 12:42:06,191 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 1.6181066036224365
+2015-09-22 12:42:06,194 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 13389.0 | timeRemote: 2764.1392643458003
+2015-09-22 12:42:06,200 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:42:06,203 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 13389.0 | energyRemote: 124.83726322343963
+2015-09-22 12:42:06,214 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 1444.48826378462 | utilityLocal: 13389.0
+2015-09-22 12:42:06,217 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:42:06,220 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 138
+2015-09-22 12:42:06,222 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:42:06,229 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=https://ishootthepictures.files.wordpress.com/2011/06/vincent2bprice-1.jpg, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:42:06,231 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:42:06,236 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:42:06,241 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@429cce18
+2015-09-22 12:42:10,479 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 202 | 21
+2015-09-22 12:42:10,489 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:10,504 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 8.018858909606934 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:42:10,507 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 8.018858909606934
+2015-09-22 12:42:10,526 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:42:10,528 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:42:15 GMT, Connection: keep-alive, Content-Length: 5628]
+2015-09-22 12:42:10,531 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:5628
+2015-09-22 12:42:10,535 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 5628 | 233
+2015-09-22 12:42:10,541 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:10,551 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 32.982215881347656 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:42:10,556 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 32.982215881347656
+2015-09-22 12:42:10,579 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 238390.0 | local: false| time: 4031 | rxTxB: 0
+2015-09-22 12:42:10,589 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 4351
+2015-09-22 12:42:10,596 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:42:10,601 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 4519
+2015-09-22 12:42:10,624 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 79
+2015-09-22 12:42:10,627 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 2 from 35
+2015-09-22 12:42:10,629 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://thumbs.dreamstime.com/z/lots-faces-17959298.jpg
+2015-09-22 12:42:10,636 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:42:10,638 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:42:10,643 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:42:10,654 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 221769.0 | local: true
+2015-09-22 12:42:10,662 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 221769.0 | local: false
+2015-09-22 12:42:10,683 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:10,705 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:10,724 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 32.982215881347656
+2015-09-22 12:42:10,734 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 8.018858909606934
+2015-09-22 12:42:10,745 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 10047.041996297683 | timeRemote: 2806.0505707216066
+2015-09-22 12:42:10,753 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:42:10,763 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 10047.041996297683 | energyRemote: 355.0505707216068
+2015-09-22 12:42:10,774 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 1580.5505707216066 | utilityLocal: 10047.041996297683
+2015-09-22 12:42:10,781 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:42:10,794 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 162
+2015-09-22 12:42:10,802 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:42:10,815 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://thumbs.dreamstime.com/z/lots-faces-17959298.jpg, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:42:10,817 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:42:10,824 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:42:10,829 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@426e0c08
+2015-09-22 12:42:14,825 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 180 | 35
+2015-09-22 12:42:14,832 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:14,840 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 5.718057632446289 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:42:14,843 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 5.718057632446289
+2015-09-22 12:42:14,861 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:42:14,864 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:42:19 GMT, Connection: keep-alive, Content-Length: 10970]
+2015-09-22 12:42:14,867 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:10970
+2015-09-22 12:42:14,871 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 10970 | 139
+2015-09-22 12:42:14,877 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:14,885 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 69.7331314086914 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:42:14,888 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 69.7331314086914
+2015-09-22 12:42:14,902 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 221769.0 | local: false| time: 3859 | rxTxB: 0
+2015-09-22 12:42:14,907 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 4080
+2015-09-22 12:42:14,909 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:42:14,912 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 4281
+2015-09-22 12:42:14,941 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 79
+2015-09-22 12:42:14,956 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 3 from 35
+2015-09-22 12:42:14,958 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.tumblr.com/93e033ed5b263d7e74512f58c3699318/9bfmqds/7Ppn5b518/tumblr_static_1ivgnnby2hs0888ko8cs88swc.jpg
+2015-09-22 12:42:14,978 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:42:14,987 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:42:14,995 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:42:15,003 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 389975.0 | local: true
+2015-09-22 12:42:15,015 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 389975.0 | local: false
+2015-09-22 12:42:15,037 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:15,059 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:15,077 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 69.7331314086914
+2015-09-22 12:42:15,090 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 5.718057632446289
+2015-09-22 12:42:15,094 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 4716.314857411419 | timeRemote: 3528.2053688342708
+2015-09-22 12:42:15,097 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:42:15,100 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 4716.314857411419 | energyRemote: 139.2053688342709
+2015-09-22 12:42:15,103 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 1833.7053688342708 | utilityLocal: 4716.314857411419
+2015-09-22 12:42:15,106 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:42:15,109 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 144
+2015-09-22 12:42:15,111 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:42:15,115 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://static.tumblr.com/93e033ed5b263d7e74512f58c3699318/9bfmqds/7Ppn5b518/tumblr_static_1ivgnnby2hs0888ko8cs88swc.jpg, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:42:15,117 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:42:15,122 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:42:15,126 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@426eb3b8
+2015-09-22 12:42:19,125 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 247 | 107
+2015-09-22 12:42:19,132 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:19,140 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 2.9903404712677 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:42:19,142 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 2.9903404712677
+2015-09-22 12:42:19,160 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:42:19,162 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:42:24 GMT, Connection: keep-alive, Content-Length: 6695]
+2015-09-22 12:42:19,165 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:6695
+2015-09-22 12:42:19,169 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 6695 | 214
+2015-09-22 12:42:19,175 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:19,183 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 38.97466278076172 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:42:19,186 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 38.97466278076172
+2015-09-22 12:42:19,206 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 389975.0 | local: false| time: 3712 | rxTxB: 0
+2015-09-22 12:42:19,216 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 4092
+2015-09-22 12:42:19,222 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:42:19,229 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 4264
+2015-09-22 12:42:19,256 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 79
+2015-09-22 12:42:19,264 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 4 from 35
+2015-09-22 12:42:19,282 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.dominicanfashionmodelsblog.com/wp-content/uploads/2014/01/PicMonkey-Collage.jpg
+2015-09-22 12:42:19,292 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:42:19,300 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:42:19,312 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:42:20,079 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 0.0 | local: true
+2015-09-22 12:42:20,773 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 0.0 | local: false
+2015-09-22 12:42:20,777 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: cannot interpolate remote. Res true
+2015-09-22 12:42:20,779 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 1493
+2015-09-22 12:42:20,782 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:42:20,786 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://www.dominicanfashionmodelsblog.com/wp-content/uploads/2014/01/PicMonkey-Collage.jpg, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:42:20,788 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:42:20,793 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:42:20,799 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@42560c20
+2015-09-22 12:42:27,744 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 218 | 61
+2015-09-22 12:42:27,772 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:27,806 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 3.4570846557617188 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:42:27,818 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 3.4570846557617188
+2015-09-22 12:42:27,854 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:42:27,866 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:42:32 GMT, Connection: keep-alive, Content-Length: 9714]
+2015-09-22 12:42:27,877 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:9714
+2015-09-22 12:42:27,895 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 9714 | 224
+2015-09-22 12:42:27,928 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:28,003 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 42.487789154052734 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:42:28,017 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 42.487789154052734
+2015-09-22 12:42:29,299 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 0.0 | local: false| time: 6777 | rxTxB: 0
+2015-09-22 12:42:29,347 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 8551
+2015-09-22 12:42:29,370 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:42:29,394 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 10107
+2015-09-22 12:42:29,517 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 79
+2015-09-22 12:42:29,539 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 5 from 35
+2015-09-22 12:42:29,574 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://4.bp.blogspot.com/-XdZBpZZSQt4/Tm9YbUH1fWI/AAAAAAAAGBw/mim26LFXW_I/s1600/Cam%2BGreig%2B055.jpg
+2015-09-22 12:42:29,636 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:42:29,676 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:42:29,707 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:42:29,779 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 275361.0 | local: true
+2015-09-22 12:42:29,814 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 275361.0 | local: false
+2015-09-22 12:42:29,881 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:29,984 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:30,069 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 42.487789154052734
+2015-09-22 12:42:30,093 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 3.4570846557617188
+2015-09-22 12:42:30,134 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 5557.0 | timeRemote: 3629.449805291956
+2015-09-22 12:42:30,159 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:42:30,171 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 5557.0 | energyRemote: 66.24078459239904
+2015-09-22 12:42:30,197 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 1847.8452949421776 | utilityLocal: 5557.0
+2015-09-22 12:42:30,219 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:42:30,233 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 631
+2015-09-22 12:42:30,243 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:42:30,264 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://4.bp.blogspot.com/-XdZBpZZSQt4/Tm9YbUH1fWI/AAAAAAAAGBw/mim26LFXW_I/s1600/Cam%2BGreig%2B055.jpg, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:42:30,274 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:42:30,299 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:42:30,332 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@4278f340
+2015-09-22 12:42:33,968 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 229 | 96
+2015-09-22 12:42:34,020 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:34,077 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 2.599750280380249 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:42:34,090 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 2.599750280380249
+2015-09-22 12:42:34,127 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:42:34,138 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:42:38 GMT, Connection: keep-alive, Content-Length: 5634]
+2015-09-22 12:42:34,150 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:5634
+2015-09-22 12:42:34,168 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 5634 | 388
+2015-09-22 12:42:34,193 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:34,225 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 20.114051818847656 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:42:34,238 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 20.114051818847656
+2015-09-22 12:42:34,282 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 275361.0 | local: false| time: 3291 | rxTxB: 0
+2015-09-22 12:42:34,305 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 3986
+2015-09-22 12:42:34,314 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:42:34,327 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 4724
+2015-09-22 12:42:34,415 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 79
+2015-09-22 12:42:34,438 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 6 from 35
+2015-09-22 12:42:34,473 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.artbyphil.com/phfx/dib/art00002_LightingInADigitalAge/bigs/LotsOfLights.jpg
+2015-09-22 12:42:34,567 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:42:34,595 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:42:34,610 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:42:34,673 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 513300.0 | local: true
+2015-09-22 12:42:34,728 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 513300.0 | local: false
+2015-09-22 12:42:34,816 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:34,904 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:34,952 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 20.114051818847656
+2015-09-22 12:42:34,986 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 2.599750280380249
+2015-09-22 12:42:35,004 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 5249.0 | timeRemote: 33450.08124285022
+2015-09-22 12:42:35,024 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:42:35,050 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 5249.0 | energyRemote: 82.3155983922808
+2015-09-22 12:42:35,063 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 16766.19842062125 | utilityLocal: 5249.0
+2015-09-22 12:42:35,073 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: false
+2015-09-22 12:42:35,086 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 580
+2015-09-22 12:42:45,575 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 11069
+2015-09-22 12:42:45,584 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time: 10463
+2015-09-22 12:42:45,604 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 513300.0 | local: true| time: 10463 | rxTxB: 0
+2015-09-22 12:42:45,626 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 79
+2015-09-22 12:42:45,639 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 7 from 35
+2015-09-22 12:42:45,651 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://imgick.nj.com/home/njo-media/width960/img/star-ledger/photo/2013/08/-20429c7f73b547f3.jpg
+2015-09-22 12:42:45,670 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:42:45,678 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:42:45,686 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:42:45,714 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 182917.0 | local: true
+2015-09-22 12:42:45,736 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 182917.0 | local: false
+2015-09-22 12:42:45,763 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:45,790 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:45,809 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 20.114051818847656
+2015-09-22 12:42:45,811 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 2.599750280380249
+2015-09-22 12:42:45,814 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 3096.138699584832 | timeRemote: 2990.1495878711894
+2015-09-22 12:42:45,819 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:42:45,824 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 3096.138699584832 | energyRemote: 474.14958787118917
+2015-09-22 12:42:45,828 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 1732.1495878711894 | utilityLocal: 3096.138699584832
+2015-09-22 12:42:45,830 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:42:45,834 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 176
+2015-09-22 12:42:45,837 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:42:45,841 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://imgick.nj.com/home/njo-media/width960/img/star-ledger/photo/2013/08/-20429c7f73b547f3.jpg, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:42:45,843 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:42:45,848 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:42:45,854 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@426d4648
+2015-09-22 12:42:51,563 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 224 | 411
+2015-09-22 12:42:51,573 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:51,585 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 0.9559597969055176 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:42:51,589 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 0.9559597969055176
+2015-09-22 12:42:51,613 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:42:51,617 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:42:56 GMT, Connection: keep-alive, Content-Length: 7804]
+2015-09-22 12:42:51,621 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:7804
+2015-09-22 12:42:51,626 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 7804 | 280
+2015-09-22 12:42:51,634 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:51,646 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 26.31995391845703 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:42:51,650 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 26.31995391845703
+2015-09-22 12:42:51,672 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 182917.0 | local: false| time: 5068 | rxTxB: 0
+2015-09-22 12:42:51,680 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 5829
+2015-09-22 12:42:51,683 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:42:51,688 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 6029
+2015-09-22 12:42:51,714 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 79
+2015-09-22 12:42:51,730 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 8 from 35
+2015-09-22 12:42:51,736 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.photo.net/attachments/bboard/00Z/00Zlmt-426785684.jpg
+2015-09-22 12:42:51,753 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:42:51,760 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:42:51,770 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:42:51,786 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 99937.0 | local: true
+2015-09-22 12:42:51,798 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 99937.0 | local: false
+2015-09-22 12:42:51,814 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:51,832 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:51,850 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 26.31995391845703
+2015-09-22 12:42:51,861 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 0.9559597969055176
+2015-09-22 12:42:51,868 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 3053.1950742497593 | timeRemote: 2720.3077759074577
+2015-09-22 12:42:51,876 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:42:51,886 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 3053.1950742497593 | energyRemote: 543.3077759074579
+2015-09-22 12:42:51,896 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 1631.8077759074577 | utilityLocal: 3053.1950742497593
+2015-09-22 12:42:51,905 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:42:51,909 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 169
+2015-09-22 12:42:51,911 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:42:51,915 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://static.photo.net/attachments/bboard/00Z/00Zlmt-426785684.jpg, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:42:51,922 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:42:51,936 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:42:51,956 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@4270ddb0
+2015-09-22 12:42:53,532 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 195 | 135
+2015-09-22 12:42:53,540 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:53,551 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 1.3467475175857544 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:42:53,554 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 1.3467475175857544
+2015-09-22 12:42:53,565 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:42:53,568 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:42:58 GMT, Connection: keep-alive, Content-Length: 8931]
+2015-09-22 12:42:53,571 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:8931
+2015-09-22 12:42:53,576 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 8931 | 129
+2015-09-22 12:42:53,585 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:53,595 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 60.65003967285156 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:42:53,599 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 60.65003967285156
+2015-09-22 12:42:53,614 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 99937.0 | local: false| time: 1337 | rxTxB: 0
+2015-09-22 12:42:53,622 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 1675
+2015-09-22 12:42:53,626 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:42:53,631 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 1891
+2015-09-22 12:42:53,662 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 79
+2015-09-22 12:42:53,672 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 9 from 35
+2015-09-22 12:42:53,679 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://images.travelpod.com/tw_slides/ta00/9ce/46c/lots-of-smiley-faces-tuticorin.jpg
+2015-09-22 12:42:53,696 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:42:53,701 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:42:53,708 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:42:53,724 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 195252.0 | local: true
+2015-09-22 12:42:53,737 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 195252.0 | local: false
+2015-09-22 12:42:53,757 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:53,780 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:53,798 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 60.65003967285156
+2015-09-22 12:42:53,801 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 1.3467475175857544
+2015-09-22 12:42:53,804 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 3149.0 | timeRemote: 4971.069198095261
+2015-09-22 12:42:53,807 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:42:53,810 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 3149.0 | energyRemote: 158.15882132222842
+2015-09-22 12:42:53,813 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 2564.6140097087446 | utilityLocal: 3149.0
+2015-09-22 12:42:53,815 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:42:53,817 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 131
+2015-09-22 12:42:53,819 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:42:53,823 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://images.travelpod.com/tw_slides/ta00/9ce/46c/lots-of-smiley-faces-tuticorin.jpg, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:42:53,825 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:42:53,829 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:42:53,834 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@4270de40
+2015-09-22 12:42:56,815 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 213 | 27
+2015-09-22 12:42:56,823 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:56,834 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 6.580460548400879 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:42:56,837 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 6.580460548400879
+2015-09-22 12:42:56,847 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:42:56,851 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:43:01 GMT, Connection: keep-alive, Content-Length: 6600]
+2015-09-22 12:42:56,854 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:6600
+2015-09-22 12:42:56,859 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 6600 | 256
+2015-09-22 12:42:56,867 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:56,877 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 32.755008697509766 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:42:56,880 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 32.755008697509766
+2015-09-22 12:42:56,892 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 195252.0 | local: false| time: 2730 | rxTxB: 0
+2015-09-22 12:42:56,899 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 3067
+2015-09-22 12:42:56,902 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:42:56,905 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 3219
+2015-09-22 12:42:56,937 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 79
+2015-09-22 12:42:56,947 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 10 from 35
+2015-09-22 12:42:56,954 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cs.brown.edu/courses/cs143/results/proj4/asunderl/data/classface2.png
+2015-09-22 12:42:56,983 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:42:56,988 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:42:56,991 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:42:56,999 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 755370.0 | local: true
+2015-09-22 12:42:57,004 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 755370.0 | local: false
+2015-09-22 12:42:57,031 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:57,049 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:42:57,062 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 32.755008697509766
+2015-09-22 12:42:57,079 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 6.580460548400879
+2015-09-22 12:42:57,094 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 7261.0 | timeRemote: 68788.00188492092
+2015-09-22 12:42:57,100 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:42:57,106 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 7261.0 | energyRemote: 31.000869695902082
+2015-09-22 12:42:57,111 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 34409.50137730841 | utilityLocal: 7261.0
+2015-09-22 12:42:57,114 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: false
+2015-09-22 12:42:57,118 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 147
+2015-09-22 12:43:04,579 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 7608
+2015-09-22 12:43:04,586 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time: 7458
+2015-09-22 12:43:04,605 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 755370.0 | local: true| time: 7458 | rxTxB: 0
+2015-09-22 12:43:04,623 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 79
+2015-09-22 12:43:04,638 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 11 from 35
+2015-09-22 12:43:04,656 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.bucksketball.com/wp-content/uploads/2013/03/photos4.jpg
+2015-09-22 12:43:04,689 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:43:04,706 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:43:04,717 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:43:04,747 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 40086.0 | local: true
+2015-09-22 12:43:04,763 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 40086.0 | local: false
+2015-09-22 12:43:04,830 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:43:04,867 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:43:04,879 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 32.755008697509766
+2015-09-22 12:43:04,884 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 6.580460548400879
+2015-09-22 12:43:04,889 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 2152.0 | timeRemote: 1959.1254562523707
+2015-09-22 12:43:04,893 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:43:04,897 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 2152.0 | energyRemote: 29.481219220612765
+2015-09-22 12:43:04,902 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 994.3033377364917 | utilityLocal: 2152.0
+2015-09-22 12:43:04,906 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:43:04,911 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 235
+2015-09-22 12:43:04,914 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:43:04,924 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://www.bucksketball.com/wp-content/uploads/2013/03/photos4.jpg, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:43:04,931 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:43:04,942 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:43:04,965 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@42735990
+2015-09-22 12:43:06,366 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 194 | 39
+2015-09-22 12:43:06,418 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:43:06,498 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 5.295579433441162 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:43:06,533 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 5.295579433441162
+2015-09-22 12:43:06,659 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:43:06,730 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:43:11 GMT, Connection: keep-alive, Content-Length: 6676]
+2015-09-22 12:43:06,798 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:6676
+2015-09-22 12:43:06,856 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 6676 | 428
+2015-09-22 12:43:06,957 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:43:07,059 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 19.02950668334961 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:43:07,091 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 19.02950668334961
+2015-09-22 12:43:07,148 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 40086.0 | local: false| time: 1282 | rxTxB: 0
+2015-09-22 12:43:07,160 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 2202
+2015-09-22 12:43:07,166 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:43:07,172 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 2497
+2015-09-22 12:43:07,197 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 79
+2015-09-22 12:43:07,225 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 12 from 35
+2015-09-22 12:43:07,239 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://worldonline.media.clients.ellingtoncms.com/img/croppedphotos/2011/10/14/medianewWEB_t650.jpg?eec9ecda5f66de59a37bbdb23c6f48523261b548
+2015-09-22 12:43:07,255 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:43:07,259 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:43:07,267 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:43:07,276 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 45182.0 | local: true
+2015-09-22 12:43:07,283 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 45182.0 | local: false
+2015-09-22 12:43:07,293 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:43:07,304 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:43:07,309 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 19.02950668334961
+2015-09-22 12:43:07,312 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 5.295579433441162
+2015-09-22 12:43:07,315 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 2247.804714959393 | timeRemote: 1754.144965677714
+2015-09-22 12:43:07,317 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:43:07,320 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 2247.804714959393 | energyRemote: 281.1449656777139
+2015-09-22 12:43:07,323 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 1017.644965677714 | utilityLocal: 2247.804714959393
+2015-09-22 12:43:07,325 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:43:07,328 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 86
+2015-09-22 12:43:07,330 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:43:07,334 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://worldonline.media.clients.ellingtoncms.com/img/croppedphotos/2011/10/14/medianewWEB_t650.jpg?eec9ecda5f66de59a37bbdb23c6f48523261b548, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:43:07,337 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:43:07,342 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:43:07,348 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@427d8408
+2015-09-22 12:43:08,692 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 268 | 116
+2015-09-22 12:43:08,709 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:43:08,723 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 2.9073920249938965 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:43:08,728 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 2.9073920249938965
+2015-09-22 12:43:08,788 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:43:08,793 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:43:13 GMT, Connection: keep-alive, Content-Length: 4387]
+2015-09-22 12:43:08,798 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:4387
+2015-09-22 12:43:08,805 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 4387 | 192
+2015-09-22 12:43:08,820 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:43:08,846 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 22.085067749023438 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:43:08,860 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 22.085067749023438
+2015-09-22 12:43:08,900 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 45182.0 | local: false| time: 1133 | rxTxB: 0
+2015-09-22 12:43:08,911 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 1565
+2015-09-22 12:43:08,915 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:43:08,921 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 1679
+2015-09-22 12:43:09,026 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 79
+2015-09-22 12:43:09,043 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 13 from 35
+2015-09-22 12:43:09,058 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11357296_1656525614576589_1901514389_n.jpg
+2015-09-22 12:43:09,116 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:43:09,135 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:43:09,165 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:43:09,198 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 107714.0 | local: true
+2015-09-22 12:43:09,218 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 107714.0 | local: false
+2015-09-22 12:43:09,250 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:43:09,281 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:43:09,299 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 22.085067749023438
+2015-09-22 12:43:09,306 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 2.9073920249938965
+2015-09-22 12:43:09,314 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 3140.0 | timeRemote: 1460.2852922621573
+2015-09-22 12:43:09,321 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:43:09,329 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 3140.0 | energyRemote: 80.14055139347407
+2015-09-22 12:43:09,336 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 770.2129218278156 | utilityLocal: 3140.0
+2015-09-22 12:43:09,343 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:43:09,351 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 280
+2015-09-22 12:43:09,357 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:43:09,369 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e15/11357296_1656525614576589_1901514389_n.jpg, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:43:09,375 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:43:09,388 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:43:09,409 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@429cd160
+2015-09-22 12:43:11,609 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 233 | 120
+2015-09-22 12:43:11,653 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:43:11,727 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 2.1348118782043457 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:43:11,745 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 2.1348118782043457
+2015-09-22 12:43:11,799 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:43:11,818 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:43:16 GMT, Connection: keep-alive, Content-Length: 9133]
+2015-09-22 12:43:11,838 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:9133
+2015-09-22 12:43:11,865 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 9133 | 254
+2015-09-22 12:43:11,905 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:43:11,951 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 33.182369232177734 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:43:11,969 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 33.182369232177734
+2015-09-22 12:43:12,038 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 107714.0 | local: false| time: 2022 | rxTxB: 0
+2015-09-22 12:43:12,071 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 2672
+2015-09-22 12:43:12,081 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:43:12,093 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 3022
+2015-09-22 12:43:12,197 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 79
+2015-09-22 12:43:12,233 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 14 from 35
+2015-09-22 12:43:12,274 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.careersusa.com/portals/0/BusinessPeopleImage2.png
+2015-09-22 12:43:12,334 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:43:12,354 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:43:12,383 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:43:12,442 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 150706.0 | local: true
+2015-09-22 12:43:12,461 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 150706.0 | local: false
+2015-09-22 12:43:12,488 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:43:12,520 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:43:12,548 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 33.182369232177734
+2015-09-22 12:43:12,559 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 2.1348118782043457
+2015-09-22 12:43:12,571 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 3183.805934471482 | timeRemote: 3242.1469067765606
+2015-09-22 12:43:12,578 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:43:12,587 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 3183.805934471482 | energyRemote: 215.14690677656046
+2015-09-22 12:43:12,597 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 1728.6469067765606 | utilityLocal: 3183.805934471482
+2015-09-22 12:43:12,604 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:43:12,612 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 304
+2015-09-22 12:43:12,619 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:43:12,633 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://www.careersusa.com/portals/0/BusinessPeopleImage2.png, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:43:12,639 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:43:12,654 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:43:12,669 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@429fba10
+2015-09-22 12:43:16,701 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 186 | 124
+2015-09-22 12:43:16,743 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:43:16,790 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 1.626962423324585 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:43:16,808 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 1.626962423324585
+2015-09-22 12:43:16,864 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:43:16,880 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:43:21 GMT, Connection: keep-alive, Content-Length: 4248]
+2015-09-22 12:43:16,898 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:4248
+2015-09-22 12:43:16,922 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 4248 | 298
+2015-09-22 12:43:16,958 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:43:17,004 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 18.04050064086914 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:43:17,023 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 18.04050064086914
+2015-09-22 12:43:17,101 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 150706.0 | local: false| time: 3779 | rxTxB: 0
+2015-09-22 12:43:17,135 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 4473
+2015-09-22 12:43:17,149 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:43:17,165 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 4856
+2015-09-22 12:43:17,283 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 79
+2015-09-22 12:43:17,349 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 15 from 35
+2015-09-22 12:43:17,399 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.cpplcounseling.com/uploads/4/6/8/2/46828361/2181364_orig.jpg
+2015-09-22 12:43:17,483 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:43:17,519 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:43:17,566 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:43:17,614 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 661329.0 | local: true
+2015-09-22 12:43:17,631 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 661329.0 | local: false
+2015-09-22 12:43:17,658 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:43:17,689 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:43:17,715 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 18.04050064086914
+2015-09-22 12:43:17,729 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 1.626962423324585
+2015-09-22 12:43:17,743 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 9472.405690661237 | timeRemote: 69934.00226493742
+2015-09-22 12:43:17,753 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:43:17,766 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 9472.405690661237 | energyRemote: 483.0022649374105
+2015-09-22 12:43:17,779 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 35208.502264937415 | utilityLocal: 9472.405690661237
+2015-09-22 12:43:17,788 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: false
+2015-09-22 12:43:17,801 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 364
+2015-09-22 12:44:06,314 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 48878
+2015-09-22 12:44:06,326 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time: 48494
+2015-09-22 12:44:06,367 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 661329.0 | local: true| time: 48494 | rxTxB: 0
+2015-09-22 12:44:06,466 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 80
+2015-09-22 12:44:06,486 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 16 from 35
+2015-09-22 12:44:06,504 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://captital-connection.com/wp-content/uploads/2014/10/capitalconnectionpeople.jpg
+2015-09-22 12:44:06,541 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:44:06,562 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:44:06,576 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:44:06,614 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 545779.0 | local: true
+2015-09-22 12:44:06,652 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 545779.0 | local: false
+2015-09-22 12:44:06,672 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:44:06,695 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:44:06,713 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 18.04050064086914
+2015-09-22 12:44:06,720 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 1.626962423324585
+2015-09-22 12:44:06,729 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 10474.0 | timeRemote: 44851.30563261444
+2015-09-22 12:44:06,737 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:44:06,746 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 10474.0 | energyRemote: 130.91881960294404
+2015-09-22 12:44:06,754 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 22491.112226108693 | utilityLocal: 10474.0
+2015-09-22 12:44:06,761 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: false
+2015-09-22 12:44:06,770 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 253
+2015-09-22 12:44:20,250 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 13733
+2015-09-22 12:44:20,253 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time: 13462
+2015-09-22 12:44:20,263 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 545779.0 | local: true| time: 13462 | rxTxB: 0
+2015-09-22 12:44:20,275 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 80
+2015-09-22 12:44:20,277 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 17 from 35
+2015-09-22 12:44:20,279 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.harbourcitydental.com/wordpress/wp-content/uploads/2010/08/Big-Group-of-People.png
+2015-09-22 12:44:20,307 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:44:20,309 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:44:20,311 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:44:20,320 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 1713901.0 | local: true
+2015-09-22 12:44:20,324 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: cannot interpolate local. Res true
+2015-09-22 12:44:20,327 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 28
+2015-09-22 12:44:20,329 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:44:20,334 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://www.harbourcitydental.com/wordpress/wp-content/uploads/2010/08/Big-Group-of-People.png, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:44:20,336 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:44:20,341 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:44:20,345 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@4278eb48
+2015-09-22 12:44:36,063 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 221 | 26
+2015-09-22 12:44:36,109 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:44:36,154 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 7.125392913818359 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:44:36,170 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 7.125392913818359
+2015-09-22 12:44:36,223 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:44:36,239 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:44:40 GMT, Connection: keep-alive, Content-Length: 6297]
+2015-09-22 12:44:36,254 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:6297
+2015-09-22 12:44:36,278 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 6297 | 333
+2015-09-22 12:44:36,313 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:44:36,358 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 18.73602867126465 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:44:36,374 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 18.73602867126465
+2015-09-22 12:44:36,429 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 1713901.0 | local: false| time: 15530 | rxTxB: 0
+2015-09-22 12:44:36,461 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 16117
+2015-09-22 12:44:36,474 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:44:36,495 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 16195
+2015-09-22 12:44:36,535 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 80
+2015-09-22 12:44:36,588 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 18 from 35
+2015-09-22 12:44:36,648 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.tesco.ie/crreview08/images/SML_tesco_people.jpg
+2015-09-22 12:44:36,744 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:44:36,785 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:44:36,815 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:44:36,859 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 71259.0 | local: true
+2015-09-22 12:44:36,882 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 71259.0 | local: false
+2015-09-22 12:44:36,920 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:44:36,967 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:44:36,997 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 18.73602867126465
+2015-09-22 12:44:37,007 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 7.125392913818359
+2015-09-22 12:44:37,022 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 2678.479996109869 | timeRemote: 1393.70896003894
+2015-09-22 12:44:37,031 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:44:37,043 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 2678.479996109869 | energyRemote: 25.823137365964282
+2015-09-22 12:44:37,056 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 709.7660487024522 | utilityLocal: 2678.479996109869
+2015-09-22 12:44:37,065 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:44:37,077 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 378
+2015-09-22 12:44:37,086 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:44:37,107 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://www.tesco.ie/crreview08/images/SML_tesco_people.jpg, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:44:37,116 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:44:37,135 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:44:37,153 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@429ccb30
+2015-09-22 12:44:45,175 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 184 | 125
+2015-09-22 12:44:45,215 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:44:45,268 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 2.6026787757873535 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:44:45,286 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 2.6026787757873535
+2015-09-22 12:44:45,335 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:44:45,353 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:44:50 GMT, Connection: keep-alive, Content-Length: 4871]
+2015-09-22 12:44:45,370 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:4871
+2015-09-22 12:44:45,396 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 4871 | 327
+2015-09-22 12:44:45,433 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:44:45,481 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 15.66402530670166 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:44:45,498 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 15.66402530670166
+2015-09-22 12:44:45,567 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 71259.0 | local: false| time: 7737 | rxTxB: 0
+2015-09-22 12:44:45,601 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 8456
+2015-09-22 12:44:45,614 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:44:45,631 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 8932
+2015-09-22 12:44:45,679 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 80
+2015-09-22 12:44:45,724 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 19 from 35
+2015-09-22 12:44:45,765 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cdn.trendhunterstatic.com/thumbs/free-people-vegan-leather.jpeg
+2015-09-22 12:44:45,865 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:44:45,915 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:44:45,941 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:44:46,022 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 28816.0 | local: true
+2015-09-22 12:44:46,041 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 28816.0 | local: false
+2015-09-22 12:44:46,070 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:44:46,102 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:44:46,128 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 15.66402530670166
+2015-09-22 12:44:46,142 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 2.6026787757873535
+2015-09-22 12:44:46,155 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 1188.0 | timeRemote: -374.857243384448
+2015-09-22 12:44:46,165 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:44:46,177 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 1188.0 | energyRemote: 76.07546572477109
+2015-09-22 12:44:46,189 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: -149.39088882983845 | utilityLocal: 1188.0
+2015-09-22 12:44:46,200 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:44:46,212 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 405
+2015-09-22 12:44:46,221 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:44:46,240 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://cdn.trendhunterstatic.com/thumbs/free-people-vegan-leather.jpeg, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:44:46,250 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:44:46,269 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:44:46,287 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@427c4280
+2015-09-22 12:44:49,169 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 198 | 86
+2015-09-22 12:44:49,208 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:44:49,269 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 2.362396240234375 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:44:49,286 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 2.362396240234375
+2015-09-22 12:44:49,339 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:44:49,354 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:44:53 GMT, Connection: keep-alive, Content-Length: 6259]
+2015-09-22 12:44:49,371 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:6259
+2015-09-22 12:44:49,395 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 6259 | 715
+2015-09-22 12:44:49,430 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:44:49,474 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 10.135882377624512 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:44:49,492 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 10.135882377624512
+2015-09-22 12:44:49,559 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 28816.0 | local: false| time: 2255 | rxTxB: 0
+2015-09-22 12:44:49,594 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 3314
+2015-09-22 12:44:49,607 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:44:49,624 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 3817
+2015-09-22 12:44:49,684 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 80
+2015-09-22 12:44:49,708 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 20 from 35
+2015-09-22 12:44:49,757 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://dailygenius.com/wp-content/uploads/2014/12/friendly-people.jpg
+2015-09-22 12:44:49,881 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:44:49,926 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:44:49,960 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:44:49,993 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 2211244.0 | local: true
+2015-09-22 12:44:50,011 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: cannot interpolate local. Res false
+2015-09-22 12:44:50,023 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 215
+2015-09-22 12:45:11,288 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 21480
+2015-09-22 12:45:11,292 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time: 21233
+2015-09-22 12:45:11,305 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 2211244.0 | local: true| time: 21233 | rxTxB: 0
+2015-09-22 12:45:11,325 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 80
+2015-09-22 12:45:11,328 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 21 from 35
+2015-09-22 12:45:11,340 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://images1.miaminewtimes.com/imager/the-six-people-you-meet-aboard-holy-ship/u/original/6471130/holy_ship_people_you_meet_miami_2014.jpg
+2015-09-22 12:45:11,372 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:45:11,382 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:45:11,393 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:45:11,413 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 62920.0 | local: true
+2015-09-22 12:45:11,427 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 62920.0 | local: false
+2015-09-22 12:45:11,441 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:11,455 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:11,466 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 10.135882377624512
+2015-09-22 12:45:11,470 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 2.362396240234375
+2015-09-22 12:45:11,474 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 2551.016258924344 | timeRemote: 1939.2433915652637
+2015-09-22 12:45:11,477 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:45:11,481 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 2551.016258924344 | energyRemote: 702.2433915652636
+2015-09-22 12:45:11,485 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 1320.7433915652637 | utilityLocal: 2551.016258924344
+2015-09-22 12:45:11,488 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:45:11,492 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 135
+2015-09-22 12:45:11,495 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:45:11,501 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://images1.miaminewtimes.com/imager/the-six-people-you-meet-aboard-holy-ship/u/original/6471130/holy_ship_people_you_meet_miami_2014.jpg, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:45:11,504 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:45:11,510 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:45:11,515 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@4278c9c8
+2015-09-22 12:45:12,954 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 268 | 36
+2015-09-22 12:45:12,999 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:13,056 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 6.428035259246826 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:45:13,081 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 6.428035259246826
+2015-09-22 12:45:13,125 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:45:13,142 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:45:17 GMT, Connection: keep-alive, Content-Length: 5968]
+2015-09-22 12:45:13,159 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:5968
+2015-09-22 12:45:13,187 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 5968 | 231
+2015-09-22 12:45:13,226 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:13,295 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 22.695573806762695 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:45:13,311 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 22.695573806762695
+2015-09-22 12:45:13,380 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 62920.0 | local: false| time: 1354 | rxTxB: 0
+2015-09-22 12:45:13,417 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 1903
+2015-09-22 12:45:13,430 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:45:13,451 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 2091
+2015-09-22 12:45:13,498 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 80
+2015-09-22 12:45:13,527 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 22 from 35
+2015-09-22 12:45:13,555 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.nsai.ie/Our-Services-(1)/Certification/1--Excellence-Through-People/2012-ETP-Web-Page-Banner.aspx
+2015-09-22 12:45:13,599 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:45:13,612 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:45:13,623 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:45:13,630 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 35685.0 | local: true
+2015-09-22 12:45:13,635 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 35685.0 | local: false
+2015-09-22 12:45:13,643 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:13,656 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:13,664 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 22.695573806762695
+2015-09-22 12:45:13,667 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 6.428035259246826
+2015-09-22 12:45:13,671 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 1756.2791963317898 | timeRemote: 2517.701315691631
+2015-09-22 12:45:13,674 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:45:13,677 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 1756.2791963317898 | energyRemote: 196.7013156916309
+2015-09-22 12:45:13,681 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 1357.201315691631 | utilityLocal: 1756.2791963317898
+2015-09-22 12:45:13,684 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:45:13,688 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 113
+2015-09-22 12:45:13,691 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:45:13,696 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://www.nsai.ie/Our-Services-(1)/Certification/1--Excellence-Through-People/2012-ETP-Web-Page-Banner.aspx, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:45:13,699 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:45:13,705 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:45:13,712 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@42843eb8
+2015-09-22 12:45:15,704 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 236 | 34
+2015-09-22 12:45:15,742 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:15,788 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 6.83854866027832 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:45:15,805 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 6.83854866027832
+2015-09-22 12:45:15,860 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:45:15,878 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:45:20 GMT, Connection: keep-alive, Content-Length: 3631]
+2015-09-22 12:45:15,894 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:3631
+2015-09-22 12:45:15,918 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 3631 | 218
+2015-09-22 12:45:15,960 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:16,006 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 17.8638858795166 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:45:16,026 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 17.8638858795166
+2015-09-22 12:45:16,092 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 35685.0 | local: false| time: 1907 | rxTxB: 0
+2015-09-22 12:45:16,131 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 2422
+2015-09-22 12:45:16,147 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:45:16,166 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 2587
+2015-09-22 12:45:16,206 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 80
+2015-09-22 12:45:16,221 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 23 from 35
+2015-09-22 12:45:16,240 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://static.ddmcdn.com/gif/11-billion-people.jpg
+2015-09-22 12:45:16,340 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:45:16,358 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:45:16,380 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:45:16,445 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 88492.0 | local: true
+2015-09-22 12:45:16,511 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 88492.0 | local: false
+2015-09-22 12:45:16,547 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:16,581 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:16,621 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 17.8638858795166
+2015-09-22 12:45:16,631 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 6.83854866027832
+2015-09-22 12:45:16,646 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 2914.607245032421 | timeRemote: 2030.9399075527413
+2015-09-22 12:45:16,657 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:45:16,671 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 2914.607245032421 | energyRemote: 397.93990755274126
+2015-09-22 12:45:16,686 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 1214.4399075527413 | utilityLocal: 2914.607245032421
+2015-09-22 12:45:16,697 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:45:16,710 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 441
+2015-09-22 12:45:16,721 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:45:16,744 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://static.ddmcdn.com/gif/11-billion-people.jpg, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:45:16,754 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:45:16,776 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:45:16,794 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@427a6d18
+2015-09-22 12:45:21,834 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 176 | 116
+2015-09-22 12:45:21,880 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:21,926 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 2.581502914428711 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:45:21,942 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 2.581502914428711
+2015-09-22 12:45:21,990 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:45:22,006 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:45:26 GMT, Connection: keep-alive, Content-Length: 6649]
+2015-09-22 12:45:22,026 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:6649
+2015-09-22 12:45:22,050 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 6649 | 328
+2015-09-22 12:45:22,088 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:22,135 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 19.78985023498535 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:45:22,151 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 19.78985023498535
+2015-09-22 12:45:22,223 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 88492.0 | local: false| time: 4757 | rxTxB: 0
+2015-09-22 12:45:22,257 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 5471
+2015-09-22 12:45:22,274 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:45:22,294 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 6022
+2015-09-22 12:45:22,336 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 80
+2015-09-22 12:45:22,385 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 24 from 35
+2015-09-22 12:45:22,433 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://previews.123rf.com/images/andreypopov/andreypopov1309/andreypopov130900314/22381835-Happy-Group-Of-People-Dressed-In-Casual-Standing-Over-White-Background-Stock-Photo.jpg
+2015-09-22 12:45:22,526 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:45:22,554 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:45:22,571 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:45:22,634 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 117324.0 | local: true
+2015-09-22 12:45:22,826 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 117324.0 | local: false
+2015-09-22 12:45:22,852 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:22,887 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:22,915 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 19.78985023498535
+2015-09-22 12:45:22,926 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 2.581502914428711
+2015-09-22 12:45:22,939 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 3215.5168115396873 | timeRemote: 2016.9333516890983
+2015-09-22 12:45:22,949 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:45:22,961 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 3215.5168115396873 | energyRemote: 368.9333516890984
+2015-09-22 12:45:22,973 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 1192.9333516890983 | utilityLocal: 3215.5168115396873
+2015-09-22 12:45:22,985 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:45:22,997 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 512
+2015-09-22 12:45:23,007 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:45:23,021 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://previews.123rf.com/images/andreypopov/andreypopov1309/andreypopov130900314/22381835-Happy-Group-Of-People-Dressed-In-Casual-Standing-Over-White-Background-Stock-Photo.jpg, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:45:23,028 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:45:23,041 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:45:23,052 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@42834068
+2015-09-22 12:45:25,314 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 305 | 71
+2015-09-22 12:45:25,357 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:25,404 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 3.9529201984405518 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:45:25,424 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 3.9529201984405518
+2015-09-22 12:45:25,486 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:45:25,502 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:45:30 GMT, Connection: keep-alive, Content-Length: 4963]
+2015-09-22 12:45:25,518 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:4963
+2015-09-22 12:45:25,542 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 4963 | 241
+2015-09-22 12:45:25,578 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:25,625 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 20.432659149169922 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:45:25,641 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 20.432659149169922
+2015-09-22 12:45:25,712 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 117324.0 | local: false| time: 2128 | rxTxB: 0
+2015-09-22 12:45:25,744 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 2696
+2015-09-22 12:45:25,758 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:45:25,779 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 3290
+2015-09-22 12:45:25,818 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 80
+2015-09-22 12:45:25,861 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 25 from 35
+2015-09-22 12:45:25,885 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://canadianimmigrant.ca/wordpress/wp-content/uploads/diversity-people1.jpg
+2015-09-22 12:45:25,970 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:45:26,018 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:45:26,060 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:45:26,120 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 29417.0 | local: true
+2015-09-22 12:45:26,146 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 29417.0 | local: false
+2015-09-22 12:45:26,177 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:26,210 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:26,238 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 20.432659149169922
+2015-09-22 12:45:26,252 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 3.9529201984405518
+2015-09-22 12:45:26,268 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 1096.0 | timeRemote: 2131.8811467121973
+2015-09-22 12:45:26,281 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:45:26,296 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 1096.0 | energyRemote: 52.11337180074318
+2015-09-22 12:45:26,311 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 1091.9972592564702 | utilityLocal: 1096.0
+2015-09-22 12:45:26,324 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:45:26,339 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 408
+2015-09-22 12:45:26,354 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:45:26,378 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://canadianimmigrant.ca/wordpress/wp-content/uploads/diversity-people1.jpg, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:45:26,390 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:45:26,415 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:45:26,438 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@4295df80
+2015-09-22 12:45:28,183 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 206 | 83
+2015-09-22 12:45:28,222 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:28,267 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 2.7761261463165283 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:45:28,283 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 2.7761261463165283
+2015-09-22 12:45:28,358 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:45:28,375 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:45:33 GMT, Connection: keep-alive, Content-Length: 5162]
+2015-09-22 12:45:28,390 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:5162
+2015-09-22 12:45:28,421 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 5162 | 304
+2015-09-22 12:45:28,455 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:28,498 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 17.67074203491211 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:45:28,514 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 17.67074203491211
+2015-09-22 12:45:28,584 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 29417.0 | local: false| time: 1535 | rxTxB: 0
+2015-09-22 12:45:28,623 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 2194
+2015-09-22 12:45:28,636 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:45:28,656 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 2724
+2015-09-22 12:45:28,790 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 80
+2015-09-22 12:45:28,887 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 26 from 35
+2015-09-22 12:45:28,950 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.usabuscharter.com/Business_People_Pinnacle_Jpeg.jpg
+2015-09-22 12:45:29,077 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:45:29,142 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:45:29,154 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:45:29,177 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 142376.0 | local: true
+2015-09-22 12:45:29,195 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 142376.0 | local: false
+2015-09-22 12:45:29,221 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:29,252 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:29,278 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 17.67074203491211
+2015-09-22 12:45:29,289 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 2.7761261463165283
+2015-09-22 12:45:29,301 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 3217.3653453484 | timeRemote: 2931.0878417010863
+2015-09-22 12:45:29,311 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:45:29,323 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 3217.3653453484 | energyRemote: 519.0878417010862
+2015-09-22 12:45:29,335 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 1725.0878417010863 | utilityLocal: 3217.3653453484
+2015-09-22 12:45:29,345 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:45:29,357 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 347
+2015-09-22 12:45:29,366 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:45:29,384 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://www.usabuscharter.com/Business_People_Pinnacle_Jpeg.jpg, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:45:29,393 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:45:29,411 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:45:29,430 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@427c07f8
+2015-09-22 12:45:34,125 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 188 | 83
+2015-09-22 12:45:34,174 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:34,222 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 2.3672733306884766 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:45:34,238 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 2.3672733306884766
+2015-09-22 12:45:34,288 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:45:34,305 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:45:39 GMT, Connection: keep-alive, Content-Length: 7976]
+2015-09-22 12:45:34,321 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:7976
+2015-09-22 12:45:34,350 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 7976 | 313
+2015-09-22 12:45:34,384 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:34,432 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 23.92009162902832 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:45:34,449 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 23.92009162902832
+2015-09-22 12:45:34,522 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 142376.0 | local: false| time: 4468 | rxTxB: 0
+2015-09-22 12:45:34,556 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 5134
+2015-09-22 12:45:34,570 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:45:34,586 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 5577
+2015-09-22 12:45:34,702 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 80
+2015-09-22 12:45:34,740 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 27 from 35
+2015-09-22 12:45:34,799 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://photoblog.statesman.com/wp-content/uploads/2011/09/cv-acl-022.jpg
+2015-09-22 12:45:34,888 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:45:34,931 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:45:34,946 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:45:35,014 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 257668.0 | local: true
+2015-09-22 12:45:35,034 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 257668.0 | local: false
+2015-09-22 12:45:35,061 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:35,094 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:35,123 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 23.92009162902832
+2015-09-22 12:45:35,133 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 2.3672733306884766
+2015-09-22 12:45:35,147 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 9388.571955299692 | timeRemote: 3375.452643927788
+2015-09-22 12:45:35,158 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:45:35,170 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 9388.571955299692 | energyRemote: 337.4526439277878
+2015-09-22 12:45:35,182 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 1856.452643927788 | utilityLocal: 9388.571955299692
+2015-09-22 12:45:35,192 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:45:35,204 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 367
+2015-09-22 12:45:35,213 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:45:35,231 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://photoblog.statesman.com/wp-content/uploads/2011/09/cv-acl-022.jpg, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:45:35,240 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:45:35,260 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:45:35,282 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@426da328
+2015-09-22 12:45:38,936 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 200 | 96
+2015-09-22 12:45:38,974 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:39,026 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 2.1401212215423584 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:45:39,045 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 2.1401212215423584
+2015-09-22 12:45:39,115 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:45:39,135 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:45:43 GMT, Connection: keep-alive, Content-Length: 6051]
+2015-09-22 12:45:39,151 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:6051
+2015-09-22 12:45:39,175 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 6051 | 305
+2015-09-22 12:45:39,216 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:39,262 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 20.655494689941406 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:45:39,279 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 20.655494689941406
+2015-09-22 12:45:39,342 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 257668.0 | local: false| time: 3437 | rxTxB: 0
+2015-09-22 12:45:39,376 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 4103
+2015-09-22 12:45:39,389 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:45:39,405 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 4567
+2015-09-22 12:45:39,546 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 80
+2015-09-22 12:45:39,568 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 28 from 35
+2015-09-22 12:45:39,596 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.francisvachon.com/blog/wp-content/photo/2012/07/crowd-surfing-04.jpg
+2015-09-22 12:45:39,686 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:45:39,715 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:45:39,742 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:45:39,783 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 170255.0 | local: true
+2015-09-22 12:45:39,800 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 170255.0 | local: false
+2015-09-22 12:45:39,828 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:39,863 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:39,892 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 20.655494689941406
+2015-09-22 12:45:39,903 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 2.1401212215423584
+2015-09-22 12:45:39,915 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 3106.298056817816 | timeRemote: 2856.628632223006
+2015-09-22 12:45:39,925 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:45:39,937 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 3106.298056817816 | energyRemote: 398.6286322230063
+2015-09-22 12:45:39,949 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 1627.6286322230062 | utilityLocal: 3106.298056817816
+2015-09-22 12:45:39,958 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:45:39,969 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 340
+2015-09-22 12:45:39,978 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:45:39,996 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://www.francisvachon.com/blog/wp-content/photo/2012/07/crowd-surfing-04.jpg, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:45:40,005 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:45:40,023 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:45:40,034 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@428113c0
+2015-09-22 12:45:42,416 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 207 | 64
+2015-09-22 12:45:42,462 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:42,513 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 3.015524387359619 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:45:42,530 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 3.015524387359619
+2015-09-22 12:45:42,592 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:45:42,608 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:45:47 GMT, Connection: keep-alive, Content-Length: 6236]
+2015-09-22 12:45:42,624 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:6236
+2015-09-22 12:45:42,653 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 6236 | 264
+2015-09-22 12:45:42,688 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:42,735 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 23.0280704498291 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:45:42,751 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 23.0280704498291
+2015-09-22 12:45:42,807 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 170255.0 | local: false| time: 2235 | rxTxB: 0
+2015-09-22 12:45:42,840 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 2809
+2015-09-22 12:45:42,853 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:45:42,868 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 3238
+2015-09-22 12:45:43,017 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 80
+2015-09-22 12:45:43,075 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 29 from 35
+2015-09-22 12:45:43,108 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://newsimg.bbc.co.uk/media/images/44522000/jpg/_44522490_crowd416.jpg
+2015-09-22 12:45:43,209 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:45:43,225 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:45:43,262 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:45:43,336 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 33029.0 | local: true
+2015-09-22 12:45:43,360 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 33029.0 | local: false
+2015-09-22 12:45:43,395 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:43,446 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:43,482 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 23.0280704498291
+2015-09-22 12:45:43,497 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 3.015524387359619
+2015-09-22 12:45:43,516 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 1397.5762118143257 | timeRemote: 1555.6771618580774
+2015-09-22 12:45:43,534 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:45:43,550 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 1397.5762118143257 | energyRemote: 511.6771618580775
+2015-09-22 12:45:43,563 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 1033.6771618580774 | utilityLocal: 1397.5762118143257
+2015-09-22 12:45:43,574 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:45:43,586 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 432
+2015-09-22 12:45:43,596 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:45:43,616 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://newsimg.bbc.co.uk/media/images/44522000/jpg/_44522490_crowd416.jpg, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:45:43,625 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:45:43,649 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:45:43,667 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@427316b0
+2015-09-22 12:45:44,671 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 201 | 176
+2015-09-22 12:45:44,710 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:44,758 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 1.5167412757873535 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:45:44,775 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 1.5167412757873535
+2015-09-22 12:45:44,829 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:45:44,845 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:45:49 GMT, Connection: keep-alive, Content-Length: 10248]
+2015-09-22 12:45:44,862 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:10248
+2015-09-22 12:45:44,889 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 10248 | 300
+2015-09-22 12:45:44,927 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:44,976 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 31.93361473083496 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:45:44,992 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 31.93361473083496
+2015-09-22 12:45:45,064 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 33029.0 | local: false| time: 690 | rxTxB: 0
+2015-09-22 12:45:45,101 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 1441
+2015-09-22 12:45:45,115 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:45:45,135 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 1979
+2015-09-22 12:45:45,251 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 80
+2015-09-22 12:45:45,296 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 30 from 35
+2015-09-22 12:45:45,347 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: https://c1.staticflickr.com/9/8318/8002278966_2907d0183c.jpg
+2015-09-22 12:45:45,453 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:45:45,495 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:45:45,533 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:45:45,579 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 157551.0 | local: true
+2015-09-22 12:45:45,596 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 157551.0 | local: false
+2015-09-22 12:45:45,622 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:45,654 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:45,678 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 31.93361473083496
+2015-09-22 12:45:45,689 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 1.5167412757873535
+2015-09-22 12:45:45,701 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 3153.3463779376925 | timeRemote: 2955.2453845666055
+2015-09-22 12:45:45,713 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:45:45,725 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 3153.3463779376925 | energyRemote: 328.24538456660565
+2015-09-22 12:45:45,738 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 1641.7453845666055 | utilityLocal: 3153.3463779376925
+2015-09-22 12:45:45,747 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:45:45,759 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 362
+2015-09-22 12:45:45,768 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:45:45,790 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=https://c1.staticflickr.com/9/8318/8002278966_2907d0183c.jpg, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:45:45,799 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:45:45,817 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:45:45,835 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@427ddf78
+2015-09-22 12:45:48,356 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 186 | 85
+2015-09-22 12:45:48,396 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:48,443 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 2.05393648147583 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:45:48,466 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 2.05393648147583
+2015-09-22 12:45:48,517 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:45:48,534 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:45:53 GMT, Connection: keep-alive, Content-Length: 6566]
+2015-09-22 12:45:48,550 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:6566
+2015-09-22 12:45:48,576 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 6566 | 247
+2015-09-22 12:45:48,613 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:48,670 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 27.653120040893555 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:45:48,687 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 27.653120040893555
+2015-09-22 12:45:48,745 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 157551.0 | local: false| time: 2355 | rxTxB: 0
+2015-09-22 12:45:48,781 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 2952
+2015-09-22 12:45:48,794 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:45:48,813 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 3413
+2015-09-22 12:45:48,942 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 80
+2015-09-22 12:45:48,994 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 31 from 35
+2015-09-22 12:45:49,015 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.bob-baker.com/self-publish-book/blog/uploaded_images/FanCrowd-782710.PNG
+2015-09-22 12:45:49,103 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:45:49,141 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:45:49,168 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:45:49,255 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 438468.0 | local: true
+2015-09-22 12:45:49,281 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 438468.0 | local: false
+2015-09-22 12:45:49,320 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:49,359 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:49,392 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 27.653120040893555
+2015-09-22 12:45:49,402 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 2.05393648147583
+2015-09-22 12:45:49,415 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 4692.0 | timeRemote: 10661.130695292219
+2015-09-22 12:45:49,427 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:45:49,439 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 4692.0 | energyRemote: 102.72956437698045
+2015-09-22 12:45:49,452 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 5381.9301298346 | utilityLocal: 4692.0
+2015-09-22 12:45:49,465 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: false
+2015-09-22 12:45:49,479 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 410
+2015-09-22 12:45:56,313 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 7245
+2015-09-22 12:45:56,319 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time: 6809
+2015-09-22 12:45:56,336 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 438468.0 | local: true| time: 6809 | rxTxB: 0
+2015-09-22 12:45:56,375 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 80
+2015-09-22 12:45:56,389 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 32 from 35
+2015-09-22 12:45:56,406 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg
+2015-09-22 12:45:56,440 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:45:56,457 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:45:56,475 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:45:56,512 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 139287.0 | local: true
+2015-09-22 12:45:56,539 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 139287.0 | local: false
+2015-09-22 12:45:56,576 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:56,618 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:56,638 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 27.653120040893555
+2015-09-22 12:45:56,644 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 2.05393648147583
+2015-09-22 12:45:56,651 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 3227.3074657293846 | timeRemote: 2637.4061195267745
+2015-09-22 12:45:56,657 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:45:56,664 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 3227.3074657293846 | energyRemote: 351.4061195267746
+2015-09-22 12:45:56,672 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 1494.4061195267745 | utilityLocal: 3227.3074657293846
+2015-09-22 12:45:56,677 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:45:56,684 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 265
+2015-09-22 12:45:56,690 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:45:56,700 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://top100festivals.com/wp-content/uploads/2012/05/festival-crowd-girls.jpg, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:45:56,706 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:45:56,718 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:45:56,737 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@429ccd90
+2015-09-22 12:45:59,007 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 206 | 70
+2015-09-22 12:45:59,046 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:59,093 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 2.76507306098938 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:45:59,109 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 2.76507306098938
+2015-09-22 12:45:59,158 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:45:59,174 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:46:03 GMT, Connection: keep-alive, Content-Length: 6944]
+2015-09-22 12:45:59,191 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:6944
+2015-09-22 12:45:59,217 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 6944 | 326
+2015-09-22 12:45:59,260 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:59,310 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 22.571115493774414 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:45:59,327 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 22.571115493774414
+2015-09-22 12:45:59,398 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 139287.0 | local: false| time: 2027 | rxTxB: 0
+2015-09-22 12:45:59,435 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 2706
+2015-09-22 12:45:59,448 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:45:59,468 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 3045
+2015-09-22 12:45:59,585 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 81
+2015-09-22 12:45:59,625 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 33 from 35
+2015-09-22 12:45:59,659 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://cdn.bleedingcool.net/wp-content/uploads/2013/05/the-it-crowd-s2e1-20081218145048-1_625x352.jpg?f6a06b
+2015-09-22 12:45:59,737 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:45:59,761 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:45:59,796 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:45:59,826 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 46166.0 | local: true
+2015-09-22 12:45:59,846 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 46166.0 | local: false
+2015-09-22 12:45:59,879 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:59,919 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:45:59,949 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 22.571115493774414
+2015-09-22 12:45:59,962 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 2.76507306098938
+2015-09-22 12:45:59,978 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 2265.839656071795 | timeRemote: 1715.1129503114555
+2015-09-22 12:45:59,990 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:46:00,012 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 2265.839656071795 | energyRemote: 308.11295031145545
+2015-09-22 12:46:00,037 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 1011.6129503114555 | utilityLocal: 2265.839656071795
+2015-09-22 12:46:00,050 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:46:00,061 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 355
+2015-09-22 12:46:00,069 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:46:00,104 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://cdn.bleedingcool.net/wp-content/uploads/2013/05/the-it-crowd-s2e1-20081218145048-1_625x352.jpg?f6a06b, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:46:00,113 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:46:00,130 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:46:00,151 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@42d1a538
+2015-09-22 12:46:01,572 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 236 | 187
+2015-09-22 12:46:01,612 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:46:01,658 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 1.5626403093338013 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:46:01,675 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 1.5626403093338013
+2015-09-22 12:46:01,731 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:46:01,748 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:46:06 GMT, Connection: keep-alive, Content-Length: 5028]
+2015-09-22 12:46:01,764 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:5028
+2015-09-22 12:46:01,788 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 5028 | 280
+2015-09-22 12:46:01,822 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:46:01,868 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 18.87993812561035 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:46:01,885 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 18.87993812561035
+2015-09-22 12:46:01,940 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 46166.0 | local: false| time: 1111 | rxTxB: 0
+2015-09-22 12:46:01,974 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 1832
+2015-09-22 12:46:01,988 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:46:02,003 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 2297
+2015-09-22 12:46:02,135 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---- BATTERY LEVEL: 81
+2015-09-22 12:46:02,178 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - -----pos: 34 from 35
+2015-09-22 12:46:02,208 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ------------- url: http://www.clarity-research.net/wp-content/uploads/2015/03/we-serve.jpg
+2015-09-22 12:46:02,311 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - ================ shouldOffload: network state: 0
+2015-09-22 12:46:02,347 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == Alpha parameter: 0.5
+2015-09-22 12:46:02,377 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - == method: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)>
+2015-09-22 12:46:02,446 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 129914.0 | local: true
+2015-09-22 12:46:02,478 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - interpolateAssessment asses: 129914.0 | local: false
+2015-09-22 12:46:02,518 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:46:02,560 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:46:02,586 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthDownload: 18.87993812561035
+2015-09-22 12:46:02,597 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: bandwidthUpload: 1.5626403093338013
+2015-09-22 12:46:02,609 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: timeLocal: 3243.443419384156 | timeRemote: 3191.921796328406
+2015-09-22 12:46:02,619 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: interpolateLocal[1]: 0.0
+2015-09-22 12:46:02,631 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: energyLocal: 3243.443419384156 | energyRemote: 492.9217963284058
+2015-09-22 12:46:02,643 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: utilityRemote: 1842.421796328406 | utilityLocal: 3243.443419384156
+2015-09-22 12:46:02,653 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - shouldOffload: Res: true
+2015-09-22 12:46:02,664 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> OVERHEAD (ms): 409
+2015-09-22 12:46:02,674 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intecept
+2015-09-22 12:46:02,691 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - {@arg0=http://www.clarity-research.net/wp-content/uploads/2015/03/we-serve.jpg, @this=br.com.lealdn.fd.FaceUtils@425b2fb0}
+2015-09-22 12:46:02,700 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Intercept DONE.
+2015-09-22 12:46:02,719 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize calling sendFile..
+2015-09-22 12:46:02,736 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - sendFile: upload size: [B@42d1a538
+2015-09-22 12:46:05,356 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 199 | 149
+2015-09-22 12:46:05,399 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:46:05,446 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 1.3809845447540283 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:46:05,463 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-upBand | 1.3809845447540283
+2015-09-22 12:46:05,519 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - status: 200
+2015-09-22 12:46:05,535 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - [Content-Type: application/octet-stream, Date: Tue, 22 Sep 2015 15:46:10 GMT, Connection: keep-alive, Content-Length: 6902]
+2015-09-22 12:46:05,557 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - Lneght:6902
+2015-09-22 12:46:05,582 - [DEBUG::br.com.lealdn.offload.utils.Utils::br.com.lealdn.offload.utils.Utils] - s: 6902 | 248
+2015-09-22 12:46:05,620 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - getBandwidth: NetworkState: 0
+2015-09-22 12:46:05,668 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - LocationBasedBandwidth [WIFI] 26.040504455566406 | network: 0 | ssid: "Bond, James Bond"
+2015-09-22 12:46:05,686 - [DEBUG::br.com.lealdn.offload.BandwidthManager::br.com.lealdn.offload.BandwidthManager] - BandwidthValue: key: rtt-downBand | 26.040504455566406
+2015-09-22 12:46:05,755 - [DEBUG::br.com.lealdn.offload.ExecutionManager::br.com.lealdn.offload.ExecutionManager] - updateMethodRuntimeAssessment: sig: <br.com.lealdn.fd.FaceUtils: byte[] getFacesMarkedFromUri(java.lang.String)> asses: 129914.0 | local: false| time: 2387 | rxTxB: 0
+2015-09-22 12:46:05,792 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept] - *updateMethodRuntime** delta time REMOTE: 3063
+2015-09-22 12:46:05,806 - [DEBUG::br.com.lealdn.offload.Intercept::br.com.lealdn.offload.Intercept$1] - sendAndSerialize finished sendFile..
+2015-09-22 12:46:05,830 - [DEBUG::br.com.lealdn.fd.FaceUtils::br.com.lealdn.fd.FaceUtils] - ---> Total time (ms): 3574
+2015-09-22 12:46:05,946 - [DEBUG::br.com.lealdn.fd.MainActivity::br.com.lealdn.fd.MainActivity$3$1] - ---------- TEST FINISHED. BATTERY LEVEL: 81
